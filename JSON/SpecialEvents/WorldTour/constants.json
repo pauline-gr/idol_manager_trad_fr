@@ -1,0 +1,22 @@
+{
+	"capacity": [500, 2500, 8000, 15000, 30000],
+	"costCoeff": [20, 100, 320, 600, 1200],
+	"areas": [
+		{
+			"type": "asia",
+			"saving": 0.5
+		},{
+			"type": "africa",
+			"saving": 1
+		},{
+			"type": "namerica",
+			"saving": 0.9
+		},{
+			"type": "samerica",
+			"saving": 0.6
+		},{
+			"type": "europe",
+			"saving": 0.8
+		}
+	]
+}

@@ -1,0 +1,106 @@
+﻿[
+	{
+		"id": 0,
+		"title": "Digital Only Release",
+		"unlocked": true,
+		"cost": -1,
+		"physical": false,
+		"digital_only": true,
+		"max_level": 1,
+		"description": "{green}Removes costs associated with physical releases{/color}{linebreak}{red}Fans can't buy more than one copy\nPhysical bonuses are not available{/color}"
+	},{
+		"id": 1,
+		"title": "Individual Handshake Event",
+		"unlocked": true,
+		"cost": 0.5,
+		"physical": true,
+		"cost_stamina": 50,
+		"girl_multiplier": true,
+		"individual_handshake": true,
+		"description": "Fans get a ticket for a handshake with one of the idols{linebreak}Hardcore fans buy {hardcore_multi} more copies\n({hardcore} per idol){linebreak}Stamina: {cost_stamina} for every idol in the group\nCost per CD: {cost_CD}",
+		"appeal": {
+			"hardcore": [0.05, 0.06, 0.07, 0.08, 0.09, 0.1, 0.11, 0.12, 0.13, 0.15]
+		}
+	},{
+		"id": 2,
+		"title": "Group Handshake Event",
+		"unlocked": true,
+		"cost": 0.5,
+		"physical": true,
+		"cost_stamina": 20,
+		"group_handshake": true,
+		"description": "Fans get a ticket for a handshake with all of the idols{linebreak}Hardcore fans buy {hardcore} more copies{linebreak}Stamina: {cost_stamina} for every idol in the group\nCost per CD: {cost_CD}",
+		"appeal": {
+			"hardcore": [0.3, 0.32, 0.34, 0.36, 0.38, 0.4, 0.42, 0.44, 0.48, 0.5]
+		}
+	}
+	,{
+		"id": 3,
+		"title": "Random Photo",
+		"unlocked": true,
+		"cost": 0.05,
+		"physical": true,
+		"description": "Hardcore fans buy {hardcore} more copies{linebreak}Cost per CD: {cost_CD}",
+		"appeal": {
+			"hardcore": [0.05, 0.06, 0.07, 0.08, 0.09, 0.1, 0.11, 0.12, 0.13, 0.15]
+		}
+	},{
+		"id": 4,
+		"title": "DVD Specials",
+		"unlocked": true,
+		"cost": 0.1,
+		"minimal_cost": 100000,
+		"physical": true,
+		"description": "Hardcore fans buy {hardcore} more copies\nCasual fans buy {casual} more copies{linebreak}Cost per CD: {cost_CD}\nCost: {cost}",
+		"appeal": {
+			"casual": [0.05, 0.06, 0.07, 0.08, 0.09, 0.1, 0.11, 0.12, 0.13, 0.15],
+			"hardcore": [0.05, 0.06, 0.07, 0.08, 0.09, 0.1, 0.11, 0.12, 0.13, 0.15]
+		}
+	},{
+		"id": 5,
+		"title": "2-shot Event",
+		"unlocked": true,
+		"cost": 0.5,
+		"cost_stamina": 75,
+		"physical": true,
+		"description": "Hardcore fans buy {hardcore} more copies\nCasual fans buy {casual} more copies{linebreak}Stamina: {cost_stamina} for every idol in the group\nCost per CD: {cost_CD}",
+		"appeal": {
+			"casual": [0.1, 0.11, 0.12, 0.13, 0.14, 0.15, 0.16, 0.17, 0.18, 0.2],
+			"hardcore": [0.5, 0.55, 0.6, 0.65, 0.7, 0.75, 0.8, 0.85, 0.9, 1]
+		}
+	},{
+		"id": 6,
+		"title": "Bikini PV",
+		"unlocked": true,
+		"cost": 0.5,
+		"minimal_cost": 100000,
+		"physical": false,
+		"appeal": {
+			"male": [0.3, 0.32, 0.34, 0.36, 0.38, 0.4, 0.42, 0.44, 0.48, 0.5],
+			"female": [-0.3, -0.3, -0.3, -0.3, -0.3, -0.2, -0.2, -0.2, -0.2, -0.1]
+		}
+	},{
+		"id": 7,
+		"title": "Viral Campaign",
+		"unlocked": true,
+		"minimal_cost": 1000000,
+		"physical": false,
+		"success": [0.3, 0.33, 0.36, 0.39, 0.42, 0.45, 0.48, 0.51, 0.55, 0.6],
+		"description": "Casual fans buy {casual} more copies, but only if the campaign is successful{linebreak}Probability of success: {success}\nCost: {cost}",
+		"appeal": {
+			"casual": [0.5, 0.55, 0.6, 0.65, 0.7, 0.75, 0.8, 0.85, 0.9, 1]
+		}
+	},{
+		"id": 8,
+		"title": "Fake Scandal",
+		"unlocked": true,
+		"minimal_cost": 100000,
+		"physical": false,
+		"buzz": [2, 2.1, 2.2, 2.3, 2.4, 2.5, 2.6, 2.7, 2.85, 3],
+		"description": "{buzz} buzz on release{linebreak}Hardcore fans buy {hardcore} less copies\nCost: {cost}",
+		"appeal": {
+			"hardcore": [-0.2, -0.2, -0.2, -0.2, -0.2, -0.25, -0.25, -0.3, -0.4, -0.5]
+		}
+	}
+]
+

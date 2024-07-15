@@ -1,0 +1,4702 @@
+[
+	{
+		id: "CONTINUE",
+		text: "Continuer"
+	},{
+		id: "CANCEL",
+		text: "Annuler"
+	},{
+		id: "CLOSE",
+		text: "Fermer"
+	},{
+		id: "START",
+		text: "Commencer"	
+	},{
+		id: "DELETE",
+		text: "Supprimer"	
+	},{
+		id: "LOAD",
+		text: "Charger"	
+	},{
+		id: "SAVE",
+		text: "Sauvegarder"	
+	},{
+		id: "BACK",
+		text: "Retour"	
+	},{
+		id: "APPLY",
+		text: "Appliquer"	
+	},{
+		id: "FINISH",
+		text: "Terminer"
+	},
+
+
+	{
+		id: "MM_NEW_GAME",
+		text: "Nouvelle partie"	
+	},{
+		id: "MM_LOAD_GAME",
+		text: "Charger la partie"	
+	},{
+		id: "MM_MODS",
+		text: "Mods"	
+	},{
+		id: "MM_OPTIONS",
+		text: "Options"	
+	},{
+		id: "MM_QUIT",
+		text: "Quitter"	
+	},{
+		id: "MM_FIRST_NAME",
+		text: "Prénom"	
+	},{
+		id: "MM_LAST_NAME",
+		text: "Nom"	
+	},{
+		id: "MM_GROUP_NAME",
+		text: "Nom du groupe"	
+	},{
+		id: "MM_INTRO",
+		text: "Intro"	
+	},{
+		id: "MM_POLICIES_DIALOGUE",
+		text: "Politiques"	
+	},{
+		id: "MM_SUBSTORIES",
+		text: "Sous-histoires"	
+	},{
+		id: "MM_RANDOM_EVENTS",
+		text: "Évènements aléatoires"	
+	},{
+		id: "MM_DATING_SCANDALS",
+		text: "Scandales amoureux"	
+	},
+
+	{
+		id: "MM_RUN_IN_BACKGROUND",
+		text: "Exécuter en arrière-plan"
+	},{
+		id: "MM_BG_MUSIC",
+		text: "Musique de fond"
+	},{
+		id: "MM_STORY_MUSIC",
+		text: "Musique de l'histoire"
+	},{
+		id: "MM_AMBIENT",
+		text: "Ambiance"
+	},{
+		id: "MM_SOUND",
+		text: "Son"
+	},{
+		id: "MM_LANGUAGE",
+		text: "Langue"
+	}
+
+	{
+		id: "MM_NEW_SAVE",
+		text: "Nouvelle sauvegarde"
+	},{
+		id: "MM_OVERWRITE",
+		text: "Êtes-vous sûr de vouloir écraser cette sauvegarde ?"	
+	},{
+		id: "MM_DELETE",
+		text: "Êtes-vous sûr de vouloir supprimer cette sauvegarde ?"	
+	},{
+		id: "MM_NO_SCREENSHOT",
+		text: "Aucune capture d'écran disponible"	
+	},
+
+	{
+		id: "MM_NEW_PLAYER_WARNING",
+		text: "Bienvenue sur la bêta d'Idol Manager !\n\nCette bêta est encore incomplète et certaines fonctionnalités prévues pour le jeu final ne sont pas encore incluses. Bien que de nombreux systèmes de jeu principaux soient en place, des parties significatives de l'histoire ne sont pas encore incluses, et nous travaillons toujours sur de nouvelles fonctionnalités et du contenu qui seront ajoutés dans les futures mises à jour.\n\nLes fonctionnalités suivantes ne font pas encore partie d'Idol Manager, mais seront ajoutées dans les prochaines mises à jour :\n\n- Relations entre les idoles (y compris le harcèlement et les cliques)\n- Expansion du système de relation entre idoles/joueur avec des rencontres\n- Cérémonies de remise de prix (un nouveau type d'événement spécial)\n- Tableaux des ventes pour les singles\n- Contenu de l'histoire principale : une histoire plus impliquée, y compris certains événements qui affecteront le gameplay\n- Divers autres contenus (y compris l'augmentation du nombre de sous-histoires et d'événements possibles à mesure que l'histoire se développe)\n\nDe nouvelles fonctionnalités, systèmes de jeu et contenu sont ajoutés au jeu dans des mises à jour mensuelles. Comme le jeu est encore en développement, dans cette version bêta, <b>vous pouvez rencontrer des bugs ou des problèmes de performance, et les futures mises à jour peuvent rompre la compatibilité avec les anciens fichiers de sauvegarde.</b>\n\nPour plus d'informations sur les futures mises à jour prévues pour Idol Manager, et les notes de patch détaillant ce qui est nouveau dans cette version, visitez <link=\"https://www.kickstarter.com/projects/kuiper/idol-manager/updates\"><color=#777BBA>notre page de mises à jour</color></link>"
+	},{
+		id: "MM_UNDERSTAND",
+		text: "Je comprends, maintenant laissez-moi jouer !"
+	},
+
+
+	{
+		id: "LP_TITLE__ACTIVITIES",
+		text: "Activités"
+	},{
+		id: "LP_TITLE__IDOLS",
+		text: "Idoles"
+	},{
+		id: "LP_TITLE__STAFF",
+		text: "Personnel"
+	},{
+		id: "LP_TITLE__SINGLES",
+		text: "Singles"
+	},{
+		id: "LP_TITLE__MEDIA",
+		text: "Médias"
+	},{
+		id: "LP_TITLE__SPECIALEVENTS",
+		text: "Évènements spéciaux"
+	},{
+		id: "LP_TITLE__RESEARCH",
+		text: "Recherche"
+	},{
+		id: "LP_TITLE__POLICIES",
+		text: "Politiques"
+	},{
+		id: "LP_TITLE__SNS",
+		text: "Réseaux sociaux"
+	},{
+		id: "LP_TITLE__SETTINGS",
+		text: "Paramètres"
+	},
+
+	{
+		id: "ACTIVITIES__PERFORMANCE",
+		text: "Spectacle"
+	},{
+		id: "ACTIVITIES__PROMOTION",
+		text: "Promotion"
+	},{
+		id: "ACTIVITIES__SPATREATMENT",
+		text: "Relaxation au SPA"
+	},{
+		id: "ACTIVITIES__HIRE_IDOLS",
+		text: "Embaucher des idoles"
+	},{
+		id: "ACTIVITIES__RELEASEASINGLE",
+		text: "Sortir un single"
+	},{
+		id: "ACTIVITIES__SINGLESALES",
+		text: "Ventes de singles"
+	},{
+		id: "ACTIVITIES__HOLDCONCERT",
+		text: "Organiser un concert"
+	},{
+		id: "ACTIVITIES__GENRELEVEL",
+		text: "Niveau le plus élevé du genre [Single]"
+	},{
+		id: "ACTIVITIES__CONCERTHYPE",
+		text: "Finir un concert avec"
+	},{
+		id: "ACTIVITIES__ELECTIONVOTES",
+		text: "[Election] Votes pour votre idole #1"
+	},{
+		id: "ACTIVITIES__CONCERTAUDIENCE",
+		text: "[Concert] Top audience: "
+	},{
+		id: "ACTIVITIES__WORLDTOUR",
+		text: "[World Tour] Niveau national le plus élevé"
+	},{
+		id: "ACTIVITIES__WORLDTOUR",
+		text: "[World Tour] Niveau national le plus élevé"
+	},{
+		id: "ACTIVITIES__MAGAZINES",
+		text: "Apparaître dans des magazines"
+	},{
+		id: "ACTIVITIES__INTERNETSHOW",
+		text: "Lancer une émission sur Internet"
+	},{
+		id: "ACTIVITIES__INTERNETPEAK",
+		text: "Pic de popularité sur Internet"
+	},{
+		id: "ACTIVITIES__RADIOSHOW",
+		text: "Lancer une émission de radio"
+	},{
+		id: "ACTIVITIES__TVSHOW",
+		text: "Lancer une émission de télévision"
+	},{
+		id: "ACTIVITIES__FAMEVARIETY",
+		text: "Points de célébrité pour une émission de variétés"
+	},{
+		id: "ACTIVITIES__FAMEDRAMA",
+		text: "Points de célébrité pour une série TV"
+	},{
+		id: "ACTIVITIES__TOUREVERY",
+		text: "Faire une tournée dans chaque pays"
+	},{
+		id: "ACTIVITIES__IDOLSLEVEL",
+		text: "Idoles avec le niveau"
+	},{
+		id: "ACTIVITIES__IDOLSWITH",
+		text: "Idoles avec"
+	},{
+		id: "ACTIVITIES__MAXEDOUT",
+		text: "a maximisé ses stats"
+	}, {
+		id: "ACTIVITIES__ALLIDOLS",
+		text: "Toutes les idoles"
+	},{
+		id: "ACTIVITIES__SPA_1",
+		text: "les idoles avec le plus faible niveau de santé restaurent"
+	},{
+		id: "ACTIVITIES__SPA_2",
+		text: "de ça"
+	},{
+		id: "ACTIVITIES__PRODUCER",
+		text: "Améliorez le niveau de votre producteur (production et paramètres d'influence) pour pouvoir mettre en file d'attente des activités"
+	},{
+		id: "ACTIVITIES__MAXQUEUE",
+		text: "Max de la file d'attente"
+	},{
+		id: "ACTIVITIES__PRODUCER_LEVELUP",
+		text: "Améliorez le niveau de votre producteur (production et paramètres d'influence) pour pouvoir mettre en file d'attente plus d'activités"
+	},
+
+	{
+		id: "AUDITION",
+		text: "Audition"
+	},{
+		id: "AUDITIONS",
+		text: "Auditions"
+	},{
+		id: "AUDITION__LOCAL",
+		text: "Locale"
+	},{
+		id: "AUDITION__REGIONAL",
+		text: "Regionale"
+	},{
+		id: "AUDITION__NATIONWIDE",
+		text: "Nationale"
+	},{
+		id: "AUDITION__HINT",
+		text: "Faites glisser et déposez une idole dans cette salle pour changer son salaire et son surnom"
+	},{
+		id: "AUDITION__CAN_PRODUCE_AGAIN",
+		text: "Peut produire à nouveau dans @ jours"
+	},{
+		id: "AUDITION__REGIONAL_GRNT",
+		text: "1 idole d'argent garantie"
+	},{
+		id: "AUDITION__NATIONWIDE_GRNT",
+		text: "1 idole d'or garantie"
+	},{
+		id: "AUDITION__DROP_RATES",
+		text: "Les chances de rareté s'appliquent à chaque idole de l'audition"
+	},{
+		id: "AUDITION__HIRE",
+		text: "Embaucher"
+	},
+	
+	{
+		id: "BIZ",
+		text: "Affaires"
+	},{
+		id: "BIZ__PROPOSAL",
+		text: "Proposition d'affaires"
+	},{
+		id: "BIZ__PROPOSALS",
+		text: "Propositions d'affaires"
+	},{
+		id: "BIZ__TASK_COMPLETE",
+		text: "Accepter cette proposition valide une tâche"
+	},{
+		id: "BIZ__WISH_FULFILL_1",
+		text: "Accepting this proposal fulfills"
+		text: "Accepter cette proposition valide une tâche"
+	},{
+		id: "BIZ__WISH_FULFILL_2",
+		text: " serait ravie"
+	},{
+		id: "BIZ__DURATION",
+		text: "Durée"
+	},{
+		id: "BIZ__PAYMENT",
+		text: "Paiement"
+	},{
+		id: "BIZ__LIABILITY",
+		text: "Responsabilité"
+	},{
+		id: "BIZ__NEW_FANS",
+		text: "Nouveaux fans"
+	},{
+		id: "BIZ__NEGOTIATIONS",
+		text: "Négociations"
+	},{
+		id: "BIZ__AD_SHORT",
+		text: "Publicité"
+	},{
+		id: "BIZ__PHOTOSHOOT",
+		text: "Séance photo"
+	},{
+		id: "BIZ__DRAMA_SHORT",
+		text: "TV"
+	},{
+		id: "BIZ__VARIETY",
+		text: "Variété"
+	},{
+		id: "BIZ__DURATION_ONE",
+		text: "Durée: Une seule séance"
+	},{
+		id: "BIZ__DURATION",
+		text: "Durée"
+	},{
+		id: "BIZ__AVG",
+		text: "Valeur moyenne"
+	},{
+		id: "BIZ__CONTACTS",
+		text: "Contacts d'affaires"
+	},{
+		id: "BIZ__CONTRACT_TERMINATED",
+		text: "Contrat terminé avec"
+	},{
+		id: "BIZ__CONTRACT_TERMINATED_2",
+		text: "Contrat terminé"
+	},{
+		id: "BIZ__DAMAGES",
+		text: "Dommages"
+	},{
+		id: "BIZ__BROKEN_CONTRACTS",
+		text: "Contrats rompus"
+	},{
+		id: "BIZ__SUCCESS_RATE",
+		text: "Taux de réussite"
+	},{
+		id: "BIZ__NEGOT_SUCCESS",
+		text: "Succès des négociations"
+	},{
+		id: "BIZ__NEGOT_FAILURE",
+		text: "Échec des négociations"
+	},{
+		id: "BIZ__NEGOT_COEFF",
+		text: "@% au paiement"
+	},{
+		id: "BIZ__DEALS_FASTER",
+		text: "Les négociations sont 25% plus rapides"
+	},{
+		id: "BIZ__PROD_FASTER",
+		text: "La production est 25% plus rapide"
+	},{
+		id: "BIZP__IDOL",
+		text: "Idole"
+	},{
+		id: "BIZP__TYPE",
+		text: "Type"
+	},{
+		id: "BIZP__PAYMENT",
+		text: "Paiement /s"
+	},{
+		id: "BIZP__NEW_FANS",
+		text: "Nouveaux Fans /s"
+	},{
+		id: "BIZP__STAMINA",
+		text: "Santé /s"
+	},{
+		id: "BIZP__WEEKS_LEFT",
+		text: "Semaines restantes"
+	},{
+		id: "BIZP__LIABILITY",
+		text: "Responsabilité"
+	},{
+		id: "BIZ__ACCEPT",
+		text: "Accepter"
+	},{
+		id: "BIZ__DECLINE",
+		text: "Refuser"
+	},{
+		id: "BIZ__NEGOTIATIONS",
+		text: "Négociations"
+	},
+
+	{
+		id: "POLICY__FREE_1",
+		text: "Vous pouvez modifier cette politique gratuitement jusqu'à"
+	},{
+		id: "POLICY__FREE_2",
+		text: "ou jusqu'à ce que vous sortiez votre premier single"
+	},
+
+	{
+		id: "SINGLE",
+		text: "Single"
+	},{
+		id: "SINGLES",
+		text: "Singles"
+	},{
+		id: "SINGLE__LYRICS",
+		text: "Paroles"
+	},{
+		id: "SINGLE__CHOREO",
+		text: "Chorégraphie"
+	},{
+		id: "SINGLE__CHOREO_SHORT",
+		text: "Choré"
+	},{
+		id: "SINGLE__SONG",
+		text: "Chanson"
+	},{
+		id: "SINGLE__MARKETING",
+		text: "Marketing"
+	},{
+		id: "SINGLE__GENRE",
+		text: "Genre"
+	},{
+		id: "SINGLE__PROFIT",
+		text: "Profit"
+	},{
+		id: "SINGLE__BUZZ_ON_RELEASE",
+		text: "Buzz à la sortie"
+	},{
+		id: "SINGLE__PROD_COST",
+		text: "Coût de production"
+	},{
+		id: "SINGLE__NO_MONEY",
+		text: "Pas assez d'argent"
+	},{
+		id: "SINGLE__NO_IDOLS",
+		text: "Vous ne pouvez pas lancer un single sans idole dans la formation"
+	},{
+		id: "SINGLE__INJURED",
+		text: "Il y a des idoles dans la formation qui sont blessées / en pause. Vous devez soit les retirer de la formation, soit attendre qu'elles récupèrent."
+	},{
+		id: "SINGLE__TOO_OFTEN",
+		text: "Sortir des singles trop souvent réduit considérablement les ventes"
+	},{
+		id: "SINGLE__CANCELING",
+		text: "Annuler le single annulera également l'événement de l'élection !"
+	},{
+		id: "SINGLE__TITLE",
+		text: "Titre"
+	},{
+		id: "SINGLE__SALES",
+		text: "Ventes"
+	},{
+		id: "SINGLE__PROFIT",
+		text: "Profit"
+	},{
+		id: "SINGLE__PREV_SALES",
+		text: "Ventes du single précédent"
+	},{
+		id: "SINGLE__COST",
+		text: "Coût"
+	},{
+		id: "SINGLE__REVENUE",
+		text: "Revenu"
+	},{
+		id: "SINGLE__PER_CD",
+		text: "par CD"
+	},{
+		id: "SINGLE__OTHER_EXP",
+		text: "Autres dépenses"
+	},{
+		id: "SINGLE__ENTER_NUMBER",
+		text: "Entrez un nombre de CDs à produire"
+	},{
+		id: "SINGLE__APPEAL",
+		text: "Attractivité"
+	},{
+		id: "SINGLE__QTY",
+		text: "Nombre de CDs à produire"
+	},{
+		id: "SINGLE__FORMATION",
+		text: "Formation"
+	},
+
+	{
+		id: "MEDIA",
+		text: "Média"
+	},{
+		id: "MEDIA__CONCEPT",
+		text: "Concept"
+	},{
+		id: "MEDIA__PREPROD",
+		text: "Pré-Production"
+	},{
+		id: "MEDIA__PROD",
+		text: "Production"
+	},{
+		id: "MEDIA__PRODUCTION",
+		text: "Production"
+	},
+
+	{
+		id: "SEVENT",
+		text: "Évènement spécial"
+	},{
+		id: "SEVENTS",
+		text: "Évènements spéciaux"
+	},
+
+	{
+		id: "AGENCY__NOT_ENOUGH_STAMINA",
+		text: "Pas assez de santé"
+	},{
+		id: "AGENCY__LOAN_TAKEN",
+		text: "Emprunt souscrit"
+	},{
+		id: "AGENCY__CHOREO_DONE",
+		text: "Chorégraphie Apprise"
+	},{
+		id: "AGENCY__SONG_DONE",
+		text: "Chanson Enregistrée"
+	},{
+		id: "AGENCY__MARKETING_DONE",
+		text: "Plan Marketing développé"
+	},{
+		id: "AGENCY__LYRICS_DONE",
+		text: "Paroles Ecrites"
+	},{
+		id: "AGENCY__SHOW_PROD_DONE",
+		text: "Équipe réunie"
+	},{
+		id: "AGENCY__CONCEPT_DONE",
+		text: "Concept développé"
+	},{
+		id: "AGENCY__SSK_PROD_DONE",
+		text: "Contrats signés"
+	},{
+		id: "AGENCY__SSK_CONCEPT_DONE",
+		text: "Concept développé"
+	},{
+		id: "AGENCY__PRODUCTION",
+		text: "Production"
+	},{
+		id: "AGENCY__LOGISTICS",
+		text: "Logistique"
+	},{
+		id: "AGENCY__DANCE_DONE",
+		text: "Chorégraphie répétée"
+	},{
+		id: "AGENCY__REHEARSAL",
+		text: "Répétition"
+	},{
+		id: "AGENCY__BIZ_FAILED",
+		text: "Échec de la négociation"
+	},{
+		id: "AGENCY__YOUR_OFFICE",
+		text: "Votre bureau"
+	},{
+		id: "AGENCY__REC_STUDIO",
+		text: "Studio d'enregistrement"
+	},{
+		id: "AGENCY__DANCE_ROOM",
+		text: "Salle de danse"
+	},{
+		id: "AGENCY__OFFICE",
+		text: "Bureau"
+	},{
+		id: "AGENCY__BREAK_ROOM",
+		text: "Salle de repos"
+	},{
+		id: "AGENCY__DOCTORS_OFFICE",
+		text: "Cabinet médical"
+	},{
+		id: "AGENCY__DRESSING_ROOM",
+		text: "Loge"
+	},{
+		id: "AGENCY__CAFE",
+		text: "Café"
+	},{
+		id: "AGENCY__THEATER",
+		text: "Théâtre"
+	},{
+		id: "AGENCY__COACHING",
+		text: "Coaching"
+	},{
+		id: "AGENCY__STYLING",
+		text: "Stylisme"
+	},{
+		id: "AGENCY__DESIGN_PROJECT",
+		text: "Conception du projet"
+	},{
+		id: "AGENCY__DESIGN_PROJECT_HINT",
+		text: "Augmenter l'attractivité d'un aspect visuel pour une démographie"
+	},{
+		id: "AGENCY__HIATUS_HINT_1",
+		text: "Lorsqu'une idole est blessée ou déprimée, elle est mise en arrêt maladie pour récupérer"
+	},{
+		id: "AGENCY__HIATUS_HINT_2",
+		text: "Le traitement du médecin réduit la durée de l'arrêt maladie, et il y a une chance que l'idole récupère complètement après le traitement sans besoin d'arrêt maladie"
+	},{
+		id: "AGENCY__LOWEST_STAMINA",
+		text: "idoles avec le plus faible niveau de santé"
+	},{
+		id: "AGENCY__RESTORE_1",
+		text: "Restaurer"
+	},{
+		id: "AGENCY__RESTORE_2",
+		text: "une fois par jour"
+	},{
+		id: "AGENCY__RESTORE_3",
+		text: "Construire plus de salles de repos permettra"
+	},{
+		id: "AGENCY__RESTORE_4",
+		text: "plus de vos idoles pour restaurer la santé"
+	},{
+		id: "AGENCY__RENT",
+		text: "Loyer"
+	},{
+		id: "AGENCY__FLOOR_NO_RENT",
+		text: "Le loyer de cet étage est gratuit"
+	},{
+		id: "AGENCY__DAYS_LEFT",
+		text: "@ jours restants"
+	},{
+		id: "AGENCY__DAY_LEFT",
+		text: "1 jour restant"
+	},{
+		id: "AGENCY__TREATMENT",
+		text: "Traitement"
+	},{
+		id: "AGENCY__STYLING_SHORT",
+		text: "Stylisme"
+	},{
+		id: "AGENCY__MAX_LEVEL",
+		text: "Niveau max"
+	},
+
+	{
+		id: "CM__DEFAULT",
+		text: "Défaut"
+	},{
+		id: "CM__AGE",
+		text: "Âge"
+	},{
+		id: "CM__MENTAL_STAMINA_COST",
+		text: "Coût en santé mentale"
+	},{
+		id: "CM__INJURED_IDOLS",
+		text: "Les idoles blessées ne peuvent pas revenir de leur arrêt maladie plus tôt"
+	},{
+		id: "CM__HIATUS",
+		text: "Arrêt maladie"
+	},{
+		id: "CM__HIATUS_NOT_NEEDED",
+		text: "Arrêt maladie non nécessaire"
+	},{
+		id: "CM__CANCEL_HIATUS",
+		text: "Annuler l'arrêt maladie"
+	},{
+		id: "CM__DAYS",
+		text: "@ jours"
+	},{
+		id: "CM__FANS_TO_UNLOCK",
+		text: "@ fans pour débloquer"
+	},{
+		id: "CM__SELL_CDS",
+		text: "Vendez @ CDs pour débloquer"
+	},{
+		id: "CM__BY_TYPE",
+		text: "Par type"
+	},{
+		id: "CM__BY_LEVEL",
+		text: "Par niveau"
+	},{
+		id: "CM__CLICK_LMB",
+		text: "Cliquez avec le bouton gauche de la souris pour le menu contextuel"
+	},
+
+	{
+		id: "SALARIES",
+		text: "Salaires"
+	},{
+		id: "SALARIES__NAME",
+		text: "Idole"
+	},{
+		id: "SALARIES__SALARY",
+		text: "Salaire"
+	},{
+		id: "SALARIES__SATISFACTION",
+		text: "Satisfaction"
+	},{
+		id: "SALARIES__RELATIONSHIP",
+		text: "Relation"
+	},
+
+	{
+		id: "TIP__CAFE",
+		text: "Café"
+	},{
+		id: "TIP__THEATER",
+		text: "Théâtre"
+	},{
+		id: "TIP__CONTRACTS",
+		text: "Contrats d'affaires"
+	},{
+		id: "TIP__IDOL_SALARIES",
+		text: "Salaires des idoles"
+	},{
+		id: "TIP__STAFF_SALARIES",
+		text: "Salaires du personnel"
+	},{
+		id: "TIP__RENT",
+		text: "Loyer"
+	},{
+		id: "TIP__BANK_1",
+		text: "Faillite dans 1 jour"
+	},{
+		id: "TIP__BANK_ANY",
+		text: "Faillite dans @ jours"
+	},{
+		id: "TIP__TAKE_LOAN",
+		text: "Cliquez sur votre bureau pour prendre un emprunt"
+	},{
+		id: "TIP__APPEAL",
+		text: "Attractivité"
+	},{
+		id: "TIP__OPINION",
+		text: "Opinion"
+	},{
+		id: "TIP__DEMOGRAPHIC",
+		text: "Démographie"
+	},{
+		id: "TIP__NUM_OF_FANS",
+		text: "Nombre de fans"
+	},{
+		id: "TIP__NEXT_LEVEL_AT",
+		text: "Prochain niveau à"
+	},{
+		id: "TIP__PROGRESS",
+		text: "Progression"
+	},
+
+	{
+		id: "WIDGET__LOW_ON_PHYS",
+		text: "Faible en santé physique"
+	},{
+		id: "WIDGET__LOW_ON_MENT",
+		text: "Faible en santé mentale"
+	},{
+		id: "WIDGET__INJURED",
+		text: "Blessée"
+	},{
+		id: "WIDGET__DEPRESSED",
+		text: "Déprimée"
+	},{
+		id: "WIDGET__IDOLS",
+		text: "Idoles"
+	},{
+		id: "WIDGET__SINGLES_WAITING",
+		text: "Singles en attente"
+	},{
+		id: "WIDGET__MEDIA_WAITING",
+		text: "Médias en attente"
+	},{
+		id: "WIDGET__NO_TASKS",
+		text: "Vous n'avez aucune tâche en cours"
+	},{
+		id: "WIDGET__DETAILS",
+		text: "Détails"
+	},{
+		id: "WIDGET__TASKS",
+		text: "Tâches"
+	},
+
+	{
+		id: "DATE__MEN",
+		text: "hommes"
+	},{
+		id: "DATE__GUYS",
+		text: "gars"
+	},{
+		id: "DATE__HANDSOME",
+		text: "superbe"
+	},{
+		id: "DATE__WOMEN",
+		text: "femme"
+	},{
+		id: "DATE__GIRLS",
+		text: "filles"
+	},{
+		id: "DATE__PRETTY",
+		text: "jolie"
+	},{
+		id: "DATE__OFFER_STAFFER",
+		text: "Offrir un poste dans l'entreprise"
+	},{
+		id: "DATE__SUCCESSOR",
+		text: "Demander de trouver un successeur"
+	},{
+		id: "DATE__GOODBYE",
+		text: "Au revoir"
+	},{
+		id: "DATE__CAS_CONV",
+		text: "Conversation décontractée"
+	},{
+		id: "DATE__FLIRT",
+		text: "Flirter"
+	},{
+		id: "DATE__KNOWN_WISH",
+		text: "Vous connaissez déjà le souhait de @. Consultez son profil pour voir ce que c'est."
+	},{
+		id: "DATE__TALK_WISH",
+		text: "Parler de ce qu'elle souhaite"
+	},{
+		id: "DATE__TALK_GROUP",
+		text: "Parler du groupe"
+	},{
+		id: "DATE__TALK_GRAD",
+		text: "Parler de la remise de diplôme"
+	},{
+		id: "DATE__END_CONV",
+		text: "Terminer la conversation"
+	},{
+		id: "DATE__END_DATE",
+		text: "Terminer le rendez-vous"
+	},{
+		id: "DATE__GOSSIP",
+		text: "Rumeurs"
+	},{
+		id: "DATE__NO_KOHAI",
+		text: "@ n'a pas de kohais disponibles"
+	},{
+		id: "DATE__ASK_TO_MENTOR",
+		text: "Demander de devenir la mentor de"
+	},{
+		id: "DATE__STOP_MENTORING",
+		text: "Demander d'arrêter d'être la mentor de @"
+	},{
+		id: "DATE__ASK_GRAD",
+		text: "Demander quand elle prévoit d'obtenir son diplôme"
+	},{
+		id: "DATE__FIRE",
+		text: "Licencier @"
+	},{
+		id: "DATE__FIRE_NOW",
+		text: "Licencier immédiatement"
+	},{
+		id: "DATE__LET_GRADUATE",
+		text: "La laisser obtenir son diplôme avec grâce"
+	},{
+		id: "DATE__NOT_GOOD",
+		text: "Pas assez bon"
+	},{
+		id: "DATE__TOO_OLD",
+		text: "Trop vieux"
+	},{
+		id: "DATE__RECENT_SCANDAL",
+		text: "Scandale récent"
+	},{
+		id: "DATE__SHORT_ON_MONEY",
+		text: "À court d'argent"
+	},{
+		id: "DATE__PERSONAL",
+		text: "Personnel"
+	},
+
+	{
+		id: "PROFILE__BIRTHDATE",
+		text: "Date de naissance"
+	},{
+		id: "PROFILE__AGE",
+		text: "(@ Ans)"
+	},{
+		id: "PROFILE__DEMOGRAPHIC",
+		text: "Démographie"
+	},{
+		id: "PROFILE__PERC_OF_TOTAL",
+		text: "% du total"
+	},{
+		id: "PROFILE__STATS_APPEAL",
+		text: "Attractivité des stats"
+	},{
+		id: "PROFILE__OPINION",
+		text: "Opinion"
+	},{
+		id: "PROFILE__CLIQUE",
+		text: "@ & sa bande"
+	},{
+		id: "PROFILE__BULLIES",
+		text: "Harceleuses"
+	},{
+		id: "PROFILE__BULLIED_BY",
+		text: "Harcelée par"
+	},{
+		id: "PROFILE__BEST_FRIENDS",
+		text: "Meilleures amies"
+	},{
+		id: "PROFILE__FRIENDS",
+		text: "Amies"
+	},{
+		id: "PROFILE__DISLIKES",
+		text: "N'aime pas"
+	},{
+		id: "PROFILE__HATES",
+		text: "Hait"
+	},{
+		id: "PROFILE__NO_INFO",
+		text: "Vous ne savez rien sur ses relations"
+	},{
+		id: "PROFILE__STATS",
+		text: "Stats"
+	},{
+		id: "PROFILE__FANS",
+		text: "Fans"
+	},{
+		id: "PROFILE__JOBS",
+		text: "Boulots"
+	},{
+		id: "PROFILE__BONDS",
+		text: "Liens"
+	},{
+		id: "PROFILE__EXTRAS",
+		text: "Extras"
+	},{
+		id: "PROFILE__APPEAL",
+		text: "Attractivité"
+	},{
+		id: "PROFILE__PHYSICAL_STAMINA",
+		text: "Santé\nphysique"
+	},{
+		id: "PROFILE__MENTAL_STAMINA",
+		text: "Santé\nmentale"
+	},
+
+	{
+		id: "LOAN",
+		text: "Emprunt"
+	},{
+		id: "LOANS",
+		text: "Emprunts"
+	},{
+		id: "LOANS__PROD_BUSY",
+		text: "Votre producteur est actuellement occupé à @. Ce travail sera annulé."
+	},{
+		id: "LOANS__FUJIMOTO_TASK",
+		text: "Vous ne pouvez pas prendre un autre emprunt de Fujimoto jusqu'à ce que vous ayez effectué la tâche qu'il vous a confié."
+	},{
+		id: "LOANS__IN_DEV",
+		text: "Votre emprunt est en cours de développement"
+	},{
+		id: "LOANS__BANKRUPTCY",
+		text: "Faillite"
+	},{
+		id: "LOANS__RED_FINANCES",
+		text: "Vos finances sont dans le rouge. Essayez de prendre un emprunt en cliquant sur votre bureau."
+	},{
+		id: "LOANS__NO_GAME_OVER",
+		text: "Il n'y a pas de fin de jeu réelle dans la bêta pour le moment, donc nous allons juste vous ennuyer avec ce message jusqu'à ce que vous régliez vos finances :^)"
+	},{
+		id: "LOANS__BANKRUPTCY_DAYS",
+		text: "@ jours avant la faillite"
+	},{
+		id: "LOANS__CURRENT_BALANCE",
+		text: "Solde actuel"
+	},{
+		id: "LOANS__DAYS_TO_GET",
+		text: "Jours pour obtenir l'emprunt"
+	},{
+		id: "LOANS__INTEREST_RATE",
+		text: "Taux d'intérêt"
+	},{
+		id: "LOANS__INTEREST",
+		text: "Intérêt"
+	},{
+		id: "LOANS__WEEKLY_PAYMENT",
+		text: "Paiement hebdomadaire"
+	},{
+		id: "LOANS__AVAILABLE",
+		text: "Disponible"
+	},{
+		id: "LOANS__TAKE",
+		text: "Prendre"
+	},{
+		id: "LOANS__FUJIMOTO",
+		text: "Fujimoto"
+	},{
+		id: "LOANS__BANK",
+		text: "Banque"
+	},{
+		id: "LOANS__INVESTOR",
+		text: "Investisseur"
+	},{
+		id: "LOANS__1_MONTH",
+		text: "1 Mois"
+	},{
+		id: "LOANS__3_MONTHS",
+		text: "3 Mois"
+	},{
+		id: "LOANS__6_MONTHS",
+		text: "6 Mois"
+	},
+	
+	{
+		id: "NOTIF__FAN_OP",
+		text: "Changement d'opinion des fans"
+	},{
+		id: "NOTIF__IDOL_REL",
+		text: "Changement de relation des idoles"
+	},{
+		id: "NOTIF__IDOL_STATUS",
+		text: "Changement de statut de l'idole (dépression, blessure, etc.)"
+	},{
+		id: "NOTIF__IDOL_STAT",
+		text: "Changement de stat de l'idole (compétences, santé, célébrité, etc.)"
+	},{
+		id: "NOTIF__OTHER",
+		text: "Autre"
+	},{
+		id: "NOTIF__RES",
+		text: "Changement de ressource"
+	},{
+		id: "NOTIF__STAFF_STAT",
+		text: "Changement de stat du personnel"
+	},{
+		id: "NOTIF__TASK_STATUS",
+		text: "Changement de statut de la tâche (paroles terminées pour un single, etc.)"
+	},
+
+	{
+		id: "RESEARCH__PRODUCER",
+		text: "Producteur"
+	},{
+		id: "RESEARCH__MANAGERS",
+		text: "Managers"
+	},{
+		id: "RESEARCH__CHOREO",
+		text: "Chorégraphes"
+	},{
+		id: "RESEARCH__MUSIC",
+		text: "Compositeurs"
+	},{
+		id: "RESEARCH__PT_DAY",
+		text: "pt / jour"
+	},
+
+	{
+		id: "SAVE__AUTO",
+		text: "[Auto]"
+	},
+
+	{
+		id: "SHOW",
+		text: "Émission"
+	},{
+		id: "SHOWS",
+		text: "Émissions"
+	},{
+		id: "SHOW__CAST_GROUP_1",
+		text: "Le coût en santé est divisé équitablement, mais pas en dessous de @ pour chaque idole du groupe"
+	},{
+		id: "SHOW__CAST_GROUP_2",
+		text: "Les points de célébrité gagnés sont divisés en fonction de"
+	},{
+		id: "SHOW__CAST_GROUP_3",
+		text: "et"
+	},{
+		id: "SHOW__CAST_GROUP_4",
+		text: "compétences"
+	},{
+		id: "SHOW__CAST_PERMA",
+		text: "Les points de célébrité gagnés et le coût en santé sont divisés équitablement"
+	},{
+		id: "SHOW__CAST_ROT_1",
+		text: "Trois idoles sont choisies au hasard chaque semaine"
+	},{
+		id: "SHOW__CAST_ROT_2",
+		text: "Les points de célébrité gagnés et le coût en santé sont divisés équitablement"
+	},{
+		id: "SHOW__CAST_ROT_3",
+		text: "En raison des différences de stats des idoles, la qualité de l'émission est incohérente"
+	},{
+		id: "SHOW__TITLE",
+		text: "Titre"
+	},{
+		id: "SHOW__TITLE_ENTER",
+		text: "Entrez le titre de l'émission"
+	},{
+		id: "SHOW__AUDIENCE",
+		text: "Audience"
+	},{
+		id: "SHOW__NEW_FANS",
+		text: "Nouveaux fans"
+	},{
+		id: "SHOW__REVENUE",
+		text: "Revenu"
+	},{
+		id: "SHOW__WEEKLY_BUDGET",
+		text: "Budget hebdomadaire"
+	},{
+		id: "SHOW__NO_MONEY",
+		text: "Pas assez d'argent"
+	},{
+		id: "SHOW__HIATUS_IDOLS",
+		text: "Il y a des idoles dans le casting qui sont blessées / en pause. Vous ne pouvez pas lancer cette émission tant qu'elles ne sont pas rétablies."
+	},{
+		id: "SHOW__PROFIT",
+		text: "Bénéfices"
+	},{
+		id: "SHOW__CANCEL_SHOW",
+		text: "Annuler"
+	},{
+		id: "SHOW__DONT_CANCEL",
+		text: "Ne pas annuler"
+	},{
+		id: "SHOW__CANCELED",
+		text: "Annulée"
+	},{
+		id: "SHOW__NEXT_EPISODE",
+		text: "Prochain épisode"
+	},{
+		id: "SHOW__AVG_VALUES",
+		text: "Valeurs moyennes"
+	},{
+		id: "SHOW__TOTAL_VALUES",
+		text: "Valeurs totales"
+	},{
+		id: "SHOW__NEW_FANS_TIP",
+		text: "* \"Nouveaux fans\" ne comprend pas les fans ajoutés en raison du buzz"
+	},{
+		id: "SHOW__CANCEL_DATE",
+		text: "This show will be canceled at @"
+		text: "Cette émission sera annulée le @"
+	},{
+		id: "SHOW__CANCEL_NOW",
+		text: "Annuler l'émission immédiatement"
+	},{
+		id: "SHOW__CANCEL_SEASON",
+		text: "Annuler cette émission à la fin de la saison"
+	},{
+		id: "SHOW__HOST",
+		text: "Présentateur"
+	},{
+		id: "SHOW__CAST",
+		text: "Casting"
+	},{
+		id: "SHOW__ENTIRE_GROUP",
+		text: "Tout le groupe"
+	},{
+		id: "SHOW__ROTATING_CAST",
+		text: "Casting tournant"
+	},{
+		id: "SHOW__UPDATE_CONCEPT_1",
+		text: "Mettre à jour le concept de l'émission et réinitialiser la lassitude."
+	},{
+		id: "SHOW__UPDATE_CONCEPT_2",
+		text: "La vitesse de la lassitude augmente après chaque relance."
+	},{
+		id: "SHOW__PREV_VALUES",
+		text: "Valeurs précédentes"
+	},{
+		id: "SHOW__RELAUNCH_TIP",
+		text: "* Vous perdrez une partie de l'audience si la qualité baisse"
+	},{
+		id: "SHOW__RADIO",
+		text: "Radio"
+	},{
+		id: "SHOW__INTERNET",
+		text: "Internet"
+	},{
+		id: "SHOW__TV",
+		text: "TV"
+	},{
+		id: "SHOW__GENRE",
+		text: "Genre"
+	},{
+		id: "SHOW__HOST",
+		text: "Présentateur"
+	},{
+		id: "SHOW__CAST",
+		text: "Casting"
+	},{
+		id: "SHOW__NO_HOST",
+		text: "Pas de présentateur"
+	},{
+		id: "SHOW__NEWCOMER",
+		text: "Nouvelle"
+	},{
+		id: "SHOW__SEASONED",
+		text: "Confirmée"
+	},{
+		id: "SHOW__TRENDY",
+		text: "Tendance"
+	},{
+		id: "SHOW__VETERAN",
+		text: "Expérimentée"
+	},{
+		id: "SHOW__LEGEND",
+		text: "Légendaire"
+	},{
+		id: "SHOW__WEEKLY_BUDGET",
+		text: "Budget mensuel"
+	},
+
+	{
+		id: "REL",
+		text: "Relation"
+	},{
+		id: "RELS",
+		text: "Relations"
+	},{
+		id: "REL__SENPAI",
+		text: "Senpai"
+	},{
+		id: "REL__TRAINING_SPEED",
+		text: "Vitesse de l'entrainement"
+	},{
+		id: "REL__TRAINING_SPEED_2",
+		text: "Plus rapide"
+	},{
+		id: "REL__BULLIED_BY_CLIQUE",
+		text: "Harcelée par la bande de @"
+	},{
+		id: "REL__BULLIED_BY_SOMEONE",
+		text: "Harcelée par quelqu'un"
+	},{
+		id: "REL__MINUS_POINTS",
+		text: "-10 points de santé mentale /s"
+	},{
+		id: "REL__BULLYING_LOST",
+		text: " a perdu @ points de santé mentale à cause du harcèlement"
+	},
+
+	{
+		id: "WISH__HIATUS",
+		text: "Veut prendre un arrêt maladie"
+	},{
+		id: "WISH__SSK_ANY",
+		text: "Veut être classée lors d'une élection"
+	},{
+		id: "WISH__SSK_1",
+		text: "Veut être classée 1ère lors d'une élection"
+	},{
+		id: "WISH__SSK_2",
+		text: "Veut être classée 2ème lors d'une élection"
+	},{
+		id: "WISH__SSK_3",
+		text: "Veut être classée 3ème lors d'une élection"
+	},{
+		id: "WISH__SSK_OTHER",
+		text: "Veut être classée @ème lors d'une élection"
+	},{
+		id: "WISH__CONCERT",
+		text: "Veut chanter au centre lors d'un concert"
+	},{
+		id: "WISH__CONCERT_OTHER",
+		text: "Veut centrer @ chansons lors d'un concert"
+	},{
+		id: "WISH__JOB_1",
+		text: "Veut avoir"
+	},{
+		id: "WISH__JOB_2",
+		text: " un boulot"
+	},{
+		id: "WISH__SHOW",
+		text: "Veut présenter sa propre émission"
+	},{
+		id: "WISH__SHOW_1",
+		text: "Veut présenter"
+	},{
+		id: "WISH__SHOW_2",
+		text: " une émission"
+	},{
+		id: "WISH__SHOW_3",
+		text: "avec un"
+	},{
+		id: "WISH__SHOW_4",
+		text: "co-présentateur"
+	},{
+		id: "WISH__SINGLE_ANY",
+		text: "Veut être dans un single"
+	},{
+		id: "WISH__SINGLE_4",
+		text: "Veut être dans la 4ème rangée d'un single"
+	},{
+		id: "WISH__SINGLE_3",
+		text: "Veut être dans la 3ème rangée d'un single"
+	},{
+		id: "WISH__SINGLE_2",
+		text: "Veut être dans la 2ème rangée d'un single"
+	},{
+		id: "WISH__SINGLE_CENTER",
+		text: "Veut être au centre d'un single"
+	},{
+		id: "WISH__SINGLE_CENTER_1",
+		text: "Veut être au centre d'un single"
+	},{
+		id: "WISH__SINGLE_CENTER_2",
+		text: ""
+	},{
+		id: "WISH__SINGLE_CENTER_3",
+		text: "du style"
+	},{
+		id: "WISH__SINGLE_CENTER_4",
+		text: "étant"
+	},{
+		id: "WISH__SINGLE_CENTER_5",
+		text: "pour la chorégraphie"
+	},
+
+	{
+		id: "FANS__SWITCHED",
+		text: "ont changé d'idole préférée"
+	},{
+		id: "FANS__ABANDONED",
+		text: "ont abandonné le groupe"
+	},{
+		id: "OPINION",
+		text: "Opinion"
+	},{
+		id: "FAN_OPINION",
+		text: "Opinion des fans"
+	},{
+		id: "FANS_OPINION",
+		text: "Opinion des fans"
+	},{
+		id: "ACTORS_FANS",
+		text: "Les fans de @"
+	},
+
+	{
+		id: "SNS__MCT",
+		text: "kazubuta"
+	},{
+		id: "SNS__MCYA",
+		text: "satoshi_cars"
+	},{
+		id: "SNS__MCA",
+		text: "takuya_nozawa_72"
+	},{
+		id: "SNS__MHCT",
+		text: "pizzakk"
+	},{
+		id: "SNS__MHCYA",
+		text: "shinji1602"
+	},{
+		id: "SNS__MHCA",
+		text: "heihachiro1960"
+	},{
+		id: "SNS__FCT",
+		text: "ICECREAMNAKAI"
+	},{
+		id: "SNS__FCYA",
+		text: "machi_panpkn"
+	},{
+		id: "SNS__FCA",
+		text: "wanitamaru"
+	},{
+		id: "SNS__FHCT",
+		text: "kazunyan_dm"
+	},{
+		id: "SNS__FHCYA",
+		text: "sakisuki69"
+	},{
+		id: "SNS__FHCA",
+		text: "wakana_1967"
+	},{
+		id: "SNS__FUJIMOCCHI",
+		text: "Fujimocchi"
+	},{
+		id: "SNS__SOCIAL_MEDIA",
+		text: "Social Media"
+	},{
+		id: "SNS__NEW_MESSAGE",
+		text: "New message"
+	},
+
+	{
+		id: "STAFF__HIRED",
+		text: "Embauché"
+	},{
+		id: "STAFF__NICKNAME",
+		text: "Surnom"
+	},{
+		id: "STAFF__SPEED",
+		text: "Vitesse"
+	},{
+		id: "STAFF__COACHING",
+		text: "Coaching"
+	},{
+		id: "STAFF__PRODUCTION",
+		text: "Production"
+	},{
+		id: "STAFF__DEALS",
+		text: "Négociations"
+	},{
+		id: "STAFF__PHYS_HEALTH",
+		text: "Santé physique"
+	},{
+		id: "STAFF__MENT_HEALTH",
+		text: "Santé mentale"
+	},{
+		id: "STAFF__STYLING",
+		text: "Style personnel"
+	},{
+		id: "STAFF__DESIGN",
+		text: "Design"
+	},{
+		id: "STAFF__INFLUENCE",
+		text: "Influence"
+	},{
+		id: "STAFF__DANCE_COACH",
+		text: "Coach de danse"
+	},{
+		id: "STAFF__CHOREO",
+		text: "Choreographe"
+	},{
+		id: "STAFF__VOICE",
+		text: "Coach de chant"
+	},{
+		id: "STAFF__MUSIC",
+		text: "Compositeur"
+	},{
+		id: "STAFF__PROD_MANAGER",
+		text: "Manager de production"
+	},{
+		id: "STAFF__SALES_MANAGER",
+		text: "Manager des ventes"
+	},{
+		id: "STAFF__PHYSICIAN",
+		text: "Médecin"
+	},{
+		id: "STAFF__PSYCHIATRIST",
+		text: "Psychiatre"
+	},{
+		id: "STAFF__STYLIST",
+		text: "Styliste"
+	},{
+		id: "STAFF__DESIGNER",
+		text: "Designer"
+	},{
+		id: "STAFF__PRODUCER",
+		text: "Producteur"
+	},{
+		id: "STAFF__MAX_COACH",
+		text: "Niveau max de coaching"
+	},{
+		id: "STAFF__PHYS_RECOVERY",
+		text: "Récupération de la santé physique"
+	},{
+		id: "STAFF__MENT_RECOVERY",
+		text: "Récupération de la santé mentale"
+	},{
+		id: "STAFF__INJURIES",
+		text: "Blessures"
+	},{
+		id: "STAFF__INSTANT_CHANCE",
+		text: "Chance de récupération instantanée"
+	},{
+		id: "STAFF__HIATUS_REDUCTION",
+		text: "Réduction de l'arrêt maladie"
+	},{
+		id: "STAFF__DEPRESSIONS",
+		text: "Dépressions"
+	},{
+		id: "STAFF__HIATUS_INFO",
+		text: "Les médecins peuvent réduire le temps d'arrêt maladie nécessaire pour qu'une idole blessée ou déprimée récupère. Il y a aussi une chance que l'idole récupère immédiatement sans arrêt maladie."
+	},{
+		id: "STAFF__NOT_ASSIGNED",
+		text: "Assigné(e) à aucune pièce"
+	},{
+		id: "STAFF__IDLE",
+		text: "Inactif/ve"
+	},{
+		id: "STAFF__RESEARCH",
+		text: "Recherche"
+	},{
+		id: "STAFF__AUDITION_READY",
+		text: "Audition prête"
+	},{
+		id: "STAFF__BIZ_READY",
+		text: "Contrat d'affaires prêt"
+	},{
+		id: "STAFF__READY_FOR_DATE",
+		text: "Prêt(e) pour un rendez-vous avec @"
+	},{
+		id: "STAFF__PLANNING_DATE",
+		text: "Planification d'un rendez-vous avec @"
+	},{
+		id: "STAFF__DEPRESSION_TREATMENT",
+		text: "Traitement de la dépression"
+	},{
+		id: "STAFF__INJURY_TREATMENT",
+		text: "Traitement des blessures"
+	},{
+		id: "STAFF__FOR",
+		text: " pour "
+	},{
+		id: "STAFF__FOR_THE",
+		text: " pour le "
+	},{
+		id: "STAFF__SCANDAL_PT",
+		text: "pt de scandale"
+	},{
+		id: "STAFF__FIRE_HINT",
+		text: "Pour licencier un membre du personnel, vous devez soit lui fournir un package de licenciement, soit lui attribuer quelques scandales"
+	},{
+		id: "STAFF__DAYS_TO_FIRE",
+		text: "Vous avez @ jours pour licencier ce membre du personnel sans indemnité de licenciement"
+	},{
+		id: "STAFF__SEVERANCE",
+		text: "Indemnité de fin de contrat"
+	},{
+		id: "STAFF__NOVICE",
+		text: "Débutant"
+	},{
+		id: "STAFF__PROFESSIONAL",
+		text: "Professionel"
+	},{
+		id: "STAFF__EXPERT",
+		text: "Expert"
+	},{
+		id: "STAFF__REMOVE_NICKNAME",
+		text: "Supprimer le surnom"
+	},
+
+	{
+		id: "TASK__SINGLE_1",
+		text: "Sortir un single @"
+	},{
+		id: "TASK__SINGLE_2",
+		text: "à propos de @"
+	},{
+		id: "TASK__SHOW",
+		text: "Lancer un @"
+	},{
+		id: "TASK__BIZ_1",
+		text: "Obtenir "
+	},{
+		id: "TASK__BIZ_2",
+		text: "un "
+	},{
+		id: "TASK__BIZ_3",
+		text: "un "
+	},{
+		id: "TASK__BIZ_4",
+		text: "photoshoot"
+	},{
+		id: "TASK__BIZ_5",
+		text: "contrat publicitaire"
+	},{
+		id: "TASK__BIZ_6",
+		text: "contrat pour une émission de variété"
+	},{
+		id: "TASK__BIZ_7",
+		text: "un rôle dans une série TV"
+	},{
+		id: "TASK__BIZ_8",
+		text: " dans @"
+	},{
+		id: "TASK__BIZ_9",
+		text: " pour @"
+	},{
+		id: "TASK__COMPLETED",
+		text: "Tâche accomplie"
+	},
+
+	{
+		id: "SEVENT__WORLD_TOUR",
+		text: "Tournée mondiale"
+	},{
+		id: "SEVENT__CONCERT",
+		text: "Concert"
+	},{
+		id: "SEVENT__ELECTION",
+		text: "Élection"
+	},{
+		id: "SEVENT__REVERCE_JANKEN",
+		text: "Reverse Janken Tournament"
+	},{
+		id: "SEVENT__LOCKED",
+		text: "Verrouillé"
+	},{
+		id: "SEVENT__READY_FOR_PROD",
+		text: "Prêt pour la production"
+	},{
+		id: "SEVENT__PROD",
+		text: "Production"
+	},{
+		id: "SEVENT__DAYS_LEFT",
+		text: "@ jours restants"
+	},{
+		id: "SEVENT__NO_IDOLS",
+		text: "Pas d'idole active"
+	},{
+		id: "SEVENT__IN_PROD",
+		text: "En production"
+	},{
+		id: "SEVENT__RELEASE_SINGLES",
+		text: "Sortir 5 singles pour déverrouiller"
+	},{
+		id: "SEVENT__HOLD_CONCERTS",
+		text: "Organiser 3 concerts pour déverrouiller"
+	},{
+		id: "SEVENT__HIRE_IDOLS",
+		text: "Embaucher au moins 5 idoles"
+	},
+
+	{
+		id: "SEVENT__CD_1",
+		text: "Rechargement: 1 mois"
+	},{
+		id: "SEVENT__CD_3",
+		text: "Rechargement: 3 mois"
+	},{
+		id: "SEVENT__CD_6",
+		text: "Rechargement: 6 mois"
+	},
+
+	{
+		id: "SEVENT__CONCERT_DESC",
+		text: "Planifiez un concert en construisant une setlist, en choisissant un lieu et en fixant un prix de billet.\n\nLes chansons augmentent la hype du public mais consomment de la santé pour l'idole au centre. Les pauses discussion restaurent la santé pour tous les Centres qui ne participent pas à la pause.\n\nLes accidents sont plus probables lorsque la santé du Centre est faible, et affectent la relation du Centre avec les autres idoles qui participent au concert.\n\nRéagissez aux accidents en choisissant les solutions sûres pouvant réduire légèrement la hype du public, ou des options risquées qui peuvent réduire ou augmenter considérablement la hype\n\nLes cartes d'action peuvent être utilisées avant chaque chanson pour faire des choses comme augmenter la hype ou réduire la chance d'un accident pendant cette chanson.\n\nDes niveaux de production plus élevés augmentent la quantité de hype du public que chaque chanson génère. Des niveaux de répétition plus élevés diminuent la chance d'accidents. Des niveaux de logistique plus élevés fournissent plus de cartes d'action."
+	},{
+		id: "SEVENT__ELECTION_DESC",
+		text: "Les élections permettent aux fans de voter pour leur idole préférée dans un groupe. Les idoles classées dans le top 10 reçoivent des points de célébrité, et leurs réactions pendant l'élection affecteront leur santé mentale.\n\nPour planifier une élection, vous devez avoir à la fois un Single et un Concert en production, qui seront tous deux attachés à l'élection. Les bulletins de vote pour l'élection seront inclus dans la sortie d'un Single de votre choix. Chaque CD est livré avec un bulletin de vote, donc l'événement d'élection augmentera les ventes de ce Single.\n\nPendant le Concert associé, l'élection augmentera le niveau minimum de hype, garantissant que votre hype ne tombe jamais en dessous d'un seuil de départ.\n\nLes résultats des élections sont annoncés à la fin du Concert associé, un par un du rang #10 au rang #1. Vous pouvez truquer les résultats en échangeant l'enveloppe, mais méfiez-vous des conséquences si vous vous faites prendre !\n\nDes niveaux de production plus élevés fourniront un plus gros bonus de vente pour le Single attaché, et des notes de logistique plus élevées augmenteront le bonus de hype du concert."
+	},{
+		id: "SEVENT__WORLD_TOUR_DESC",
+		text: "Sélectionnez les pays dans lesquels vous souhaitez vous produire et choisissez un type de lieu. Les tailles de lieu vont des petits clubs (1 étoile) aux grandes arènes.\n\nDonner un concert dans le plus grand lieu d'un pays débloquera un lieu plus grand pour votre prochaine tournée, mais seulement si vous remplissez au moins 80% du lieu.\n\nLa fréquentation du concert dépend du niveau de célébrité de votre groupe, des compétences des membres de la production et de la lassitude des fans du pays.\n\nLes coûts de production et les prix des billets varient selon les pays.\n\nFaites une tournée dans plusieurs pays de la même région pour économiser sur les frais de déplacement."
+	},
+
+	{
+		id: "CONCERT__CAPACITY",
+		text: "Capacité"
+	},{
+		id: "CONCERT__VENUE_UNLOCK",
+		text: "Donner un "
+	},{
+		id: "CONCERT__VENUE_UNLOCK_2",
+		text: " concert pour déverrouiller ce lieu"
+	},{
+		id: "CONCERT__TARGET",
+		text: "Objectif"
+	},{
+		id: "CONCERT__HYPE",
+		text: "Hype"
+	},{
+		id: "CONCERT__FANS_DIDNT_ENJOY",
+		text: "@\nfans n'ont pas aimé votre concert"
+	},{
+		id: "CONCERT__FANS_LOVED",
+		text: "@\nfans ont adoré votre concert"
+	},{
+		id: "CONCERT__DIDNT_LIKE_PRICE",
+		text: "@\nfans n'ont pas aimé les prix des billets"
+	},{
+		id: "CONCERT__HATED_PRICE",
+		text: "@\nfans ont détesté les prix des billets"
+	},{
+		id: "CONCERT__CLUB",
+		text: "Club"
+	},{
+		id: "CONCERT__CONCERT_HALL",
+		text: "Salle de concert"
+	},{
+		id: "CONCERT__OPEN_AIR",
+		text: "Concert en plein air"
+	},{
+		id: "CONCERT__STADIUM",
+		text: "Stade"
+	},{
+		id: "CONCERT__COLISEUM",
+		text: "Colisée de Tokyo"
+	},{
+		id: "CONCERT__CARD_STAMINA",
+		text: "Santé\nCentre"
+	},{
+		id: "CONCERT__CARD_HYPE",
+		text: "Hype"
+	},{
+		id: "CONCERT__CARD_ACC_SUCC",
+		text: "Chances\nD'accident\nPositif"
+	},{
+		id: "CONCERT__CARD_ACC",
+		text: "Chances\nD'accident"
+	},{
+		id: "CONCERT__CARD_NO_CRIT",
+		text: "Pas\nD'échec\nCritique"
+	},{
+		id: "CONCERT__C_S_1",
+		text: "Augmente immédiatement la santé physique du centre actuel"
+	},{
+		id: "CONCERT__C_S_2",
+		text: "La valeur est divisée équitablement s'il y a plusieurs centres"
+	},{
+		id: "CONCERT__C_H",
+		text: "Augmente immédiatement la Hype"
+	},{
+		id: "CONCERT__C_A_S",
+		text: "Augmente vos chances d'obtenir un bon résultat lors du prochain accident"
+	},{
+		id: "CONCERT__C_A",
+		text: "Augmente vos chances d'éviter les accidents pendant cette chanson"
+	},{
+		id: "CONCERT__C_N_C",
+		text: "Vous ne rencontrerez pas d'échec critique lors du prochain accident"
+	},{
+		id: "CONCERT__TALK_BREAK",
+		text: "Pause discussion"
+	},{
+		id: "CONCERT__CARD",
+		text: "Carte"
+	},{
+		id: "CONCERT__REHEARSAL",
+		text: "Répétition"
+	},{
+		id: "CONCERT__SUCC_CHANCE",
+		text: "Chances de succès"
+	},{
+		id: "CONCERT__SETLIST",
+		text: "Setlist"
+	},{
+		id: "CONCERT__SETLIST_TIP",
+		text: "Your goal is to keep the hype high and to keep girls' stamina from falling too low{separator}Center of the song spends 30pt stamina{separator}Talk breaks restore 15pt stamina for all centers who don't participate in the talk"
+		text: "Votre objectif est de maintenir la hype élevée et d'éviter que la santé des filles tombe trop bas{separator}Le centre de la chanson dépense 30pt de santé{separator}Les pauses discussion restaurent 15pts de santé pour tous les centres qui ne participent pas à la discussion"
+	},{
+		id: "CONCERT__ADD_SONG",
+		text: "Ajouter une chanson"
+	},{
+		id: "CONCERT__ADD_TALK_BREAK",
+		text: "Ajouter une pause discussion"
+	},{
+		id: "CONCERT__CENTER",
+		text: "Centre"
+	},{
+		id: "CONCERT__STAMINA_COST",
+		text: "Coût\nSanté"
+	},{
+		id: "CONCERT__SKILL_VALUE",
+		text: "Skill\nValue"
+		text: "Valeur\nCompétence"
+	},{
+		id: "CONCERT__MCS",
+		text: "MCs"
+	},{
+		id: "CONCERT__VENUE",
+		text: "Lieu"
+	},{
+		id: "CONCERT__FANS_TIP",
+		text: "Vous gagnerez ou perdrez des points d'opinion de fans en fonction de votre setlist, de la hype et du prix des billets"
+	},{
+		id: "CONCERT__AVG_PRICE",
+		text: "Prix moyen du billet"
+	},{
+		id: "CONCERT__AVG_PRICE_TIP",
+		text: "L'affluence dépend du prix du billet et du nombre de vos fans{separator}Un fan hardcore moyen est beaucoup plus susceptible d'acheter un billet qu'un fan occasionnel moyen"
+	},{
+		id: "CONCERT__VENUE_CAPACITY",
+		text: "Capacité de fréquentation"
+	},{
+		id: "CONCERT__PROJECTED_HYPE",
+		text: "Hype prévisionnelle"
+	},{
+		id: "CONCERT__PROJECTED_HYPE_TIP",
+		text: "Vous obtenez un certain nombre de points de Hype pour chaque chanson et pause discussion. Le montant dépend de la compétence du Centre, de sa Santé et de la valeur de production du concert{separator}Vos profits dépendent de la quantité de Hype à la fin du concert. Plus le Hype est grand, plus vous vendrez de merch, de DVDs, de droits TV, etc. Mais si le Hype est trop bas, vos fans demanderont des remboursements et vous perdrez de l'argent."
+	},{
+		id: "CONCERT__PRODUCTION_COST",
+		text: "Coût de production"
+	},{
+		id: "CONCERT__PROJECTED_REVENUE",
+		text: "Revenu prévisionnel"
+	},{
+		id: "CONCERT__PROJECTED_ATTENDANCE",
+		text: "Affluence prévisionnelle"
+	},{
+		id: "CONCERT__DRAW_ACTION_CARDS",
+		text: "Tirer des cartes d'action"
+	},{
+		id: "CONCERT__START",
+		text: "Commencer"
+	},{
+		id: "CONCERT__NEXT_SONG",
+		text: "Chanson suivante:"
+	},{
+		id: "CONCERT__STAMINA_COST_2",
+		text: "Coût en santé:"
+	},{
+		id: "CONCERT__ACCIDENT_CHANCE",
+		text: "Chances d'accident:"
+	},{
+		id: "CONCERT__ACCIDENT_CHANCE_TIP",
+		text: ""
+	},{
+		id: "CONCERT__START_NEXT_SONG",
+		text: "Commencer la chanson suivante"
+	},{
+		id: "CONCERT__PRODUCTION_COST_2",
+		text: "Coût de production:"
+	},{
+		id: "CONCERT__REVENUE",
+		text: "Chiffre d'affaires:"
+	},{
+		id: "CONCERT__PROFIT",
+		text: "Bénéfice:"
+	},
+
+	{
+		id: "SSK__FAME_POINTS",
+		text: "Points de célébrité"
+	},{
+		id: "SSK__NA",
+		text: "n/a"
+	},{
+		id: "SSK__VOTES",
+		text: "Votes"
+	},{
+		id: "SSK__NEED_SINGLE",
+		text: "Vous devez avoir un single en production"
+	},{
+		id: "SSK__NEED_CONCERT",
+		text: "Vous devez avoir un concert en production"
+	},{
+		id: "SSK__LIVE_BLOG",
+		text: "Blog en direct"
+	},{
+		id: "SSK__WEB_STREAM",
+		text: "Stream sur le web"
+	},{
+		id: "SSK__LOCAL_TV",
+		text: "Chaîne TV locale"
+	},{
+		id: "SSK__NATIONAL_TV",
+		text: "Chaîne TV nationale"
+	},{
+		id: "SSK__NO_MONEY",
+		text: "Pas assez d'argent"
+	},{
+		id: "SSK__NO_CONCERT",
+		text: "Le concert n'est pas prêt"
+	},{
+		id: "SSK__NO_SINGLE",
+		text: "Le single n'est pas prêt"
+	},{
+		id: "SSK__NO_ELECTION",
+		text: "L'élection n'est pas prête"
+	},{
+		id: "SSK__AUTO",
+		text: "Cet évènement commencera automatiquement"
+	},{
+		id: "SSK__TOTAL_COST",
+		text: "Coût de production total"
+	},{
+		id: "SSK__CANCELED",
+		text: "Vos fans sont très en colère que vous ayez annulé l'événement de l'élection après le début des ventes de single!"
+	},{
+		id: "SSK__CANCELING",
+		text: "Annuler le concert annulera également l'événement de l'élection!"
+	},{
+		id: "SSK__IS",
+		text: " "
+	},{
+		id: "SSK__HAPPY",
+		text: "est contente"
+	},{
+		id: "SSK__JEALOUS",
+		text: "est jalouse"
+	},{
+		id: "SSK__WORRIED",
+		text: "est inquiète"
+	},{
+		id: "SSK__ANXIOUS",
+		text: "est anxieuse"
+	},{
+		id: "SSK__SCARED",
+		text: "est effrayée"
+	},{
+		id: "SSK__EXCITED",
+		text: "est excitée"
+	},{
+		id: "SSK__ANGRY",
+		text: "est en colère"
+	},{
+		id: "SSK__CONFUSED",
+		text: "est confuse"
+	},{
+		id: "SSK__SURPRISED",
+		text: "est surprise"
+	},{
+		id: "SSK__SAD",
+		text: "est triste"
+	},{
+		id: "SSK__DESTROYED",
+		text: "est au bout de sa vie"
+	},{
+		id: "SSK__INSPIRED",
+		text: "est inspirée"
+	},{
+		id: "SSK__DOESNT_CARE",
+		text: "s'en fout"
+	},{
+		id: "SSK__ZONED_OUT",
+		text: "est partie"
+	},{
+		id: "SSK__INTRIGUED",
+		text: "est intriguée"
+	},{
+		id: "SSK__PUZZLED",
+		text: "est perplexe"
+	},{
+		id: "SSK__AMUSED",
+		text: "est amusée"
+	},{
+		id: "SSK__HUNGRY",
+		text: "a faim"
+	},{
+		id: "SSK__BORED",
+		text: "s'ennuie"
+	},{
+		id: "SSK__ASLEEP",
+		text: "s'est endormie"
+	},{
+		id: "SSK__CRISIS",
+		text: "est en pleine crise existentielle"
+	},{
+		id: "SSK__SWEATING",
+		text: "transpire à grosses gouttes"
+	},{
+		id: "SSK__CRYING",
+		text: "pleure"
+	},{
+		id: "SSK__MEME",
+		text: "se souvient d'un meme drôle et essaie de ne pas rire"
+	},{
+		id: "SSK__SHITPOSTING",
+		text: "envoie des posts hargneux sur SNS"
+	},{
+		id: "SSK__LYFE",
+		text: "se demande ce qu'elle fait de sa vie"
+	},{
+		id: "SSK__SINGLE_TIP",
+		text: "Les bulletins de vote pour l'élection seront inclus dans la sortie d'un Single de votre choix. Chaque CD est livré avec un bulletin de vote, donc l'événement d'élection augmentera les ventes de ce Single."
+	},{
+		id: "SSK__CONCERT_TIP",
+		text: "Pendant le concert associé, l'élection augmentera le niveau minimum de hype, garantissant que votre Hype ne tombe jamais en dessous d'un seuil de départ."
+	},{
+		id: "SSK__NEED_CONCERT_2",
+		text: "Vous devez avoir un concert en production pour créer un événement d'élection"
+	},{
+		id: "SSK__BROADCAST",
+		text: "Diffusion"
+	},{
+		id: "SSK__BROADCAST_TIP",
+		text: "Les options de diffusion des résultats de l'élection vont du blog en direct (niveau 1) à la télévision nationale (niveau 4). Chaque type de diffusion débloque un type de diffusion de niveau supérieur pour les futures élections."
+	},{
+		id: "SSK__PREVIOUS_ELECTION",
+		text: "Élection\nPrécédente"
+	},
+
+	{
+		id: "TOUR__FATIGUE",
+		text: "Lassitude"
+	},{
+		id: "TOUR__SAVING",
+		text: "Économiser @ sur les coûts de production"
+	},{
+		id: "TOUR__PROD_COST",
+		text: "Coût de production"
+	},{
+		id: "TOUR__CANCELING",
+		text: "Annuler le concert annulera également l'événement de l'élection!"
+	},{
+		id: "TOUR__EXPECTED_REVENUE",
+		text: "Revenu estimé"
+	},{
+		id: "TOUR__ATTENDANCE",
+		text: "Fréquentation"
+	},{
+		id: "TOUR__NEW_FANS",
+		text: "Nouveaux fans"
+	},{
+		id: "TOUR__REVENUE",
+		text: "Revenu"
+	},{
+		id: "TOUR__PROFIT",
+		text: "Profit"
+	},{
+		id: "RUSSIA",
+		text: "Russie"
+	},{
+		id: "CHINA",
+		text: "Chine"
+	},{
+		id: "SOUTH_KOREA",
+		text: "Corée du Sud"
+	},{
+		id: "INDIA",
+		text: "Inde"
+	},{
+		id: "THAILAND",
+		text: "Thailande"
+	},{
+		id: "PHILIPPINES",
+		text: "Philippines"
+	},{
+		id: "INDONESIA",
+		text: "Indonésie"
+	},{
+		id: "AUSTRALIA",
+		text: "Australie"
+	},{
+		id: "SOUTH_AFRICA",
+		text: "Afrique du Sud"
+	},{
+		id: "CANADA",
+		text: "Canada"
+	},{
+		id: "USA",
+		text: "États-Unis"
+	},{
+		id: "BRAZIL",
+		text: "Brésil"
+	},{
+		id: "ARGENTINA",
+		text: "Argentine"
+	},{
+		id: "UK",
+		text: "Royaume-Uni"
+	},{
+		id: "FRANCE",
+		text: "France"
+	},{
+		id: "GERMANY",
+		text: "Allemagne"
+	},{
+		id: "ITALY",
+		text: "Italie"
+	},{
+		id: "SPAIN",
+		text: "Espagne"
+	},{
+		id: "ERROR",
+		text: "Erreur"
+	},
+
+	{
+		id: "STORY__FUJIMOTO",
+		text: "Fujimoto"
+	},
+
+	{
+		id: "IDOL__AGE",
+		text: "Âge"
+	},{
+		id: "IDOL__CONTRACTS",
+		text: "Contrats"
+	},{
+		id: "IDOL__STAMINA_COST",
+		text: "Coût en santé"
+	},{
+		id: "IDOL__NOW_HATES",
+		text: " hait @"
+	},{
+		id: "IDOL__NOW_DISLIKES",
+		text: " déteste @"
+	},{
+		id: "IDOL__NOW_NEUTRAL",
+		text: " a une opinion neutre de @"
+	},{
+		id: "IDOL__NOW_LIKES",
+		text: " adore @"
+	},{
+		id: "IDOL__FRIEND",
+		text: " considère @ comme une amie"
+	},{
+		id: "IDOL__MYST_REASON_LOST",
+		text: " a perdu @ points de santé mentale pour une raison mystérieuse"
+	},{
+		id: "IDOL__MYST_REASON_GAINED",
+		text: " a gagné @ points de santé mentale pour une raison mystérieuse"
+	},{
+		id: "IDOL__TRAIT_RECOVERED",
+		text: "a récupéré @ de santé grâce à son trait"
+	},{
+		id: "IDOL__SALARY_NOT_HAPPY",
+		text: "@ n'est pas satisfaite de son salaire"
+	},{
+		id: "IDOL__GOT_INJURED",
+		text: "@ s'est blessée!"
+	},{
+		id: "IDOL__IS_DEPRESSED",
+		text: "@ est déprimée!"
+	},{
+		id: "IDOL__ON_HIATUS",
+		text: "En arrêt maladie jusqu'au "
+	},{
+		id: "IDOL__DEPR_1",
+		text: "Cette idole est déprimée !\n"
+	},{
+		id: "IDOL__DEPR_2",
+		text: "Les idoles déprimées ne peuvent pas s'entrainer et ont une "
+	},{
+		id: "IDOL__DEPR_3",
+		text: "pénalité de x0.5"
+	},{
+		id: "IDOL__DEPR_4",
+		text: " à toutes leurs stats"
+	},{
+		id: "IDOL__INJ_1",
+		text: "Cette idole s'est blessée !\n"
+	},{
+		id: "IDOL__INJ_2",
+		text: "Les idoles blessées ne peuvent pas s'entrainer, accepter de propositions commerciales, participer à des singles, shows et concerts"
+	},{
+		id: "IDOL__HIATUS_TIME",
+		text: "Temps d'arrêt nécessaire pour récupérer : @ jours"
+	},{
+		id: "IDOL__HIATUS_HINT",
+		text: "Envoyez cette idole chez un médecin pour réduire le temps d'arrêt nécessaire."
+	},{
+		id: "IDOL__HIATUS_TIP_1",
+		text: "la santé physique et mentale sera restaurée à 100 pt"
+	},{
+		id: "IDOL__HIATUS_TIP_2",
+		text: "Tous les contrats de cette idole seront rompus. Vous devrez payer @ en compensation."
+	},{
+		id: "IDOL__HIATUS_TIP_3",
+		text: "Envoyez cette idole chez un médecin pour réduire la durée de son arrêt maladie."
+	},{
+		id: "IDOL__NO_DEPRESSED",
+		text: "@ n'est plus déprimée"
+	},{
+		id: "IDOL__NO_INJURED",
+		text: "@ n'est plus blessée"
+	},{
+		id: "IDOL__HIATUS_RETURNED",
+		text: "@ est de retour de son arrêt maladie"
+	},{
+		id: "IDOL__WILL_GRADUATE",
+		text: "@ sera diplômée dans 3 mois"
+	},{
+		id: "IDOL__WISH_FULFILLED",
+		text: "Souhait exaucé"
+	},{
+		id: "IDOL__SATISF",
+		text: "@% satisf."
+	},{
+		id: "IDOL__IDLE",
+		text: "Inactive"
+	},{
+		id: "IDOL__PHYS_REC",
+		text: "Récupération de santé physique"
+	},{
+		id: "IDOL__MENT_REC",
+		text: "Récupération de santé mentale"
+	},{
+		id: "IDOL__DANCE",
+		text: "Entrainement de danse"
+	},{
+		id: "IDOL__VOCAL",
+		text: "Entrainement vocal"
+	},{
+		id: "IDOL__COOL",
+		text: "Stylisme Cool"
+	},{
+		id: "IDOL__SEXY",
+		text: "Stylisme Sexy"
+	},{
+		id: "IDOL__PRETTY",
+		text: "Stylisme Jolie"
+	},{
+		id: "IDOL__CUTE",
+		text: "Stylisme Mignonne"
+	},{
+		id: "IDOL__PRACTICE",
+		text: "Entrainement"
+	},{
+		id: "IDOL__GRAD",
+		text: "Diplômée dans @ jours"
+	},{
+		id: "IDOL__GRAD_SOON",
+		text: "Diplômée bientôt"
+	},{
+		id: "IDOL__POLICY_SNS",
+		text: "Politique: Réseaux sociaux"
+	},{
+		id: "IDOL__POLICY_STREAMING",
+		text: "Politique: Streaming"
+	},
+
+	{
+		id: "BD__TITLE_1",
+		text: "@ fête son"
+	},{
+		id: "BD__TITLE_2",
+		text: "@e anniversaire"
+	},{
+		id: "BD__AGE",
+		text: "@ ans"
+	},{
+		id: "BD__HISTORY",
+		text: "Date prévue de remise du diplôme"
+	},{
+		id: "BD__GRADUATION",
+		text: "Remise du diplôme"
+	},
+
+	{
+		id: "IDOLS",
+		text: "Idoles"
+	}, {
+		id: "STAMINA",
+		text: "Santé"
+	}, {
+		id: "PHYSICAL_STAMINA",
+		text: "Santé physique"
+	},{
+		id: "PHYSICAL_STAMINA_SHORT",
+		text: "End. Physique"
+	}, {
+		id: "MENTAL_STAMINA",
+		text: "Santé mentale"
+	},{
+		id: "MENTAL_STAMINA_SHORT",
+		text: "End. Mentale"
+	}, {
+		id: "LEVEL",
+		text: "Niveau"
+	}, {
+		id: "LVL",
+		text: "niv"
+	},{
+		id: "FAN",
+		text: "Fan"
+	}, {
+		id: "FANS",
+		text: "Fans"
+	}, {
+		id: "HYPE",
+		text: "Hype"
+	},{
+		id: "FAME",
+		text: "Célébrité"
+	}, {
+		id: "CUTE",
+		text: "Mignonne"
+	},{
+		id: "COOL",
+		text: "Cool"
+	},{
+		id: "SEXY",
+		text: "Sexy"
+	},{
+		id: "PRETTY",
+		text: "Jolie"
+	},{
+		id: "DANCE",
+		text: "Danse"
+	},{
+		id: "VOCAL",
+		text: "Chant"
+	},{
+		id: "FUNNY",
+		text: "Drôle"
+	},{
+		id: "SMART",
+		text: "Intelligente"
+	},{
+		id: "TEAM_CHEMISTRY",
+		text: "Alchimie du groupe"
+	},{
+		id: "COST",
+		text: "Coût"
+	},{
+		id: "MONTHS",
+		text: "Mois"
+	},{
+		id: "GIRL",
+		text: "Fille"
+	},{
+		id: "GIRLS",
+		text: "Filles"
+	},{
+		id: "BUZZ",
+		text: "Buzz"
+	},{
+		id: "PT",
+		text: "pt"
+	},{
+		id: "MONTH",
+		text: "Mois"
+	},{
+		id: "MONTHS",
+		text: "Mois"
+	},{
+		id: "MONEY",
+		text: "Argent"
+	},{
+		id: "SCANDAL_POINTS",
+		text: "Points de scandale"
+	},{
+		id: "COST",
+		text: "Coût"
+	},{
+		id: "RESOURCES",
+		text: "Ressources"
+	},{
+		id: "GROUP",
+		text: "Groupe"
+	},{
+		id: "MAN",
+		text: "Homme"
+	},{
+		id: "WOMAN",
+		text: "Femme"
+	},{
+		id: "BACK",
+		text: "Retour"
+	},{
+		id: "SALARY",
+		text: "Salaire"
+	},{
+		id: "SATISFIED",
+		text: "Satisfaite"
+	},{
+		id: "NICKNAME",
+		text: "Surnom"
+	},{
+		id: "STATUS",
+		text: "Statut"
+	},{
+		id: "ENABLED",
+		text: "Activé"
+	},{
+		id: "DISABLED",
+		text: "Désactivé"
+	},{
+		id: "SELECT",
+		text: "Sélectionner"
+	},{
+		id: "PER_WEEK",
+		text: "/s"
+	},{
+		id: "TOTAL",
+		text: "Total"
+	},{
+		id: "OK",
+		text: "OK"
+	},
+
+	{
+		id: "GUI__FULL",
+		text: "Complet"
+	},{
+		id: "GUI__COMPACT",
+		text: "Compact"
+	},
+
+	{
+		id: "FAME_REQUIRED",
+		text: "Célébrité requise"
+	},{
+		id: "FANS_REQUIRED",
+		text: "Fans requis"
+	},{
+		id: "TO_UNLOCK",
+		text: "pour débloquer"
+	},{
+		id: "TO_UPGRADE",
+		text: "pour améliorer"
+	},
+
+	{
+		id: "MS",
+		text: "Mme. @"
+	},{
+		id: "MR",
+		text: "Mr. @"
+	}
+
+	{
+		id: "FAN_M",
+		text: "Homme"
+	},{
+		id: "FAN_F",
+		text: "Femme"
+	},{
+		id: "FAN_C",
+		text: "Casu"
+	},{
+		id: "FAN_HC",
+		text: "Hardcore"
+	},{
+		id: "FAN_T",
+		text: "Teen"
+	},{
+		id: "FAN_YA",
+		text: "Jeune adulte"
+	},{
+		id: "FAN_A",
+		text: "Adulte"
+	},{
+		id: "FAN_M_SHORT",
+		text: "M"
+	},{
+		id: "FAN_F_SHORT",
+		text: "F"
+	},{
+		id: "FAN_C_SHORT",
+		text: "C"
+	},{
+		id: "FAN_HC_SHORT",
+		text: "HC"
+	},{
+		id: "FAN_T_SHORT",
+		text: "J"
+	},{
+		id: "FAN_YA_SHORT",
+		text: "JA"
+	},{
+		id: "FAN_A_SHORT",
+		text: "A"
+	},
+
+	{
+		id: "MSG__NOT_ENOUGH_MONEY",
+		text: "Pas assez d'argent"
+	},{
+		id: "MSG__RMB_TO_CANCEL",
+		text: "Clic droit pour annuler"
+	},{
+		id: "MSG__NOT_AVAILABLE",
+		text: "Non disponible dans cette version"
+	},{
+		id: "MSG__ONE_ROOM",
+		text: "Vous ne pouvez avoir qu'une seule pièce de ce type"
+	},{
+		id: "MSG__NO_SPACE",
+		text: "Pas assez de place à cet étage"
+	},
+
+	///// Beta 9
+
+	{
+		id: "CM__MENT_RECOVERY",
+		text: "Récupération de santé mentale"
+	},{
+		id: "CM__PHYS_RECOVERY",
+		text: "Récupération de santé physique"
+	},{
+		id: "CM__MENT_TREATMENT",
+		text: "Traitement de la dépression"
+	},{
+		id: "CM__PHYS_TREATMENT",
+		text: "Traitement des blessures"
+	},
+
+	{
+		id: "WIDGET__EVENTS_WAITING",
+		text: "Événements en attente"
+	},{
+		id: "NOTIFICATIONS",
+		text: "Notifications"
+	},
+
+	{
+		id: "IDOL__AVG_EARNINGS",
+		text: "Gains moyens"
+	},{
+		id: "IDOL__TOTAL_EARNINGS",
+		text: "Gains totaux"
+	},{
+		id: "IDOL__EARNINGS_TIP",
+		text: "*Combien cette idole a gagné pour votre groupe\n(singles, émissions, contrats, concerts, etc)"
+	},
+
+	{
+		id: "LAUNCH",
+		text: "Lancer"
+	},
+
+	{
+		id: "PLAYER_REL__INFLUENCE",
+		text: "Influence"
+	},{
+		id: "PLAYER_REL__FRIENDSHIP",
+		text: "Amitié"
+	},{
+		id: "PLAYER_REL__ROMANCE",
+		text: "Romance"
+	},
+
+	{
+		id: "MAX",
+		text: "Max"
+	},{
+		id: "MIN",
+		text: "Min"
+	},
+
+
+	{
+		id: "DATE__STOP_BULLYING",
+		text: "Arrêter de harceler"
+	},{
+		id: "DATE__FIND_BLACKMAIL_MATERIAL",
+		text: "Trouver des dossiers de chantage"
+	},{
+		id: "DATE__FORCE_BREAKUP",
+		text: "Forcer à rompre avec son copain/copine"
+	},{
+		id: "DATE__NOT_ENOUGH_INFLUENCE",
+		text: "Pas assez d'influence"
+	},{
+		id: "DATE__INFLUENCE_COST",
+		text: "Coût en influence"
+	},{
+		id: "DATE__INFLUENCE_COST_SHORT",
+		text: "Coût infl."
+	},{
+		id: "DATE__NO_BULLY",
+		text: "Vous ne savez pas si @ harcèle quelqu'un"
+	},{
+		id: "DATE__NO_PARTNER",
+		text: "Vous ne savez pas si @ est fréquente quelqu'un"
+	},{
+		id: "DATE__TALK_INFLUENCE",
+		text: "Influence"
+	},
+
+	{
+		id: "PROFILE__STOPPED_BULLYING",
+		text: "a arrêté de harceler"
+	},
+
+	{
+		id: "STAFF__HIRE",
+		text: "Engager"
+	},
+
+	{
+		id: "SINGLES__NEW_SINGLE",
+		text: "Nouveau single"
+	},{
+		id: "SINGLES__PRODUCTION",
+		text: "Production"
+	},{
+		id: "SINGLES__RELEASED",
+		text: "Sorti"
+	},{
+		id: "SINGLES__RELEASE",
+		text: "Sortie"
+	},{
+		id: "SINGLES__REPLACED",
+		text: "Certaines membres ont été remplacés suite à leur diplôme"
+	},{
+		id: "SINGLES_CHART_POS",
+		text: "Classement dans les charts"
+	},{
+		id: "SINGLES__SALES",
+		text: "Ventes"
+	},{
+		id: "SINGLES__SALES_PER_FAN",
+		text: "Ventes par fan"
+	},{
+		id: "SINGLES__FAN_SATISF",
+		text: "Satisfaction des fans"
+	},
+
+
+	{
+		id: "SHOW__REPLACED",
+		text: "Certaines membres du casting ont été remplacés suite à leur diplôme"
+	},{
+		id: "SHOW__RELAUNCH",
+		text: "Relancer"
+	},{
+		id: "SHOW__NEW_SHOW",
+		text: "Nouvelle émission"
+	},{
+		id: "SHOW__CANCELED",
+		text: "Annulé"
+	},{
+		id: "SHOW__FATIGUE",
+		text: "Lassitude"
+	},{
+		id: "SHOW__EPISODE",
+		text: "Épisode"
+	},
+
+
+	{
+		id: "CONCERT__AUDIENCE",
+		text: "Audience"
+	},{
+		id: "CONCERT__TICKET_PRICE",
+		text: "Prix du billet"
+	},
+
+
+	{
+		id: "IDOL__ACTIVE",
+		text: "Active"
+	},{
+		id: "IDOL__GRADUATED",
+		text: "Diplômée"
+	},{
+		id: "SEVENT__REPLACED",
+		text: "Certaines membres ont été remplacés suite à leur diplôme"
+	},
+
+
+	{
+		id: "SEVENT__NEW",
+		text: "Nouvel événement spécial"
+	},{
+		id: "SEVENT__FINISHED",
+		text: "Terminé"
+	},
+
+
+	{
+		id: "TOUR__COUNTRIES",
+		text: "Pays"
+	},
+
+
+	{
+		id: "LP__PUSHES_TIP",
+		text: "Les idoles pistonnées reçoivent 50+% de toutes les propositions commerciales.\nElles reçoivent également plus de points de célébrité des singles et des shows, mais les autres idoles en reçoivent moins.{separator}Vous obtenez des points d'influence sur les idoles pistonnées pour chaque mois de piston, mais cela peut également endommager leurs relations et vos relations avec les autres idoles qui pensent que le piston est injuste."
+	},{
+		id: "LP__MAIN_MENU",
+		text: "Menu principal"
+	},{
+		id: "LP__SAVE",
+		text: "Sauvegarder"
+	},{
+		id: "LP__LOAD",
+		text: "Charger"
+	},{
+		id: "LP__SETTINGS",
+		text: "Paramètres"
+	},{
+		id: "LP__SAVE_QUIT",
+		text: "Sauvegarder et quitter"
+	},
+
+	{
+		id: "AGENCY__SOCIALIZE",
+		text: "Socialiser"
+	},
+
+	{
+		id: "NOTIF__IDOL_REL_YOU",
+		text: "Vous"
+	},
+
+	{
+		id: "CM__AUTO_PRACTICE",
+		text: "Entrainement automatique"
+	},{
+		id: "CM__REMOVE_FROM_ROOM",
+		text: "Retirer de la pièce"
+	},{
+		id: "CM__FIRE",
+		text: "Licencier"
+	},{
+		id: "CM__HIATUS_LENGTH",
+		text: "90 jours"
+	},{
+		id: "CM__DONT_PRACTICE",
+		text: "Ne pas s'entrainer"
+	},{
+		id: "CM__VISUAL",
+		text: "Tous les paramètres visuels"
+	},{
+		id: "CM__AUTO_PROPOSALS",
+		text: "Propositions automatiques"
+	},{
+		id: "CM__PREF_PROPOSALS",
+		text: "Propositions préférées"
+	},{
+		id: "CM__HIGHEST_STAT",
+		text: "Statistique la plus élevée"
+	},{
+		id: "CM__LOWEST_STAT",
+		text: "Statistique la plus basse"
+	},{
+		id: "CM__AUTO_STYLING",
+		text: "Stylisme automatique"
+	},{
+		id: "CM__PREF_STYLE",
+		text: "Style préféré"
+	},
+
+	{
+		id: "BIZ_AD",
+		text: "Publicité"
+	},{
+		id: "BIZ__TV",
+		text: "Série TV"
+	},{
+		id: "BIZ__VARIETY_SHOW",
+		text: "Émission de variétés"
+	},
+
+	///// Beta 10
+
+	{
+		id: "PROFILE__DATING_UNKNOWN",
+		text: "Statut de relation inconnu"
+	},{
+		id: "PROFILE__DATING_NOT_DATING",
+		text: "Pas en couple"
+	},{
+		id: "PROFILE__DATING_IDOL",
+		text: "En couple avec @"
+	},{
+		id: "PROFILE__DATING_IDOL_UNKNOWN",
+		text: "En couple avec une autre idole du groupe"
+	},{
+		id: "PROFILE__DATING_HAS_BF",
+		text: "A un petit ami"
+	},{
+		id: "PROFILE__DATING_HAS_GF",
+		text: "A une petite amie"
+	},{
+		id: "PROFILE__DATING_YOU",
+		text: "En couple avec vous"
+	},{
+		id: "PROFILE__DATING_STRAIGHT",
+		text: "Hétérosexuelle"
+	},{
+		id: "PROFILE__DATING_LESBIAN",
+		text: "Homosexuelle"
+	},{
+		id: "PROFILE__DATING_BI",
+		text: "Bisexuelle"
+	},{
+		id: "PROFILE__DATING_PREF_UNKNOWN",
+		text: "Préférences inconnues"
+	},{
+		id: "PROFILE__DATING_NOT_INTERESTED",
+		text: "Pas intéressée par vous"
+	},{
+		id: "PROFILE__DATING_INTERESTED",
+		text: "Peut envisager une relation avec vous"
+	},
+
+	{
+		id: "SINGLES__CHART",
+		text: "Chart des singles"
+	},{
+		id: "SINGLES__SALES_CHART",
+		text: "Chart des ventes"
+	},
+
+	{
+		id: "STYLING__SELECT_IDOL",
+		text: "Sélection idole"
+	},
+
+	{
+		id: "LP_TITLE__POLICIES_TIP",
+		text: "Engagez une employée de bureau et une employée de danse pour débloquer"
+	},
+
+	///// Beta 11
+
+	{
+		id: "SINGLE__TRENDINESS",
+		text: "Bonus tendance"
+	},{
+		id: "SINGLE__OBSCURITY",
+		text: "Bonus underground"
+	},{
+		id: "SINGLE__NEW_HC_FANS",
+		text: "Nouveaux fans hardcore"
+	},{
+		id: "SINGLE__NEW_C_FANS",
+		text: "Nouveaux fans casu"
+	},{
+		id: "SINGLES__CHART_TIP",
+		text: "Les genres, thèmes de paroles et styles de chorégraphie tendance attirent de nouveaux fans casu.\n\nLes genres, thèmes de paroles et styles de chorégraphie underground attirent de nouveaux fans hardcore."
+	},{
+		id: "SINGLES__CENTER",
+		text: "Centre"
+	},{
+		id: "SINGLES__PARTICIPATION",
+		text: "Participation au single"
+	},
+
+	{
+		id: "LOANS__CREDIT_HISTORY",
+		text: "Historique de crédit"
+	},{
+		id: "LOANS__PAY_OFF",
+		text: "Rembourser"
+	},{
+		id: "LOANS__CREDITOR",
+		text: "Créancier"
+	},{
+		id: "LOANS__TOTAL_AMOUNT",
+		text: "Montant total"
+	},{
+		id: "LOANS__DEBT",
+		text: "Dette"
+	},{
+		id: "LOANS__WEEKLY_PAYMENT_2",
+		text: "Paiement hebdomadaire"
+	},{
+		id: "LOANS__END_DATE",
+		text: "Date de fin"
+	},
+
+	{
+		id: "STYLING__BUTTON",
+		text: "Vous avez besoin d'au moins une idole, un styliste et une salle de stylisme pour débloquer le stylisme"
+	},
+
+	{
+		id: "AWARDS",
+		text: "Awards"
+	},{
+		id: "AWARD",
+		text: "Award"
+	},{
+		id: "AWARDS__NOMINATION",
+		text: "Nomination"
+	},
+	{
+		id: "AWARDS__BEST_DEBUT_IDOL",
+		text: "Meilleure nouvelle idole"
+	},{
+		id: "AWARDS__BEST_EMPLOYER",
+		text: "Meilleur employeur"
+	},{
+		id: "AWARDS__BEST_SINGLE",
+		text: "Meilleur single"
+	},{
+		id: "AWARDS__FASHION_ICON",
+		text: "Icône de la mode"
+	},{
+		id: "AWARDS__GRAVURE_QUEEN",
+		text: "Gravure de mode"
+	},{
+		id: "AWARDS__MOST_PERFORMANCES",
+		text: "Performeuse"
+	},{
+		id: "AWARDS__MOST_PROLIFIC_GROUP",
+		text: "Groupe le plus prolifique"
+	},{
+		id: "AWARDS__MOST_PROMOTIONS",
+		text: "Meilleure évolution"
+	},{
+		id: "AWARDS__VARIETY_QUEEN",
+		text: "Reine de la variété"
+	},{
+		id: "AWARDS__BEST_CONCERT",
+		text: "Meilleur concert"
+	},
+	{
+		id: "AWARDS__NEXT_DATE",
+		text: "Prochaine cérémonie"
+	},
+	{
+	    id: "AWARDS__BEST_DEBUT_IDOL_NOM_REQ",
+	    text: "Monter une nouvelle idole au niveau @ de célébrité"
+	},{
+	    id: "AWARDS__BEST_EMPLOYER_NOM_REQ",
+	    text: "Ne laissez pas les idoles se fatiguer, gardez une satisfaction de salaire élevée et évitez les blessures et la dépression"
+	},{
+	    id: "AWARDS__BEST_EMPLOYER_WIN_REQ",
+	    text: "Gardez la santé de toutes les idoles au-dessus de 20%, la satisfaction de salaire au-dessus de 80% et évitez les blessures et la dépression"
+	},{
+	    id: "AWARDS__BEST_SINGLE_NOM_REQ",
+	    text: "Sortir un single utilisant le genre, le thème de paroles et le style de chorégraphie les plus populaires"
+	},{
+	    id: "AWARDS__BEST_SINGLE_WIN_REQ",
+	    text: "Atteindre le top des charts avec un single utilisant le genre, le thème de paroles et le style de chorégraphie les plus populaires"
+	},{
+	    id: "AWARDS__FASHION_ICON_NOM_REQ",
+	    text: "Avoir @ propositions commerciales avec une idole \"jolie\""
+	},{
+	    id: "AWARDS__GRAVURE_QUEEN_NOM_REQ",
+	    text: "Avoir @ propositions commerciales avec une idole \"sexy\""
+	},{
+	    id: "AWARDS__MOST_PERFORMANCES_NOM_REQ",
+	    text: "Faire @ spectacles"
+	},{
+	    id: "AWARDS__MOST_PROLIFIC_GROUP_NOM_REQ",
+	    text: "Total des singles, concerts, tournées mondiales et élections sortis d'au moins @"
+	},{
+	    id: "AWARDS__MOST_PROMOTIONS_NOM_REQ",
+	    text: "Faire @ promotions"
+	},{
+	    id: "AWARDS__VARIETY_QUEEN_NOM_REQ",
+	    text: "Avoir @ propositions commerciales pour une idole dans une \"émission de variétés\""
+	},{
+	    id: "AWARDS__BEST_CONCERT_NOM_REQ",
+	    text: "Terminer un concert avec @% de hype"
+	},
+	{
+	    id: "AWARDS__BEST_DEBUT_IDOL_NOM_REWARD",
+	    text: "Bonus de @ aus fans et points de célébrité pour cette idole"
+	},{
+	    id: "AWARDS__BEST_SINGLE_NOM_REWARD",
+	    text: "Bonus de @ au montant de nouveaux fans que vous acquérez avec les nouveaux singles"
+	},{
+	    id: "AWARDS__FASHION_ICON_NOM_REWARD",
+	    text: "La valeur minimale de la statistique \"jolie\" de cette idole est <green>80</color>; @ bonus pour ses propositions commerciales \"jolie\""
+	},{
+	    id: "AWARDS__FASHION_ICON_WIN_REWARD",
+	    text: "Minimum value of this idol's \"pretty\" stat is <green>90</color>; @ bonus to her \"pretty\" business proposals"
+	    text: "La valeur minimale de la statistique \"jolie\" de cette idole est <green>90</color>; @ bonus pour ses propositions commerciales \"jolie\""
+	},{
+	    id: "AWARDS__GRAVURE_QUEEN_NOM_REWARD",
+	    text: "La valeur minimale de la statistique \"sexy\" de cette idole est <green>80</color>; @ bonus pour ses propositions commerciales \"sexy\""
+	},{
+	    id: "AWARDS__GRAVURE_QUEEN_WIN_REWARD",
+	    text: "La valeur minimale de la statistique \"sexy\" de cette idole est <green>90</color>; @ bonus pour ses propositions commerciales \"sexy\""
+	},{
+	    id: "AWARDS__MOST_PERFORMANCES_NOM_REWARD",
+	    text: "@ de bonus aux spectacles"
+	},{
+	    id: "AWARDS__MOST_PROLIFIC_GROUP_NOM_REWARD",
+	    text: "Les coûts de production des singles, concerts, élections et tournées mondiales sont réduits de @"
+	},{
+	    id: "AWARDS__MOST_PROMOTIONS_NOM_REWARD",
+	    text: "@ de bonus aux promotions"
+	},{
+	    id: "AWARDS__VARIETY_QUEEN_NOM_REWARD",
+	    text: "@ de bonus pour ses propositions commerciales \"émission de variétés\"; <green>x1.25</color> de bonus pour l'audience de l'émission lorsqu'elle est dans le casting"
+	},{
+	    id: "AWARDS__VARIETY_QUEEN_WIN_REWARD",
+	    text: "@ de bonus pour ses propositions commerciales \"émission de variétés\"; <green>x2</color> de bonus pour l'audience de l'émission lorsqu'elle est dans le casting"
+	},{
+	    id: "AWARDS__BEST_CONCERT_NOM_REWARD",
+	    text: "L'idole dépense @ moins de santé lorsqu'elle est au centre d'une chanson à un concert"
+	},
+	{
+	    id: "AWARDS__UNLOCK",
+	    text: "[Gagner une fois ou être nominé 3 fois pour voir]"
+	},
+	{
+		id: "AWARDS__SPEECHES",
+		text: "Il est temps de planifier les Group Awards annuels. Quels membres du groupe devraient faire les discours de remerciement si nous gagnons?"
+	},{
+		id: "AWARDS__FIRST_TIME",
+		text: "Il est temps de décider qui ira à la cérémonie des Group Awards."
+	},
+
+	{
+		id: "YEAR",
+		text: "Année"
+	},
+
+	// Beta 12
+
+	{
+		id: "MM__AUTOSAVE",
+		text: "Autosave (secondes)"
+	},{
+		id: "MM_FIRST_NAME_RIVAL",
+		text: "Prénom du rival"
+	},{
+		id: "MM_LAST_NAME_RIVAL",
+		text: "Nom de famille du rival"
+	},{
+		id: "MM_GROUP_NAME_RIVAL",
+		text: "Nom du groupe rival"
+	},
+
+	{
+		id: "CONCERT__SSK",
+		text: "Vous pourrez lancer ce concert dans @ jours"
+	},{
+		id: "CONCERT__SSK_SINGLE",
+		text: "Vous pourrez lancer ce concert après la sortie du single de vote"
+	},
+
+	{
+		id: "DIFF__NOT_AVAILABLE",
+		text: "Indisponible avec cette difficulté"
+	},
+	{
+		id: "DIFF",
+		text: "Difficulté"
+	},{
+		id: "DIFF__EASY",
+		text: "Détente"
+	},{
+		id: "DIFF__NORMAL",
+		text: "Normal"
+	},{
+		id: "DIFF__HARD",
+		text: "Injuste"
+	},{
+		id: "DIFF__EASY_DESC",
+		text: "Pas de risque d'échec. L'argent n'est pas un problème.\nNon recommandé pour les nouveaux joueurs."
+	},{
+		id: "DIFF__NORMAL_DESC",
+		text: "Expérience stimulante. Il vous faudra peut-être un certain temps pour trouver une stratégie qui fonctionne pour vous.\nRecommandé pour une première partie."
+	},{
+		id: "DIFF__HARD_DESC",
+		text: "Essayez si vous êtes prêt pour un nouveau défi.\nNon recommandé pour les nouveaux joueurs."
+	},
+
+	{
+		id: "MSG__NEED_FANS_FOR_CAFE",
+		text: "Vous avez besoin de @ fans pour construire un autre café"
+	},
+
+	{
+		id: "CAFE__AUTO",
+		text: "Auto"
+	},{
+		id: "CAFE__PRIO",
+		text: "Priorité:"
+	},{
+		id: "CAFE__PRIO_POPULAR",
+		text: "Idoles populaires"
+	},{
+		id: "CAFE__PRIO_UNPOPULAR",
+		text: "Idoles impopulaires"
+	},{
+		id: "CAFE__STAMINA_LIMIT",
+		text: "Limite de santé:"
+	},{
+		id: "CAFE__LIM_75",
+		text: "75 pt"
+	},{
+		id: "CAFE__LIM_50",
+		text: "50 pt"
+	},{
+		id: "CAFE__LIM_20",
+		text: "20 pt"
+	},{
+		id: "CAFE__LIM_0",
+		text: "0 pt"
+	},{
+		id: "CAFE__LIM_NO",
+		text: "Pas de limite"
+	},{
+		id: "CAFE__1_FLOOR",
+		text: "Café (1 étage)"
+	},{
+		id: "CAFE__FLOORS",
+		text: "Café (@ étages)"
+	},{
+		id: "CAFE__OCCUPANCY",
+		text: "Affluence"
+	},{
+		id: "CAFE__TOTAL_INCOME",
+		text: "Revenu quoitidien total"
+	},{
+		id: "CAFE__NEW_FANS",
+		text: "Nouveaux fans par idole par service"
+	},{
+		id: "CAFE__TIP",
+		text: "Améliorez votre activité quotidienne de promotion pour augmenter les revenus et les nouveaux fans"
+	},
+
+	// Beta 13
+
+	{
+		id: "STAFF__FIRE_COOLDOWN",
+		text: "Vous pouvez licencier un employé en utilisant des points de scandale dans @ jours"
+	},
+
+	{
+		id: "SP_SCANDALPOINTS",
+		text: "Points de scandale"
+	},{
+		id: "SP__TO_REMOVE",
+		text: "Points à retirer"
+	},{
+		id: "SP__LEFT",
+		text: " [@ restants]"
+	},{
+		id: "SP__GROUP_POINTS",
+		text: "Points du groupe"
+	},
+
+	{
+		id: "REL__EVERYONE_LIKED",
+		text: "Tout le monde a aimé ça"
+	},{
+		id: "REL__EVERYONE_DISLIKED",
+		text: "Tout le monde a détesté ça"
+	},
+
+	{
+		id: "SINGLE__ELECTION",
+		text: "Single de l'élection"
+	},
+	{
+		id: "SINGLE__ELECTION_TIP",
+		text: ""
+	},{
+		id: "GROUPS__NEW_GROUP",
+		text: "Nouveau groupe"
+	},{
+		id: "GROUPS__NEW_GROUP_TOOLTIP",
+		text: "Vous devez engager @ idoles pour créer un nouveau groupe"
+	},
+
+	{
+		id: "SINGLE__CONCERT",
+		text: "Vous pouvez lancer le concert de l'élection deux semaines après la sortie du single"
+	},{
+		id: "GROUPS__SELECT_APPEAL",
+		text: "Sélectionnez votre public cible"
+	},{
+		id: "GROUPS__SELECT_TITLE",
+		text: "Nommez votre groupe"
+	},
+
+	{
+		id: "GROUPS__NEW_FANS",
+		text: "Nouveaux fans par single"
+	},{
+		id: "GROUPS__TOTAL_FANS",
+		text: "Fans totaux"
+	},{
+		id: "GROUPS__MAX_FANS",
+		text: "Fans max"
+	},
+
+	{
+		id: "GROUPS__AVAILABLE",
+		text: "Disponible dans @ jours"
+	},
+
+	{
+		id: "MM_AUTOSCROLL",
+		text: "Défilement automatique lorsque le curseur est sur le bord de l'écran"
+	},
+
+	{
+		id: "SP__NO_PLAT",
+		text: "Vous ne recevez pas d'idole platine lors des auditions"
+	},{
+		id: "SP__NO_GOLD",
+		text: "Vous ne recevez pas d'idole or ou platine lors des auditions"
+	},{
+		id: "SP__BONUS_FANS",
+		text: "Obscurity/Popularity Bonus"
+		text: "Bonus Underground/Populaire"
+	},{
+		id: "SP__SINGLES",
+		text: "Ventes de singles"
+	},{
+		id: "SP__CONCERTS",
+		text: "Remplissage des concerts"
+	},
+
+	{
+		id: "POLICY__ONCE",
+		text: "Vous ne pouvez changer cette politique qu'une fois"
+	},{
+		id: "POLICY__NO_MORE",
+		text: "Vous ne pouvez plus changer cette politique"
+	},{
+		id: "POLICY__COOLDOWN",
+		text: "Vous pouvez changer cette politique dans @ jours"
+	},
+
+	{
+		id: "GROUPS__TRANSFER_TIP",
+		text: "Cliquez sur la carte d'une idole et sélectionnez 'groupe' pour l'assigner à un autre groupe. (Le temps de recharge pour transférer des idoles est d'un an.)"
+	},{
+		id: "GROUPS__BIG_TOOLTIP",
+		text: "\"New fans per single\" indicates how many fans of each demographic a sister group will gain when releasing a new single. You can increase this number by \"leveling up\" the sister group's parameters: each level up lets you spend one point toward appeal with a demographic of your choosing.\n\nEach single released will give progress toward \"leveling up\" group parameters based on the parameters of the idol formation used for that single."
+		text: "\"Nouveaux fans par single\" indique combien de fans de chaque démographie un groupe enfant gagnera lors de la sortie d'un nouveau single. Vous pouvez augmenter ce nombre en \"augmentant le niveau\" dans les paramètres du groupe enfant: chaque niveau supplémentaire vous permet de dépenser un point pour l'attrait avec une démographie de votre choix.\n\nChaque single sorti permettra de progresser vers l'\"augmentation de niveau\" du groupe selon les paramètres de la formation d'idoles utilisées pour ce single."
+	},
+
+	// BETA 14
+
+	{
+		id: "BUSINESS__NO_IDOLS_TIP",
+		text: "You don't have any active idols"
+		text: "Vous n'avez pas d'idole active"
+	},{
+		id: "BUSINESS__NEED_RESEARCH",
+		text: "Vous pouvez débloquer des propositions commerciales dans l'onglet \"Recherche\""
+	},{
+		id: "SP__PENALTY",
+		text: "[Pénalité] Points de scandale"
+	},{
+		id: "SP__LIAB_PENALTY",
+		text: "De plus, les idoles avec plus de 2 points de scandale ont des taux de responsabilité encore plus élevés"
+	},
+
+	{
+		id: "BLOODRAIN",
+		text: "Pluie De Sang"
+	},{
+		id: "DEATHSTORM",
+		text: "Tempête Mortelle"
+	},{
+		id: "NIGHTSHADE",
+		text: "Ombre Nocturne"
+	},{
+		id: "SHADOW",
+		text: "Ombre"
+	},
+
+	{
+		id: "SKIP",
+		text: "Passer"
+	},{
+		id: "LOG",
+		text: "Journal"
+	},
+
+	{
+		id: "THEATER__SCHEDULE",
+		text: "Emploi du temps"
+	},{
+		id: "THEATER__PRICING",
+		text: "Tarification"
+	},{
+		id: "THEATER__PERFORMANCE",
+		text: "Spectacle"
+	},{
+		id: "THEATER__MANZAI",
+		text: "manzai"
+	},{
+		id: "THEATER__DAY_OFF",
+		text: "Jour de congé"
+	},{
+		id: "THEATER__DAY",
+		text: "Jour"
+	},{
+		id: "THEATER__EVERYONE",
+		text: "Tout le monde"
+	},{
+		id: "THEATER__ATTENDANCE_TIP",
+		text: "Moyenne des 7 derniers spectacles"
+	},{
+		id: "THEATER__SUB_REV",
+		text: "Revenu [Par mois]"
+	},{
+		id: "THEATER__SUBS",
+		text: "Abonnés"
+	},{
+		id: "THEATER__SUB_PRICE",
+		text: "Prix de l'abonnement [Par mois]"
+	},{
+		id: "THEATER__RESEARCH_TIP",
+		text: "Coût: @ points de recherche [Manager de bureau]"
+	},{
+		id: "THEATER__STREAMING",
+		text: "Streaming"
+	},{
+		id: "THEATER__STREAMING_UNLOCK_TIP",
+		text: "Vous devez \"rechercher\" le streaming pour ce théâtre et acheter l'équipement nécessaire"
+	},{
+		id: "THEATER__CANT_BUILD",
+		text: "Vous ne pouvez avoir qu'un seul théâtre par groupe"
+	},{
+		id: "THEATER__BUILD_TIP",
+		text: "Établissez un emploi du temps et gagnez de l'argent en donnant des spectacles\n\nAugmentez vos revenus en améliorant le théâtre pour activer le streaming et vendre des abonnements à vos fans"
+	},{
+		id: "THEATER__PERFORMANCE_TIP",
+		text: "Les performances sont équitablement attrayantes pour tous les fans"
+	},{
+		id: "THEATER__MANZAI_TIP",
+		text: "Les fans casu ne sont pas très intéressés par le manzai"
+	},{
+		id: "THEATER__PERFORMANCE_TRAINING_TIP",
+		text: "Toutes les idoles de @ gagnent de l'expérience en Danse et en Chant à chaque spectacle"
+	},{
+		id: "THEATER__MANZAI_TRAINING_TIP",
+		text: "Toutes les idoles de @ gagnent de l'expérience en Drôle et Intelligent à chaque spectacle de manzai"
+	},{
+		id: "THEATER__STAMINA_TIP",
+		text: "Toutes les idoles de @ dépensent de la santé"
+	},{
+		id: "THEATER__STREAMING_TIP",
+		text: "Vos fans peuvent s'abonner à votre service de streaming et regarder des spectacles pour un tarif mensuel\n\nVous gagnerez ou perdrez des abonnés chaque jour. Les fans décident s'ils veulent s'abonner ou non en fonction des 30 derniers jours. Les principaux facteurs qui influent sur cela sont:\n- Prix de l'abonnement\n- Les fans hardcore sont plus faciles à obtenir que les fans casu\n- Les fans adultes sont plus faciles à obtenir que les adolescents\n- Les fans casu ne sont pas intéressés par le manzai\n- Nombre de jours de congé dans un mois\n\nVous gagnez des abonnés en vendant le service à vos fans existants. Vous ne pouvez pas avoir plus d'abonnés que de fans, mais augmenter votre nombre de fans vous en donnera plus"
+	},
+
+	{
+		id: "SUNDAY",
+		text: "Dimanche"
+	},{
+		id: "MONDAY",
+		text: "Lundi"
+	},{
+		id: "TUESDAY",
+		text: "Mardi"
+	},{
+		id: "WEDNESDAY",
+		text: "Mercredi"
+	},{
+		id: "THURSDAY",
+		text: "Jeudi"
+	},{
+		id: "FRIDAY",
+		text: "Vendredi"
+	},{
+		id: "SATURDAY",
+		text: "Samedi"
+	},
+
+	{
+		id: "NOT_AVAILABLE",
+		text: "Indisponible"
+	},{
+		id: "ENABLE",
+		text: "Activer"
+	},{
+		id: "DISABLE",
+		text: "Désactiver"
+	},
+
+	// BETA 15
+
+	{
+		id: "ROOM__DESTROY",
+		text: "Détruire la pièce"
+	},
+
+	{
+		id: "SINGLE__LOWERS_REVENUE",
+		text: "Diminue le revenu par vente à @"
+	},{
+		id: "SINGLE__INCREASES_REVENUE",
+		text: "Augmente le revenu par vente de @"
+	},{
+		id: "SINGLE__TRENDS_NOT_UPDATED",
+		text: "Mise à jour: n/a"
+	},{
+		id: "SINGLE__TRENDS_UPDATED",
+		text: "Mise à jour: il y a @ jours"
+	},{
+		id: "SINGLE__TRENDS",
+		text: "Tendances"
+	},{
+		id: "SINGLE__TRENDS_UPDATE",
+		text: "Mise à jour [@ points de recherche (bureau)]"
+	},{
+		id: "SINGLE__TRENDS_RISING",
+		text: "En hausse en popularité"
+	},{
+		id: "SINGLE__TRENDS_FALLING",
+		text: "En baisse en popularité"
+	},
+
+	{
+		id: "SINGLE__AUTO_CONCERT",
+		text: "Vous pouvez commencer le concert deux semaines après la sortie du single. L'élection commencera juste après le concert."
+	},{
+		id: "SSK__REL_SINGLE",
+		text: "Vous devez sortir le single en premier. Vous pouvez lancer le concert deux semaines après la sortie du single."
+	},{
+		id: "SSK__ORDER_TIP",
+		text: "Le single sera sorti en premier\nVous pouvez commencer le concert deux semaines après la sortie du single\nL'élection commencera juste après le concert"
+	},{
+		id: "LOANS__AMOUNT_TIP",
+		text: "Le montant disponible dépend de votre niveau de célébrité et de la somme d'argent que vous devez actuellement au créancier sélectionné"
+	},
+
+	{
+		id: "AWARDS__SHOULD_THANK",
+		text: "Lors de la remise du prix, elle devrait remercier..."
+	},{
+		id: "AWARDS__THANK_YOU",
+		text: "Vous"
+	},{
+		id: "AWARDS__THANK_FUJIMOTO",
+		text: "Fujimoto"
+	},{
+		id: "AWARDS__THANK_IDOL",
+		text: "Une autre idole"
+	},{
+		id: "AWARDS__THANK_STAFFER",
+		text: "Un membre du staff"
+	},{
+		id: "AWARDS__THANK_CHOOSE",
+		text: "La laisser choisir"
+	},
+
+	{
+		id: "PHYSICAL_STAMINA_SPLIT",
+		text: "Santé\nPhysique"
+	},{
+		id: "MENTAL_STAMINA_SPLIT",
+		text: "Santé\nMentale"
+	},{
+		id: "CM__NAME",
+		text: "Nom"
+	},
+
+	{
+		id: "AUDITIONS__STAT_VALUE",
+		text: "Valeur"
+	},{
+		id: "AUDITIONS__STAT_POTENTIAL",
+		text: "Potentiel"
+	},{
+		id: "AUDITIONS__STAT_POTENTIAL_TIP",
+		text: "Les statistiques des idoles s'améliorent 10x moins vite après avoir atteint leur potentiel"
+	},{
+		id: "AGENCY__DESTROY",
+		text: "Détruire"
+	},{
+		id: "AGENCY__DESTROY_CHECK",
+		text: "Voulez-vous vraiment détruire cette pièce ?"
+	},
+
+	// BETA 16
+
+	{
+		id: "HIGH",
+		text: "Élevé"
+	},{
+		id: "NORMAL",
+		text: "Normal"
+	},{
+		id: "LOW",
+		text: "Faible"
+	},{
+		id: "POPULAR",
+		text: "Populaire"
+	},{
+		id: "RANDOM",
+		text: "Aléatoire"
+	},{
+		id: "UNPOPULAR",
+		text: "Impopulaire"
+	},
+
+	{
+		id: "CAFE__CAFE_PRIORITY",
+		text: "Priorité café"
+	},{
+		id: "CAFE__IDOL_PRIORITY",
+		text: "Priorité idoles"
+	},
+
+	{
+		id: "CAFE__WAITSTAFF",
+		text: "Serveurs"
+	},{
+		id: "CAFE__MENU",
+		text: "Menu"
+	},{
+		id: "CAFE__DISHES",
+		text: "Plats"
+	},{
+		id: "CAFE__HIGHEST_STAMINA",
+		text: "Santé la plus élevée"
+	},{
+		id: "CAFE__BEST_STATS",
+		text: "Meilleures statistiques"
+	},{
+		id: "CAFE__AVERAGE_CHECK",
+		text: "Vérification moyenne"
+	},{
+		id: "CAFE__NOVELTY",
+		text: "Originalité"
+	},{
+		id: "CAFE__GUESTS",
+		text: "Invités"
+	},{
+		id: "CAFE__NAME_THE_DISH",
+		text: "Nommez le plat"
+	},{
+		id: "CAFE__DISH_OF_THE_DAY",
+		text: "Plat du jour"
+	},{
+		id: "CAFE__CANT_BUILD",
+		text: "Vous ne pouvez avoir qu'un seul café par groupe"
+	},{
+		id: "CAFE__QUALITY",
+		text: "Qualité"
+	},{
+		id: "CAFE__NEW_DISH",
+		text: "Nouveau plat (1,000 pts. de recherche [bureau])"
+	},{
+		id: "CAFE__BUILD_TIP",
+		text: "Les cafés vous fournissent un revenu quotidien passif qui dépend de votre niveau de performance et de la qualité des plats que vous développez pour votre café.\n\nVous pouvez également envoyer des idoles travailler dans le café pour gagner de nouveaux fans (basé sur votre niveau de promotion et leurs statistiques)"
+	},{
+		id: "CAFE__DISH_AVERAGE_TIP",
+		text: "Affiche les valeurs moyennes des 90 derniers jours"
+	},{
+		id: "CAFE__CAFE_PRIO_TIP",
+		text: "Sélectionnez la priorité du travail au café{separator}Élevée: Les idoles arrêteront leur tâche actuelle et iront travailler au café à la place\n\nNormale: Priorité égale avec toutes les autres tâches\n\nFaible: Les idoles travailleront au café uniquement si elles n'ont rien d'autre à faire"
+	},{
+		id: "CAFE__IDOL_PRIO_TIP",
+		text: "Sélectionnez quelles idoles devraient travailler au café si plus de 3 sont disponibles{separator}Populaire: Idole avec le plus de fans\n\nImpopulaire: Idole avec le moins de fans\n\nSanté physique la plus élevée: Idole avec la santé la plus élevée\n\nMeilleures stats: Idole avec les meilleures statistiques"
+	},{
+		id: "CAFE__STAFF_TIP",
+		text: "Sélectionnez quelles idoles devraient être choisies pour travailler au café. Jusqu'à 3 idoles sont automatiquement sélectionnées chaque jour.{separator}Lorsque les idoles travaillent au café, elles gagnent de nouveaux fans. Le nombre de nouveaux fans est divisé également entre toutes les idoles qui ont travaillé au café ce jour-là.{separator}Le nombre de nouveaux fans dépend de votre niveau de promotion, du nombre d'idols travaillant au café et de leurs statistiques.{separator}Le type de fans que vous obtenez dépend du plat du jour. S'il n'y a pas de plat du jour, le type dépend des statistiques des idoles."
+	},{
+		id: "CAFE__MENU_TIP",
+		text: "Sélectionnez un plat du jour pour chaque jour de la semaine. Vous ne gagnerez pas d'argent les jours sans plat spécial.{separator}Le montant d'argent que vous gagnez dépend de votre niveau de performance, de la qualité du plat et de son originalité.{separator}L'utilisation d'un plat coûte 10 points d'originalité pour le plat, 3 pt pour chaque plat du même type et 3 pt pour chaque plat basé sur le même idole. L'originalité se restaure lentement avec le temps.{separator}Le type de nouveaux fans que vous obtenez dépend de l'attrait du plat."
+	},{
+		id: "CAFE__DISH_TIP",
+		text: "Développez de nouveaux plats basés sur vos idoles.{separator}La qualité du plat et son type dépendent des statistiques de l'idole. La qualité ne changera pas lorsque votre idole améliorera ses statistiques, vous devrez développer un nouveau plat si vous voulez tirer parti de ses nouvelles statistiques.{separator}L'attrait du plat dépend de son type. Il existe 16 types de plats différents."
+	},
+
+	// BETA 17
+
+	{
+		id: "STAFF__NO_LVL_UP",
+		text: "Vous pourrez promouvoir cet employé lorsqu'il atteindra la maîtrise maximale de ses deux compétences"
+	},{
+		id: "STAFF__CANCEL_ACTIVITY",
+		text: "Annuler l'activité"
+	},{
+		id: "STAFF__DATE",
+		text: "Date"
+	},
+
+	{
+		id: "RESEARCH__BUY",
+		text: "Acheter 500 points de recherche pour @"
+	},{
+		id: "RESEARCH__TIP",
+		text: "{separator}Vos employés gagnent des points de recherche lorsqu'ils ne travaillent pas sur d'autres tâches.{separator}Seuls les employés assignés à des pièces gagnent des points de recherche{separator}Chaque fois que vous achetez des points de recherche, leur prix augmente de 20%"
+	},
+
+	{
+		id: "STAFF__READY_FOR_PROMO",
+		text: "Cet employé peut être promu"
+	},{
+		id: "STAFF__CAN_PROMOTE_WHEN",
+		text: "Vous pouvez promouvoir un employé à un poste senior lorsqu'il atteint la maîtrise maximale de ses deux compétences"
+	},{
+		id: "STAFF__SENIOR_JOB_TITLE_SKILLS",
+		text: "@ Senior Compétences:\n"
+	},{
+		id: "STAFF__COACHING_PERK",
+		text: "- Le coaching est 4x plus rapide"
+	},{
+		id: "STAFF__STYLING_PERK",
+		text: "- Le stylisme est 4x plus rapide"
+	},{
+		id: "STAFF__STAMINA_PERK",
+		text: "- La récupération de la santé est 2x plus rapide\n"
+	},{
+		id: "STAFF__INJURY_PERK",
+		text: "- 100% de chance de traiter avec succès les blessures\n"
+	},{
+		id: "STAFF__DEPRESSION_PERK",
+		text: "- 50% de chance de traiter avec succès les dépressions"
+	},{
+		id: "STAFF__OFFICE_PERK",
+		text: "- Peut effectuer les tâches de production du producteur pour les singles, les spectacles, les concerts, les élections et les tournées"
+	},{
+		id: "STAFF__INFLUENCE_PERK",
+		text: "- Vous gagnez de l'influence sur les idoles 4x plus vite\n- Socialiser restaure 5 points de santé physique\n- Socialiser restaure un nombre de points de santé mentale égal au niveau d'amitié avec l'idole"
+	},{
+		id: "STAFF__FIRING_PERK",
+		text: "\n- Coût de licenciement: 6 points de scandale"
+	},
+
+	{
+		id: "STORY__RIVAL_FIRST_NAME_MALE",
+		text: "Akira"
+	},{
+		id: "STORY__RIVAL_FIRST_NAME_FEMALE",
+		text: "Cocona"
+	},{
+		id: "STORY__RIVAL_LAST_NAME",
+		text: "Yasuda"
+	},{
+		id: "STORY__RIVAL_GROUP_NAME",
+		text: "Glace Brise"
+	},
+
+
+	// BETA 18
+
+	{
+		id: "STORY",
+		text: "Histoire"
+	},{
+		id: "IDOL__WISH_DATE",
+		text: "Ne dépensera pas de santé mentale jusqu'à @"
+	},{
+		id: "REWARDS",
+		text: "Récompenses"
+	},{
+		id: "REWARD__INFLUENCE",
+		text: "Points d'influence"
+	},{
+		id: "REWARD__STAMINA",
+		text: "@ restaurera sa santé mentale à 100%"
+	},{
+		id: "REWARD__STAMINA_DURATION",
+		text: "@ ne dépensera pas de santé mentale pendant 4 mois"
+	},{
+		id: "REWARD__FUJIMOTO",
+		text: "Vous ne pouvez pas prendre un autre prêt de Fujimoto tant que vous n'avez pas terminé la tâche en cours"
+	},
+
+	// TASKS
+
+	{
+		id: "ch0_intro",
+		text: "Améliorez \"Promotion\" et \"Spectacle\" au niveau 1"
+	},
+	{
+		id: "ch0_1",
+		text: "Améliorez \"Promotion\" et \"Spectacle\" au niveau 2"
+	},{
+		id: "ch0_2",
+		text: "Socialisez avec une idole"
+	},{
+		id: "ch0_2_tip",
+		text: "Faites glisser et déposez une idole dans le bureau de votre producteur"
+	},{
+		id: "ch1_0",
+		text: "Atteindre le sommet des charts des singles"
+	},{
+		id: "TASK_CONTINUE",
+		text: "Cliquez pour continuer l'histoire"
+	},{
+		id: "TASK_AVAILABLE_FROM",
+		text: "Disponible à partir de @"
+	},
+
+	{
+		id: "ACTIVITIES__ADPAYMENT",
+		text: "Paiement maximum pour un travail publicitaire"
+	},
+
+	{
+		id: "PROFILE__UNKNOWN_CLIQUE",
+		text: "Bande inconnue"
+	},
+
+	{
+		id: "RMB_FOR_DETAILS",
+		text: "*Clic droit pour plus de détails"
+	},
+
+	{
+		id: "THEATER__RESEARCH",
+		text: "Recherche"
+	},
+	{
+		id: "THEATER__PURCHASE_EQUIPMENT",
+		text: "Acheter de l'équipement"
+	},
+
+	{
+		id: "CAFE__SELECT_DISH",
+		text: "Sélectionnez le plat du jour"
+	},
+
+	{
+		id: "AWARDS__REQUIREMENTS",
+		text: "Conditions"
+	},{
+		id: "AWARDS__REWARD",
+		text: "Récompense"
+	},
+
+	{
+		id: "AUDITION__TIP",
+		text: "Vous devez organiser des auditions pour engager des idoles:\n\n1. Construisez votre bureau\n2. Faites glisser et déposez le producteur de l'onglet du personnel dans le bureau\n3. Cliquez sur le producteur ou la pièce et sélectionnez \"Audition\" dans le menu contextuel\n4. Cliquez sur l'icône \"A\" lorsque l'audition est prête\n5. Choisissez les idoles que vous souhaitez engager. Vous pouvez engager tous, certains ou aucun des idoles de chaque lot"
+	},
+
+	{
+		id: "SHOW__PERMANENT_CAST",
+		text: "Casting permanent"
+	},
+
+	{
+		id: "SSK__NEXT_PLACE",
+		text: "Prochaine place:"
+	},{
+		id: "SSK__FAME_POINTS",
+		text: "Points de célébrité:"
+	},{
+		id: "SSK__PREV_EL_RESULTS",
+		text: "Résultats de l'élection précédente:"
+	},{
+		id: "SSK__SWAP_ENVELOPE",
+		text: "Échanger l'enveloppe"
+	},
+
+	//http://www.codedigest.com/CodeDigest/207-Get-All-Language-Country-Code-List-for-all-Culture-in-C---ASP-Net.aspx
+	//https://www.c-sharpcorner.com/blogs/date-and-time-format-in-c-sharp-programming1
+
+	{
+		id: "DATETIME__CULTURE",
+		text: "en-US"
+	},
+
+	{
+		id: "DATETIME__SAVE",
+		text: "dd MMMM yyyy, HH:mm"
+	},
+	{
+		id: "DATETIME__LONGEST",
+		text: "ddd, d MMMM yyyy"
+	},
+	{
+		id: "DATETIME__LONGER",
+		text: "ddd, d MMM yyyy"
+	},
+	{
+		id: "DATETIME__LONG",
+		text: "d MMMM yyyy"
+	},
+	{
+		id: "DATETIME__MID",
+		text: "d MMM yyyy"
+	},
+	{
+		id: "DATETIME__SHORT",
+		text: "d MMM"
+	},
+	{
+		id: "DATETIME__MONTH",
+		text: "MMMM yyyy"
+	},
+	{
+		id: "DATETIME__MONTH_SHORT",
+		text: "M"
+	},
+	{
+		id: "DATETIME__YEAR",
+		text: "yyyy"
+	},
+	{
+		id: "DATETIME__WEEKDAY",
+		text: "dddd"
+	},
+	{
+		id: "DATETIME__BIRTHDAY",
+		text: "MMMMM dd, yyyy"
+	},
+	{
+		id: "DATETIME__LOAN",
+		text: "dd MMM, yyyy"
+	},
+	{
+		id: "DATETIME__I_WILL_GRADUATE_ON",
+		text: "MMMM d"
+	},
+
+	{
+		id: "DATE__ASK_TO_STAY",
+		text: "[Influencer] Je préférerais que tu restes plus longtemps avec le groupe"
+	},
+
+
+	//
+
+	{
+		id: "TASK__CH3_AYA",
+		text: "Atteindre le sommet des charts avec un single @"
+	},
+	{
+		id: "TASK__CH3_AYA_2",
+		text: "Faites une tournée mondiale et visitez les États-Unis, la France et l'Italie"
+	},{
+		id: "TASK__CH3_AYA_3",
+		text: "Atteindre @ fans"
+	},
+	{
+		id: "TASK__CH3_FUJI",
+		text: "Collectez @ pour Fujimoto"
+	},
+	{
+		id: "TASK__CH3_FUJI_TOOLTIP",
+		text: "@ seront transférés à Fujimoto après avoir cliqué sur cette tâche"
+	},
+	{
+		id: "TASK__CH3_RIVAL",
+		text: "Sortez 3 singles @ en un mois"
+	},
+	{
+		id: "ch3_rival_2",
+		text: "Regardez tous les événements de Phantasm Facade"
+	},
+	{
+		id: "ch3_rival_3",
+		text: "Atteindre le niveau maximum de relation avec une idole qui a atteint la perfection"
+	},
+	{
+		id: "ch3_rival_3_tip",
+		text: "Avoir une idole qui a au moins une statistique à 100, et une statistique de relation (amitié/influence/romance) au niveau 5"
+	},
+
+
+	{
+		id: "TASK__ROUTE_LOCK_FUJIMOTO",
+		text: "En complétant cette tâche, vous vérouillerez votre chemin vers l'histoire de Fujimoto.\nVoulez-vous continuer ?"
+	},{
+		id: "TASK__ROUTE_LOCK_AYA",
+		text: "En complétant cette tâche, vous vérouillerez votre chemin vers l'histoire d'Aya.\nVoulez-vous continuer ?"
+	},{
+		id: "TASK__ROUTE_LOCK_RIVAL",
+		text: "En complétant cette tâche, vous vérouillerez votre chemin vers l'histoire de @.\nVoulez-vous continer ?"
+	},
+
+	{
+		id: "NOT_YET",
+		text: "Pas encore"
+	},
+
+	{
+		id: "AYA__FIRST_NAME",
+		text: "Aya"
+	},{
+		id: "MOST_COMMON_SURNAME",
+		text: "Sato"
+	},{
+		id: "AYA__NICKNAME",
+		text: "Aya Naya"
+	},
+
+	{
+		id: "VN__QUOTE_LEFT",
+		text: "\""
+	},{
+		id: "VN__QUOTE_RIGHT",
+		text: "\""
+	},
+
+	{
+		id: "SUBSTORY",
+		text: "Sous-histoire"
+	},
+
+	{
+		id: "SPOILED_GIRL_FIRST_NAME",
+		text: "Akane"
+	},
+	{
+		id: "SPOILED_GIRL_LAST_NAME",
+		text: "Yoshida"
+	},{
+		id: "TASK__SPOILED_RECRUIT",
+		text: "Votre contrat avec @1 expire le @2"
+	},{
+		id: "TASK__SPOILED_RECRUIT_HINT",
+		text: "Vous devrez rendre @1 si @2:\n\n1) N'apparaît pas dans au moins trois singles en tant que centre\n2) N'apparaît pas dans un concert en tant que centre\n3) Est victime d'intimidation et que vous ne parvenez pas à résoudre cela dans les 2 semaines\n4) Est en arrêt maladie ou forcée à recevoir son diplôme"
+	},
+
+	{
+		id: "AUDITION__RESET_COOLDOWN",
+		text: "Réinitialiser le temps de recharge [@]"
+	},{
+		id: "POINTS",
+		text: "Pts."
+	},{
+		id: "RESEARCH_POINTS",
+		text: "Points de recherche"
+	},
+
+	{
+	    id: "AWARDS__BEST_EMPLOYER_NOM_REWARD",
+	    text: "<green>x1.5</color> bonus aux taux de drop des auditions"
+	},{
+	    id: "AWARDS__BEST_EMPLOYER_WIN_REWARD",
+	    text: "<green>x2</color> bonus aux taux de drop des auditions"
+	},{
+		id: "AUDITION__SILVER",
+		text: "Argent: "
+	},{
+		id: "AUDITION__GOLD",
+		text: "Or: "
+	},{
+		id: "AUDITION__PLATINUM",
+		text: "Platine: "
+	},
+
+	{
+		id: "DATE__DATE",
+		text: "Allons en rencard"
+	},
+
+	{
+		id: "MARKETING__AD_CAMPAIGN",
+		text: "Campagne publicitaire"
+	},{
+		id: "MARKETING__AD_CAMPAIGN_DESCRIPTION",
+		text: "Coût par CD: {cost_CD}{linebreak}Effet: Augmentation des ventes et nouveaux fans\n\nSuccès critique: {crit_succ_effect}\nSuccès: {succ_effect}\nÉchec: {fail_effect}\nÉchec critique: {crit_fail_effect}{linebreak}Taux de réussite\n\nSuccès critique: {crit_succ}\nSuccès: {succ}\nÉchec: {fail}\nÉchec critique: {crit_fail}"
+	},
+	
+	{
+		id: "MARKETING__VIRAL_CAMPAIGN",
+		text: "Viral Campaign"
+	},{
+		id: "MARKETING__VIRAL_CAMPAIGN_DESCRIPTION",
+		text: "Coût par CD: {cost_CD}{linebreak}Effet: Augmentation des ventes et nouveaux fans\n\nSuccès critique: {crit_succ_effect}\nSuccès: {succ_effect}\nÉchec: {fail_effect}\nÉchec critique: {crit_fail_effect}{linebreak}Taux de réussite\n\nSuccès critique: {crit_succ}\nSuccès: {succ}\nÉchec: {fail}\nÉchec critique: {crit_fail}"
+	},
+
+	{
+		id: "MARKETING__FAKE_SCANDAL",
+		text: "Faux Scandale"
+	},{
+		id: "MARKETING__FAKE_SCANDAL_DESCRIPTION",
+		text: "Coût par CD: {cost_CD}{linebreak}Effet: Augmentation des ventes et nouveaux fans\n\nSuccès critique: {crit_succ_effect}\nSuccès: {succ_effect}\nÉchec: {fail_effect}\nÉchec critique: {crit_fail_effect}{linebreak}Taux de réussite\n\nSuccès critique: {crit_succ}\nSuccès: {succ}\nÉchec: {fail}\nÉchec critique: {crit_fail}"
+	},
+
+	{
+		id: "MARKETING__LEWD_PV",
+		text: "Promotion obscène"
+	},{
+		id: "MARKETING__LEWD_PV_DESCRIPTION",
+		text: "Coût par CD: {cost_CD}{linebreak}Effet: Augmentation des ventes et nouveaux fans\n\nSuccès critique\nHomme: {crit_succ_effect}\nHardcore: {crit_succ_effect_secondary}\n\nSuccès\nHomme: {succ_effect}\nHardcore: {succ_effect_secondary}\n\nÉchec\nFemme: {fail_effect}\nCasu: {fail_effect_secondary}\n\nÉchec critique\nFemme: {crit_fail_effect}\nCasu: {crit_fail_effect_secondary}{linebreak}Taux de réussite dépendent des stats {green}sexy</color> et {green}mignon</color> de la formation"
+	},{
+		id: "MARKETING__EDGY_PV",
+		text: "Promotion audacieuse"
+	},{
+		id: "MARKETING__EDGY_PV_DESCRIPTION",
+		text: "Coût par CD: {cost_CD}{linebreak}Effet: Augmentation des ventes et nouveaux fans\n\nSuccès critique\nAdo: {crit_succ_effect}\nFemme: {crit_succ_effect_secondary}\n\nSuccès\nAdo: {succ_effect}\nFemme: {succ_effect_secondary}\n\nÉchec\nAdulte: {fail_effect}\nJeune adulte: {fail_effect_secondary}\n\nÉchec critique\nAdulte: {crit_fail_effect}\nJeune adulte: {crit_fail_effect_secondary}{linebreak}Taux de réussite dépendent des stats {green}cool</color> et {green}drôle</color> de la formation"
+	},{
+		id: "MARKETING__ARTSY_PV",
+		text: "Promotion Artistique"
+	},{
+		id: "MARKETING__ARTSY_PV_DESCRIPTION",
+		text: "Coût par CD: {cost_CD}{linebreak}Effet: Augmentation des ventes et nouveaux fans\n\nSuccès critique\nAdulte: {crit_succ_effect}\nFemme: {crit_succ_effect_secondary}\n\nSuccès\nAdulte: {succ_effect}\nFemme: {succ_effect_secondary}\n\nÉchec\nAdo: {fail_effect}\nHomme: {fail_effect_secondary}\n\nÉchec critique\nAdo: {crit_fail_effect}\nHomme: {crit_fail_effect_secondary}{linebreak}Taux de réussite dépendent des stats {green}jolie</color> et {green}intelligente</color> de la formation"
+	},
+
+	{
+		id: "MARKETING_SPINNER__SALES",
+		text: "Vente et nouveaux fans"
+	},{
+		id: "SCANDAL_PTS",
+		text: "Points de scandale"
+	},
+
+
+	{
+		id: "FORMATION__LOAD",
+		text: "Utiliser la formation d'un single existant"
+	},{
+		id: "SSK__ENVELOPE_TOOLTIP",
+		text: "Choisissez manuellement quelle idole prendra la prochaine place"
+	},
+
+
+	{
+		id: "POLICIES__PUSHES",
+		text: "Pistons"
+	},
+
+	{
+		id: "CLEAR_CACHE",
+		text: "Vider le cache"
+	},{
+		id: "CLEAR_CACHE_TOOLTIP",
+		text: "Cliquez ici si vous avez des problèmes de chargement de votre jeu, d'auditions ou de portraits d'idole (par exemple, des portraits de faible qualité après avoir changé les paramètres de qualité de Faible à Élevé)"
+	},
+
+
+
+	{
+		id: "DATE_LOCATION__AQUARIUM",
+		text: "Aquarium"
+	},{
+		id: "DATE_LOCATION__ARCADE",
+		text: "Arcade"
+	},{
+		id: "DATE_LOCATION__BOOKSTORE",
+		text: "Librairie"
+	},{
+		id: "DATE_LOCATION__DEPART",
+		text: "Grand magasin"
+	},{
+		id: "DATE_LOCATION__PARK",
+		text: "Parc"
+	},
+
+
+	{
+		id: "DATE__WEAR_MASKS",
+		text: "Porter des masques"
+	},{
+		id: "DATE__NO_MASKS",
+		text: "Pas de masques"
+	},
+
+	{
+		id: "DATE__MARRIED",
+		text: "Vous êtes fidèle à votre femme"
+	},
+	//You continued HAPPY_ENDING__BAD_JOB until retiring at age 70.
+	{
+		id: "HAPPY_ENDING__BAD_JOB",
+		text: "produire des idoles"
+	},
+	{
+		id: "MARRIAGE_GOOD_OUTCOME",
+		text: "Marié(é) à @ et vécurent heureux pour toujours"
+	},{
+		id: "MARRIAGE_BAD_OUTCOME",
+		text: "Marié(é) à @, un choix regretté peu de temps après"
+	},
+
+	{
+		id: "SETTINGS__SCREEN",
+		text: "Écran"
+	},{
+		id: "SETTINGS__AUDIO",
+		text: "Audio"
+	},{
+		id: "SETTINGS__LANG",
+		text: "Langue"
+	},{
+		id: "SETTINGS__GAMEPLAY",
+		text: "Jouabilité"
+	},
+
+	{
+		id: "SETTINGS__MASTER_VOLUME",
+		text: "Volume principal"
+	},{
+		id: "SETTINGS__RESOLUTION",
+		text: "Résolution"
+	},{
+		id: "SETTINGS__MODE",
+		text: "Mode"
+	},{
+		id: "SETTINGS__FRAMERATE",
+		text: "Fréquence d'images"
+	},{
+		id: "SETTINGS__QUALITY",
+		text: "Qualité"
+	},
+
+	{
+		id: "SETTINGS__QUALITY_HIGH",
+		text: "Élevée"
+	},{
+		id: "SETTINGS__QUALITY_LOW",
+		text: "Faible"
+	},
+
+	{
+		id: "SETTINGS__FPS_UNLIM",
+		text: "Fréquence d'images illimitée"
+	},{
+		id: "SETTINGS__FPS_1_1",
+		text: "Affichage des FPS"
+	},{
+		id: "SETTINGS__FPS_1_2",
+		text: "1/2 Affichage des FPS"
+	},{
+		id: "SETTINGS__FPS_1_3",
+		text: "1/3 Affichage des FPS"
+	},{
+		id: "SETTINGS__FPS_1_4",
+		text: "1/4 Affichage des FPS"
+	},
+
+	{
+		id: "MM_STORY_MODE",
+		text: "Mode Histoire"	
+	},{
+		id: "MM_FREE_PLAY",
+		text: "Jeu libre"	
+	},
+
+	{
+		id: "RIVAL",
+		text: "Rival"
+	},{
+		id: "MM_SAVE_DATE",
+		text: "Date de sauvegarde"
+	},{
+		id: "MM_INGAME_DATE",
+		text: "Date en jeu"
+	},{
+		id: "MM_PLAYTIME",
+		text: "Temps de jeu"
+	},
+
+	{
+		id: "AUTOSAVE",
+		text: "Sauvegarde automatique"
+	},
+
+	{
+		id: "MM_DELETE_PLAYTHROUGH",
+		text: "Êtes-vous sûr de vouloir supprimer cette partie ?"
+	},{
+		id: "OVERWRITE",
+		text: "Écraser"
+	},{
+		id: "FILENAME",
+		text: "Nom de la sauvegarde"
+	},{
+		id: "SAVE_FILE",
+		text: "Fichier de sauvegarde"
+	},
+
+	{
+		id: "CHAPTER_0",
+		text: "Chapitre 1"
+	},{
+		id: "CHAPTER_1",
+		text: "Chapitre 2"
+	},{
+		id: "CHAPTER_2",
+		text: "Chapitre 3"
+	},{
+		id: "CHAPTER_3",
+		text: "Chapitre 4"
+	},{
+		id: "CHAPTER_4",
+		text: "Chapitre 5"
+	},{
+		id: "CHAPTER_5",
+		text: "Chapitre 6"
+	},{
+		id: "CHAPTER_6",
+		text: "Épilogue"
+	},
+
+	{
+		id: "UNKNOWN",
+		text: "Inconnu"
+	},
+
+	{
+		id: "RECORD_COMPANY",
+		text: "Pony Records"
+	},
+
+	{
+		id: "PROPOSAL__TITLE",
+		text: "\uf70c  Proposition pour les jeux d'été"
+	},
+	{
+		id: "PROPOSAL__PREPARE_SONG",
+		text: "Préparer une chanson"
+	},
+	{
+		id: "PROPOSAL__AVOID_SCANDALS",
+		text: "Éviter les scandales"
+	},
+	{
+		id: "PROPOSAL__TOP_CHART",
+		text: "Atteindre le sommet des charts"
+	},
+	{
+		id: "PROPOSAL__FANBASE",
+		text: "Augmenter la base de fans"
+	},
+	{
+		id: "PROPOSAL__DEADLINE",
+		text: "Date limite"
+	},
+	{
+		id: "PROPOSAL__TIP_SCANDAL",
+		text: "Nombre de points de scandale requis: @ ou moins"
+	},
+	{
+		id: "PROPOSAL__TIP_CHARTS",
+		text: "Sortir un single qui atteint le sommet des charts du mois"
+	},
+	{
+		id: "PROPOSAL__TIP_FANS",
+		text: "Atteindre @ fans totaux"
+	},
+
+	{
+		id: "PF",
+		text: "Phantasm Facade"
+	},{
+		id: "PF_SINGLE_ONE",
+		text: "Bow Down"
+	},{
+		id: "PF_SINGLE_TWO",
+		text: "Sour Milk"
+	},{
+		id: "PF_SINGLE_THREE",
+		text: "Take Off Your Shoes"
+	},
+
+	{
+		id: "SG__FINALIZE",
+		text: "Finaliser"
+	},
+
+	{
+		id: "SG__CHOREO_TIP",
+		text: "Coût: @ points de recherche [Danse]"
+	},{
+		id: "SG__LYRICS_TIP",
+		text: "Coût: @ points de recherche [Producteur]"
+	},{
+		id: "SG__GENRE_TIP",
+		text: "Coût: @ points de recherche [Musique]"
+	},{
+		id: "SG__GENERIC_TIP",
+		text: "Coût: @ points de recherche [Manager de bureau]"
+	},{
+		id: "SG__TIP",
+		text: "Soumettez une proposition réussie en appelant au moins 3 des 5 membres du comité.{separator}Chaque membre du comité a des préférences pour le {light_green}genre{/light_green}, les {light_green}paroles{/light_green} et la {light_green}chorégraphie{/light_green}. Sélectionnez une chanson qui correspond à au moins l'un de leurs attributs préférés pour les convaincre.{separator}Les préférences des membres du comité peuvent être découvertes en dépensant 500 points de recherche: dépensez des points {light_green}musique{/light_green} pour révéler leur préférence pour le {light_green}genre{/light_green}, dépensez des points {light_green}producteur{/light_green} pour révéler leur préférence pour les {light_green}paroles{/light_green}, et dépensez des points {light_green}danse{/light_green} pour révéler leur préférence pour la {light_green}chorégraphie{/light_green}. Les points de recherche du {light_green}manager de bureau{/light_green} peuvent également être utilisés pour révéler n'importe quelle préférence.{separator}Lors du choix d'une chanson, vous pouvez changer le {light_green}genre{/light_green}, les {light_green}paroles{/light_green} ou la {light_green}chorégraphie{/light_green} de la chanson en dépensant 5 000 points de recherche du type correspondant."
+	},{
+		id: "SG__APPEAL",
+		text: "Vous devez convaincre au moins 3 membres du comité"
+	},{
+		id: "SG__NOT_ENOUGH_POINTS",
+		text: "Vous n'avez pas assez de points de recherche"
+	},{
+		id: "SG__FINALIZE_WARNING",
+		text: "Voulez-vous finaliser votre single pour les jeux d'été ?\n\nCoût total: @ pt"
+	},{
+		id: "SG__COMMITTEE",
+		text: "Comité des Jeux d'Été"
+	},{
+		id: "SG__MANAGER_POINTS",
+		text: "Responsable Administratif"
+	},{
+		id: "SG__MUSIC_POINTS",
+		text: "Musique"
+	},
+
+	{
+		id: "PLUS_CASUAL",
+		text: "+@ fans casu"
+	},{
+		id: "LOANS__NO_MORE_FUJIMOTO",
+		text: "Vous ne pouvez plus prendre de prêt de Fujimoto"
+	},
+
+	{
+		id: "SG_FAIL__KEEP_PLAYING",
+		text: "Continuez à jouer"
+	},{
+		id: "SG_FAIL__LOAD",
+		text: "Charger la sauvegarde"
+	},{
+		id: "SG_FAIL__RESTART",
+		text: "Recommencer le chapitre"
+	},{
+		id: "SG_FAIL__DESCRIPTION",
+		text: "Malheureusement, vous avez manqué votre grande chance. L'histoire se termine ici, mais vous pouvez continuer à jouer."
+	},
+
+	{
+		id: "TASK__CH5_SG",
+		text: "Ne faites pas d'erreur jusqu'à @"
+	},
+	{
+		id: "TASK__SEND_GIRL_TO_RIVAL_GROUP",
+		text: "Envoyer @1 rejoindre @2"
+	},
+
+	{
+		id: "STAFF__FIRED",
+		text: "Licencié"
+	},
+
+	{
+		id: "SETTINGS__ENABLE_R18",
+		text: "Activer le contenu 18+"
+	},
+
+	{
+		id: "GALLERY",
+		text: "Galerie"
+	},{
+		id: "GALLERY_STATS",
+		text: "Statistiques"
+	},{
+		id: "GALLERY_CG",
+		text: "CGs"
+	},
+
+	// BETA 21
+
+	{
+		id: "LP_TITLE__TUTORIAL",
+		text: "Tutoriel"
+	},
+	{
+		id: "TUTORIAL__STOP",
+		text: "Quitter le tutoriel"
+	},
+	{
+		id: "TUTORIAL__CONFIRM",
+		text: "Êtes-vous sûr de vouloir quitter le tutoriel ?"
+	},
+	{
+		id: "TUTORIAL__QUIT",
+		text: "Quitter"
+	},
+	{
+		id: "LEVEL_UP",
+		text: "Niveau supérieur"
+	},
+
+	{
+		id: "DAYS_AGO",
+		text: "@ jours plus tôt"
+	},{
+		id: "HOURS_AGO",
+		text: "@ heures plus tôt"
+	},{
+		id: "MINUTES_AGO",
+		text: "@ minutes plus tôt"
+	},
+
+	{
+		id: "CAFE__SELECT_IDOL",
+		text: "Sélectionner une idole pour créer un plat"
+	},
+
+	{
+		id: "STATS__DIALOGUES",
+		text: "Dialogues"
+	},
+	{
+		id: "STATS__LINES",
+		text: "Lignes de dialogue"
+	},
+	{
+		id: "STATS__EVENTS",
+		text: "Événements"
+	},
+	{
+		id: "STATS__CG",
+		text: "CGs"
+	},
+
+	{
+		id: "STATS__ENDINGS",
+		text: "Fins"
+	},
+	{
+		id: "ENDING__FUJIMOTO",
+		text: "Fujimoto"
+	},
+	{
+		id: "ENDING__AYA",
+		text: "Aya"
+	},
+	{
+		id: "ENDING__RIVAL",
+		text: "Rival"
+	},
+	{
+		id: "ENDING__TRUE_ENDING",
+		text: "Performance Finale"
+	},
+	{
+		id: "ENDING__WEDDING",
+		text: "Mariage"
+	},
+	{
+		id: "ENDING__BREAKUP",
+		text: "Rupture"
+	},
+	{
+		id: "ENDING__BANKRUPTCY",
+		text: "Faillite"
+	},
+	{
+		id: "ENDING__SCANDAL",
+		text: "Réputation Détruite"
+	},
+	{
+		id: "ENDING__CANCELLED",
+		text: "Scandale"
+	},
+	{
+		id: "ENDING__LOCKED",
+		text: "? ? ?"
+	},
+
+	{
+		id: "IDOL__BROKE_UP",
+		text: " a perdu @ points de santé mentale après avoir rompu avec son partenaire"
+	},
+	{
+		id: "IDOL__STARTED_DATING",
+		text: "Vous avez entendu une rumeur selon laquelle une de vos idoles serait en couple"
+	},
+	{
+		id: "IDOL__DATE_EACH_OTHER",
+		text: "Vous avez entendu une rumeur selon laquelle deux de vos idoles seraient en couple"
+	},
+	{
+		id: "IDOL__BROKE_UP_EACH_OTHER",
+		text: "@1 et @2 ont perdu 30 points de santé mentale après avoir rompu"
+	},
+	{
+		id: "IDOL__BULLY",
+		text: "Vous avez entendu une rumeur selon laquelle une de vos idoles serait victime de harcèlement"
+	},
+	{
+		id: "IDOL__KICKED_OUT",
+		text: "Vous avez entendu une rumeur selon laquelle @ a été exclue de sa bande"
+	},
+	{
+		id: "IDOL__BULLIED_UNKNOWN",
+		text: "Une de vos idoles a perdu @ points de santé mentale à cause d'intimidation"
+	},
+
+	{
+		id: "GROUPS__DISBAND",
+		text: "Dissoudre le groupe"
+	},
+	{
+		id: "GROUPS__DISBAND_BUTTON",
+		text: "Dissoudre"
+	},
+	{
+		id: "GROUPS__DISBAND_MSG",
+		text: "Êtes-vous sûr de vouloir dissoudre \"@1\" ?\nToutes les idoles seront transférées dans \"@2\""
+	},
+
+
+	{
+		id: "PROFILE__FANS_DETAILS",
+		text: "Détails"
+	},
+	{
+		id: "PROFILE__FANS_OPINION",
+		text: "Opinion"
+	},
+
+	{
+		id: "IDOL__PROFILE",
+		text: "Profil"
+	},
+
+	{
+		id: "LOANS__FUJIMOTO_DESC",
+		text: "Les prêts de Fujimoto sont sans intérêt, mais il vous donne également une tâche que vous devez accomplir avant de pouvoir prendre un autre prêt de lui"
+	},
+
+	{
+		id: "TAB__VIEW",
+		text: "\uf329 Affichage"
+	},
+	{
+		id: "TAB__SORT",
+		text: "\uf329 Filtre"
+	},
+
+	{
+		id: "STYLING__ACC",
+		text: "Accessoire"
+	},
+	{
+		id: "STYLING__HAIR",
+		text: "Coiffure"
+	},
+	{
+		id: "STYLING__DRESS",
+		text: "Robe"
+	},
+
+	{
+		id: "BUSINESS__BROKEN_CONTRACT",
+		text: "Contrats rompus\nVous avez dû payer @ en dommages"
+	},
+
+	{
+		id: "WISH__CONVERSATION",
+		text: "@1 @2"
+	},
+
+	{
+		id: "RIVAL__MALE",
+		text: "Homme"
+	},
+	{
+		id: "RIVAL__FEMALE",
+		text: "Femme"
+	},
+
+	{
+		id: "SETTINGS__FULLSCREEN",
+		text: "Plein écran"
+	},
+	{
+		id: "SETTINGS__FULLSCREEN_WINDOW",
+		text: "Plein écran (fenêtre)"
+	},
+	{
+		id: "SETTINGS__WINDOW",
+		text: "Fenêtre"
+	},
+
+	{
+		id: "SHOW__FANS_DISAPPOINTED",
+		text: "sont déçus que vous ayez annulé @"
+	},
+
+
+
+
+	{
+		id: "WISH__JOB",
+		text: "Veut obtenir un emploi de @1 @2"
+	},{
+		id: "WISH__SHOW_DETAILS",
+		text: "Veut animer un show @1 @2 @3"
+	},{
+		id: "WISH__SHOW_DETAILS_COHOST",
+		text: "avec un co-animateur @"
+	},{
+		id: "WISH__SINGLE_DETAILS",
+		text: "Veut être le centre d'un single @1 @2 @3"
+	},{
+		id: "WISH__SINGLE_DETAILS_LYRICS",
+		text: "à propos de @"
+	},{
+		id: "WISH__SINGLE_DETAILS_CHOREO",
+		text: "avec une chorégraphie @"
+	},
+
+	{
+		id: "DEMO__NOT_AVAILABLE",
+		text: "Cette fonctionnalité n'est pas disponible dans la démo"
+	},{
+		id: "DEMO__SAVE_AND_QUIT",
+		text: "Sauvegarder et quitter"
+	},{
+		id: "DEMO__SAVE_AND_MENU",
+		text: "Sauvegarder et retourner au menu"
+	},{
+		id: "DEMO__WISHLIST",
+		text: "\uf1b6  Ajoutez Idol Manager à votre liste de souhaits Steam"
+	},{
+		id: "DEMO__THANKS",
+		text: "Merci d'avoir joué !\n\nAttendez avec impatience la sortie d'Idol Manager sur Steam en 2021\n\n- Explorez une histoire avec des chemins multiples et plus de 6 fins uniques\n- Étendez votre agence avec plusieurs groupes d'idols sœurs\n- Étendez votre renommée grâce aux élections, aux cérémonies de remise de prix et aux tournées mondiales\n- Vivez des dizaines de scandales et de sous-histoires uniques basés sur votre façon de jouer\n\nAjoutez Idol Manager à votre liste de souhaits Steam pour être notifié de sa sortie plus tard cette année !"
+	},{
+		id: "DEMO__ENDS",
+		text: "La démo se termine dans @ jours"
+	},
+
+
+	{
+		id: "CAFE__SELECT_DISH_SHORT",
+		text: "Sélectionner un plat"
+	},
+	{
+		id: "MM_VOICEOVER",
+		text: "Voix Off"
+	},
+	{
+		id: "ACTIVITIES__IDOLMAXSTATS",
+		text: "Idole avec @ statistiques à 99 pt: "
+	},
+
+	{
+		id: "ch0_zoo",
+		text: "Atteindre le top 5 des charts de singles"
+	},
+
+	{
+		id: "STORY__RIVAL_MOTHER_NAME",
+		text: "@ Eri"
+	},
+
+	{
+		id: "DATE__TRIVIA_GIRL_NAME",
+		text: "@"
+	},
+	{
+		id: "DATE__FIND_OUT",
+		text: "\"Vous découvrez également que @1 @2.\""
+	},
+
+	{
+		id: "MOD__UPLOAD",
+		text: "Envoyer"
+	},{
+		id: "MOD__UPLOAD_UPDATE",
+		text: "Envoyer la mise à jour"
+	},{
+		id: "MOD__SELECT_UPLOAD",
+		text: "Sélectionnez le mod à mettre à jour"
+	},
+	{
+		id: "MOD__CHANGE_NOTE",
+		text: "Changer la note"
+	},{
+		id: "MOD__TITLE",
+		text: "Titre"
+	},{
+		id: "MOD__DESCRIPTION",
+		text: "Description"
+	},{
+		id: "MOD__TAGS",
+		text: "Mots clé"
+	},{
+		id: "MOD__FOLDER",
+		text: "Dossier"
+	},{
+		id: "MOD__SUCCESS",
+		text: "Succès!"
+	},{
+		id: "MOD__SUCCESS_MESSAGE",
+		text: "Votre mod a été transmis avec succès !\nPour le rendre disponible au public, rendez-vous sur <link=\"@\"><color=#777BBA><u>votre page Workshop Steam</u></color></link> et changez le paramètre de visibilité de votre mod."
+	},{
+		id: "MOD__UPDATE_SUCCESS_MESSAGE",
+		text: "Votre mod a été mis à jour avec succès !"
+	},
+
+	{
+		id: "GRAD_DATE_ANNOUNCEMENT",
+		text: " @"
+	},
+
+	{
+		id: "BIZ__NEGOT_SUCCESS_CHANCE",
+		text: "Chance de négociation réussie:\n@"
+	},{
+		id: "BIZ__NEGOT_ATTEMPTS",
+		text: "Nombre de tentatives de négociation:\n@"
+	},
+
+	{
+		id: "SETTINGS__SFW_MODE",
+		text: "Mode SFW"
+	},
+
+	{
+		id: "CREDITS__MESSAGE",
+		text: "Voulez-vous passer les crédits ?"
+	},
+	{
+		id: "CREDITS__SKIP",
+		text: "Passer"
+	},{
+		id: "CREDITS__KEEP_WATCHING",
+		text: "Continuer à regarder"
+	},
+
+	{
+		id: "MUSIC",
+		text: "Musique"
+	},
+	{
+		id: "MUSIC_UNLOCK",
+		text: "Obtenez au moins une bonne fin pour débloquer"
+	},
+	{
+		id: "ENDING__BETRAYAL",
+		text: "Trahison"
+	},
+
+	{
+		id: "STORY__NEED_ACTORS",
+		text: "L'historie continuera automatiquement après que vous ayez embauché:"
+	},
+	{
+		id: "STORY__NEED_IDOLS",
+		text: "@ idoles de plus"
+	},
+	{
+		id: "STORY__NEED_IDOL",
+		text: "Une idole de plus"
+	},
+	{
+		id: "STORY__NEED_STAFF",
+		text: "Un @1 ou un @2"
+	},
+
+	{
+		id: "ACCESSIBILITY",
+		text: "Accessibilité"
+	},
+	{
+		id: "ACC__HIGH_CONTRAST",
+		text: "Contraste élevé"
+	},
+	{
+		id: "ACC__FONT_SIZE",
+		text: "Taille de la police"
+	},
+	{
+		id: "ACC__COLOR_SCHEME",
+		text: "Schéma de couleur"
+	},
+	{
+		id: "ACC__UI_SCALE",
+		text: "Taille de l'interface"
+	},
+	{
+		id: "ACC__UI_SCALE_DEFAULT",
+		text: "Défaut"
+	},
+	{
+		id: "ACC__UI_SCALE_LARGE",
+		text: "Grand"
+	}
+]

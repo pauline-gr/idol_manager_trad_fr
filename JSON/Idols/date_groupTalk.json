@@ -1,0 +1,494 @@
+[
+	{
+		"Categories": ["gossip","nothing_to_report","dialog"],
+		"Text": "What's been going on lately? Hmm, not much that I've heard of."
+	},{
+		"Categories": ["gossip","nothing_to_report","dialog"],
+		"Text": "I don't think there's anything going on...why, did you hear something?"
+	},{
+		"Categories": ["gossip","nothing_to_report","dialog"],
+		"Text": "I haven't heard any gossip lately. Is there anything you're worried about?"
+	},{
+		"Categories": ["gossip","nothing_to_report","dialog"],
+		"Text": "Honestly, things have been pretty uneventful lately. Apart from work, of course."
+	},{
+		"Categories": ["gossip","nothing_to_report","dialog"],
+		"Text": "These days, it seems to just be business as usual."
+	},{
+		"Categories": ["gossip","nothing_to_report","dialog"],
+		"Text": "I wish I had some juicy gossip to share, but honestly there doesn't seem to be anything going on."
+	},{
+		"Categories": ["gossip","nothing_to_report","dialog"],
+		"Text": "These days, it seems to be business as usual."
+	},{
+		"Categories": ["gossip","nothing_to_report","dialog"],
+		"Text": "I'm not sure that there's much going on.  But hey, no news is good news, right?"
+	},
+
+	{
+		"Categories": ["gossip","nothing_to_report","message"],
+		"Text": "There doesn't seem to be anything amiss."
+	},{
+		"Categories": ["gossip","nothing_to_report","message"],
+		"Text": "It seems like [girl] doesn't have any gossip to report."
+	},{
+		"Categories": ["gossip","nothing_to_report","message"],
+		"Text": "It doesn't seem like there's anything going on."
+	},{
+		"Categories": ["gossip","nothing_to_report","message"],
+		"Text": "[girl] has nothing to report."
+	},{
+		"Categories": ["gossip","nothing_to_report","message"],
+		"Text": "[girl] doesn't have any inside info on things that might be happening."
+	},
+
+	{
+		"Categories": ["gossip","refuses","dialog"],
+		"Text": "Sorry, but my lips are sealed."
+	},{
+		"Categories": ["gossip","refuses","dialog"],
+		"Text": "Umm...can we talk about something else?"
+	},{
+		"Categories": ["gossip","refuses","dialog"],
+		"Text": "Maybe I've heard some rumors, maybe I haven't, but either way I don't think it's any of my business."
+	},{
+		"Categories": ["gossip","refuses","dialog"],
+		"Text": "Sorry, but I'm not about to spill someone else's secrets."
+	},{
+		"Categories": ["gossip","refuses","dialog"],
+		"Text": "I'd rather not talk about that right now."
+	},{
+		"Categories": ["gossip","refuses","dialog"],
+		"Text": "I'd rather not talk about that kind of thing."
+	},{
+		"Categories": ["gossip","refuses","dialog"],
+		"Text": "Let's change the subject, shall we?"
+	},{
+		"Categories": ["gossip","refuses","dialog"],
+		"Text": "Should we really be talking about that kind of thing?  I'd really rather not..."
+	},
+
+	{
+		"Categories": ["gossip","refuses","message"],
+		"Text": "It seems like [girl] doesn't trust you enough to share that kind of gossip."
+	},{
+		"Categories": ["gossip","refuses","message"],
+		"Text": "[girl] is being evasive. She's not comfortable enough around you to start sharing secrets."
+	},{
+		"Categories": ["gossip","refuses","message"],
+		"Text": "[girl] seems unwilling to share gossip. Maybe she'd be more willing if she trusted you more."
+	},
+
+	{
+		"Categories": ["gossip","intro"],
+		"Text": "I really shouldn't be telling you this, but"
+	},{
+		"Categories": ["gossip","intro"],
+		"Text": "Promise not to tell anyone? I heard that"
+	},{
+		"Categories": ["gossip","intro"],
+		"Text": "Oh, wait 'til you hear this. I just found out that"
+	},{
+		"Categories": ["gossip","intro"],
+		"Text": "You may have already heard about this, but"
+	},{
+		"Categories": ["gossip","intro"],
+		"Text": "Nobody's listening, right? Okay."
+	},{
+		"Categories": ["gossip","intro"],
+		"Text": "You know, I've been hearing a lot of rumors that"
+	},{
+		"Categories": ["gossip","intro"],
+		"Text": "Okay, I'm not supposed to tell you this, but"
+	},{
+		"Categories": ["gossip","intro"],
+		"Text": "I recently saw some private photos showing that"
+	},{
+		"Categories": ["gossip","intro"],
+		"Text": "Well, by now you've probably heard that"
+	},{
+		"Categories": ["gossip","intro"],
+		"Text": "Listen, this isn't my secret to tell, but since it's you asking...I need to let you know that"
+	},{
+		"Categories": ["gossip","intro"],
+		"Text": "You didn't hear this from me, but rumor has it that"
+	},{
+		"Categories": ["gossip","intro"],
+		"Text": "Listen, I've been really worried ever since I found out that"
+	},{
+		"Categories": ["gossip","intro"],
+		"Text": "I really need to get this off my chest: you have to know that"
+	},{
+		"Categories": ["gossip","intro"],
+		"Text": "You probably already know this, but"
+	},
+
+	{
+		"Categories": ["gossip","dating_idol","dialog"],
+		"Text": "[girl1] and [girl2] are dating."
+	},{
+		"Categories": ["gossip","dating_idol","dialog"],
+		"Text": "[girl1] and [girl2] are getting romantically involved."
+	},{
+		"Categories": ["gossip","dating_idol","dialog"],
+		"Text": "things between [girl1] and [girl2] are getting pretty hot and heavy."
+	},{
+		"Categories": ["gossip","dating_idol","dialog"],
+		"Text": "[girl1] and [girl2] have been flirting pretty shamelessly."
+	},{
+		"Categories": ["gossip","dating_idol","dialog"],
+		"Text": "[girl1] totally has the hots for [girl2], and the feeling is absolutely mutual."
+	},{
+		"Categories": ["gossip","dating_idol","dialog"],
+		"Text": "[girl1] and [girl2] are kind of an item right now."
+	},{
+		"Categories": ["gossip","dating_idol","message"],
+		"Text": "It seems like [girl1] and [girl2] are dating each other."
+	},
+
+	{
+		"Categories": ["gossip","dating_guy","dialog"],
+		"Text": "[girl1] has a secret boyfriend."
+	},{
+		"Categories": ["gossip","dating_guy","dialog"],
+		"Text": "[girl1] is seeing some guy."
+	},{
+		"Categories": ["gossip","dating_guy","dialog"],
+		"Text": "[girl1] has been secretly dating some hot guy."
+	},{
+		"Categories": ["gossip","dating_guy","dialog"],
+		"Text": "[girl1] has been sneaking out to go on dates with some guy she met."
+	},{
+		"Categories": ["gossip","dating_guy","dialog"],
+		"Text": "[girl1] has been exchanging flirty messages with some guy."
+	},{
+		"Categories": ["gossip","dating_guy","message"],
+		"Text": "It seems like [girl1] has a boyfriend."
+	},
+
+	{
+		"Categories": ["gossip","dating_girl","dialog"],
+		"Text": "[girl1] has a secret girlfriend."
+	},{
+		"Categories": ["gossip","dating_girl","dialog"],
+		"Text": "[girl1] has been sneaking out to go on dates with some girl."
+	},{
+		"Categories": ["gossip","dating_girl","dialog"],
+		"Text": "[girl1] has been spending a lot of time with someone she met outside the group."
+	},{
+		"Categories": ["gossip","dating_girl","dialog"],
+		"Text": "[girl1] was kissing some girl I've never seen before."
+	},{
+		"Categories": ["gossip","dating_girl","dialog"],
+		"Text": "[girl1] has been exchanging flirty messages with some girl."
+	},{
+		"Categories": ["gossip","dating_girl","message"],
+		"Text": "It seems like [girl1] has found a girlfriend outside the group."
+	},
+
+	{
+		"Categories": ["gossip","bullied","dialog"],
+		"Text": "[girl2] has been getting harassed by [girl1] and a few of her friends."
+	},{
+		"Categories": ["gossip","bullied","dialog"],
+		"Text": "[girl1] and her friends have been ganging up on [girl2] recently."
+	},{
+		"Categories": ["gossip","bullied","dialog"],
+		"Text": "[girl2] has been getting a lot of grief from [girl1] and her friends."
+	},{
+		"Categories": ["gossip","bullied","dialog"],
+		"Text": "[girl1] really seems to have it out for [girl2]."
+	},{
+		"Categories": ["gossip","bullied","dialog"],
+		"Text": "[girl1] has been acting like a real jerk toward [girl2]."
+	},{
+		"Categories": ["gossip","bullied","dialog"],
+		"Text": "[girl1] and her friends won't leave [girl2] alone."
+	},{
+		"Categories": ["gossip","bullied","message"],
+		"Text": "It seems like [girl2] is getting bullied by [girl1]'s clique."
+	},
+
+
+
+	{
+		"Categories": ["mentor","refuses_both_bad","dialog"],
+		"Text": "That's...kind of a big ask. I'd really rather not."
+	},{
+		"Categories": ["mentor","refuses_both_bad","dialog"],
+		"Text": "Sorry, but I really don't think that mentoring [girl2] is worth my time."
+	},{
+		"Categories": ["mentor","refuses_both_bad","dialog"],
+		"Text": "I'd rather not spend any more time with [girl2] than I'd have to. Sorry."
+	},{
+		"Categories": ["mentor","refuses_both_bad","dialog"],
+		"Text": "Now's not a really good time, and [girl2] isn't a really good fit for me. Sorry."
+	},{
+		"Categories": ["mentor","refuses_both_bad","dialog"],
+		"Text": "I think [girl2] would be better off with someone who doesn't find her to be so...unpleasant."
+	},{
+		"Categories": ["mentor","refuses_both_bad","dialog"],
+		"Text": "Nah, I don't think that [girl2] and I would really get along."
+	},{
+		"Categories": ["mentor","refuses_both_bad","message"],
+		"Text": "It seems like [girl] doesn't like [girl2] and isn't willing to mentor her"
+	},
+
+	{
+		"Categories": ["mentor","refuses_stats","dialog"],
+		"Text": "You want me to mentor [girl2]? I don't know...she's already so good at everything, I don't think I'd have anything to teach her."
+	},{
+		"Categories": ["mentor","refuses_stats","dialog"],
+		"Text": "Me? Mentor [girl2]? Honestly, I think she's the one who should be mentoring me. But it would be pretty awkward to get mentored by your kohai."
+	},{
+		"Categories": ["mentor","refuses_stats","dialog"],
+		"Text": "I'm flattered that you'd ask, but I really don't think I'm qualified to mentor [girl2]. She's in a league of her own."
+	},{
+		"Categories": ["mentor","refuses_stats","message"],
+		"Text": "[girl] doesn't feel qualified to mentor [girl2]."
+	},
+
+	{
+		"Categories": ["mentor","agrees_likes_you","dialog"],
+		"Text": "Honestly, I'd rather not be forced to spend a bunch of time with [girl2] asking. But since you're the one asking...I'll give it a shot."
+	},{
+		"Categories": ["mentor","agrees_likes_you","dialog"],
+		"Text": "[girl2] and I don't really have any chemistry, you know? But if you think she'd benefit from my teaching, I guess I'll help her out."
+	},{
+		"Categories": ["mentor","agrees_likes_you","dialog"],
+		"Text": "Sure, I'd be happy to mentor my kohai, even if it is [girl2]."
+	},{
+		"Categories": ["mentor","agrees_likes_you","message"],
+		"Text": "It seems like [girl] is willing to mentor [girl2], even if the two aren't on the best of terms."
+	},
+
+	{
+		"Categories": ["mentor","agrees_likes_kohai","dialog"],
+		"Text": "That's kind of a big ask. But if it's for [girl2], I guess I can agree to that."
+	},{
+		"Categories": ["mentor","agrees_likes_kohai","dialog"],
+		"Text": "You seem to expect a lot out of me. But if it would be helpful for [girl2], I'll give it a try."
+	},{
+		"Categories": ["mentor","agrees_likes_kohai","dialog"],
+		"Text": "What's in it for me? Just kidding, I'll do it. But seriously, you owe me one."
+	},{
+		"Categories": ["mentor","agrees_likes_kohai","dialog"],
+		"Text": "I've been really busy lately and I barely have any spare time as it is, but I guess I'll do it for [girl2]'s sake."
+	},{
+		"Categories": ["mentor","agrees_likes_kohai","message"],
+		"Text": "[girl] reluctantly agrees."
+	},
+
+	{
+		"Categories": ["mentor","agrees_enthusiastic","dialog"],
+		"Text": "Sure, that sounds like a great idea!"
+	},{
+		"Categories": ["mentor","agrees_enthusiastic","dialog"],
+		"Text": "Yeah, no problem. I'd be glad to show her the ropes."
+	},{
+		"Categories": ["mentor","agrees_enthusiastic","dialog"],
+		"Text": "I love that idea! It'll be like having my own little sister in the group!"
+	},{
+		"Categories": ["mentor","agrees_enthusiastic","dialog"],
+		"Text": "That sounds like a great idea. I'm sure that [girl2] and I will get along great."
+	},{
+		"Categories": ["mentor","agrees_enthusiastic","dialog"],
+		"Text": "Sure, I'd be glad to. I'm looking forward to spending time with [girl2]."
+	},{
+		"Categories": ["mentor","agrees_enthusiastic","message"],
+		"Text": "[girl] has agreed to mentor [girl2]."
+	},
+
+	{
+		"Categories": ["mentor","stop_good","message"],
+		"Text": "[girl] reluctantly agrees to stop being [girl2]'s mentor."
+	},{
+		"Categories": ["mentor","stop_good","dialog"],
+		"Text": "Aw, okay. But we can still be friends, right?"
+	},{
+		"Categories": ["mentor","stop_good","dialog"],
+		"Text": "Why? Do you think I've been spending too much time with her?"
+	},{
+		"Categories": ["mentor","stop_good","dialog"],
+		"Text": "I'm glad I had a chance to mentor [girl2]. I'm sure she's going to do great."
+	},
+
+	{
+		"Categories": ["mentor","stop_bad","dialog"],
+		"Text": "Oh, that's a relief."
+	},{
+		"Categories": ["mentor","stop_bad","dialog"],
+		"Text": "Thanks. You'll be the one to break the good news to her, right?"
+	},{
+		"Categories": ["mentor","stop_bad","dialog"],
+		"Text": "I've been looking forward to this day."
+	},{
+		"Categories": ["mentor","stop_bad","dialog"],
+		"Text": "Thanks for letting me off the hook."
+	},{
+		"Categories": ["mentor","stop_bad","message"],
+		"Text": "[girl] seems relieved to no longer be [girl2]'s mentor."
+	},
+
+	{
+		"Categories": ["mentor","stop_neutral","dialog"],
+		"Text": "I guess she has kind of outgrown the need for my attention, huh?"
+	},{
+		"Categories": ["mentor","stop_neutral","dialog"],
+		"Text": "Well, it was nice to be someone's senpai."
+	},{
+		"Categories": ["mentor","stop_neutral","dialog"],
+		"Text": "So, she's learned all she can from me, huh?  I hope she does well on her own."
+	},{
+		"Categories": ["mentor","stop_neutral","dialog"],
+		"Text": "It's weird to hear you say that, but you're right. [girl2] isn't a baby, she can look after herself."
+	},{
+		"Categories": ["mentor","stop_neutral","message"],
+		"Text": "[girl] agrees to stop mentoring [girl2]."
+	},
+
+
+
+	{
+		"Categories": ["group","refuses","dialog"],
+		"Text": "That's kind of a personal question."
+	},{
+		"Categories": ["group","refuses","dialog"],
+		"Text": "That's none of your business."
+	},{
+		"Categories": ["group","refuses","dialog"],
+		"Text": "Who I keep company with is no business of yours."
+	},{
+		"Categories": ["group","refuses","dialog"],
+		"Text": "Don't take this the wrong way, but I value my privacy."
+	},{
+		"Categories": ["group","refuses","dialog"],
+		"Text": "Umm...can we talk about something else?"
+	},{
+		"Categories": ["group","refuses","dialog"],
+		"Text": "I'd rather not talk about that right now."
+	},{
+		"Categories": ["group","refuses","dialog"],
+		"Text": "I'd rather not talk about that kind of thing."
+	},{
+		"Categories": ["group","refuses","dialog"],
+		"Text": "Let's change the subject, shall we?"
+	},{
+		"Categories": ["group","refuses","dialog"],
+		"Text": "Don't get too nosy."
+	},{
+		"Categories": ["group","refuses","message"],
+		"Text": "It seems like [girl] doesn't trust you enough to talk about what's going on within the group."
+	},
+
+	{
+		"Categories": ["group","clique_leader","dialog"],
+		"Text": "Heh. Well, not to brag, but I've got my on group of private lackeys who will do pretty much anything I tell them to."
+	},{
+		"Categories": ["group","clique_leader","dialog"],
+		"Text": "There are several other girls who seem like they really look up to me. In fact, I think if I told them to jump off a bridge, they probably would."
+	},{
+		"Categories": ["group","clique_leader","dialog"],
+		"Text": "Oh yeah, I've got a handful of underlings. Sorry, did I say underlings? I meant friends."
+	},{
+		"Categories": ["group","clique_leader","dialog"],
+		"Text": "I appreciate that there are so many other girls who seem loyal to me. It's like having your own personal army, in a way."
+	},{
+		"Categories": ["group","clique_leader","message"],
+		"Text": "It seems like [girl] is the leader of her own clique."
+	},
+
+	{
+		"Categories": ["group","clique_member","dialog"],
+		"Text": "I've found a social circle that I fit in with pretty well. You know those girls who are always hanging around with [girl2]?"
+	},{
+		"Categories": ["group","clique_member","dialog"],
+		"Text": "Yeah, I've found a group where I feel like I really fit in. I'm glad that [girl2] invited me to join, she really is a welcoming person."
+	},{
+		"Categories": ["group","clique_member","dialog"],
+		"Text": "I like [girl2]. She stands up for her friends, and her friends stick up for her. I'm glad to call myself one of those friends."
+	},{
+		"Categories": ["group","clique_member","dialog"],
+		"Text": "I tend to hang out with [girl2]'s crowd. We're all on pretty good terms."
+	},{
+		"Categories": ["group","clique_member","dialog"],
+		"Text": "There are a bunch of girls who march to the beat of [girl2]'s drum, and now that I think about it, I guess I'm one of them."
+	},{
+		"Categories": ["group","clique_member","dialog"],
+		"Text": "I've been spending a lot of time around [girl2]. Well, me and quite a few other people. I guess you could say we're her...minions? Is that the right word?"
+	},{
+		"Categories": ["group","clique_member","message"],
+		"Text": "It seems like [girl] is in [girl2]'s clique."
+	},
+
+	{
+		"Categories": ["group","bullied","dialog"],
+		"Text": "It's tough, you know? [girl2] and her friends won't leave me alone."
+	},{
+		"Categories": ["group","bullied","dialog"],
+		"Text": "[girl2]'s toadies really seem to have it out for me."
+	},{
+		"Categories": ["group","bullied","dialog"],
+		"Text": "[girl2] decided to send her personal army after me, so things have been less than pleasant."
+	},{
+		"Categories": ["group","bullied","dialog"],
+		"Text": "I'm not sure how it started, but [girl2] seems to have a personal vendetta against me. Her minions do whatever she wants, which most of the time means harassing me."
+	},{
+		"Categories": ["group","bullied","message"],
+		"Text": "It sounds like [girl] is getting bullied by [girl2]'s clique"
+	},
+
+	{
+		"Categories": ["group","doesnt_like","dialog"],
+		"Text": "Recently I had a bit of a squabble with [girl2]. I think she's being really unreasonable about the whole thing."
+	},{
+		"Categories": ["group","doesnt_like","dialog"],
+		"Text": "[girl2] seems to be giving me the cold shoulder. Well, I guess the feeling is mutual."
+	},{
+		"Categories": ["group","doesnt_like","dialog"],
+		"Text": "Lately, [girl2] and I aren't really on speaking terms."
+	},{
+		"Categories": ["group","doesnt_like","dialog"],
+		"Text": "[girl2] and I don't seem to get along these days."
+	},{
+		"Categories": ["group","doesnt_like","message"],
+		"Text": "It sounds like [girl] and [girl2] don't like each other."
+	},
+
+	{
+		"Categories": ["group","best_friends","dialog"],
+		"Text": "Well, I'm a bit hesitant to call anyone a 'best' friend, but I think that [girl2] and I get along really well."
+	},{
+		"Categories": ["group","best_friends","dialog"],
+		"Text": "Have you talked to [girl2] recently? We've been spending a lot of time together lately."
+	},{
+		"Categories": ["group","best_friends","dialog"],
+		"Text": "The other day, [girl2] and I went shopping together. She's such a fun person to be around!"
+	},{
+		"Categories": ["group","best_friends","dialog"],
+		"Text": "I'm really glad I get to be in the same group as [girl2]. I guess I should thank you for hiring both of us!"
+	},{
+		"Categories": ["group","best_friends","message"],
+		"Text": "It sounds like [girl] and [girl2] are really close friends."
+	},
+
+	{
+		"Categories": ["group","nothing_to_report","dialog"],
+		"Text": "Nothing new to report, really. Business as usual."
+	},{
+		"Categories": ["group","nothing_to_report","dialog"],
+		"Text": "I don't know, I'm not aware of any drama, apart from what I've already told you."
+	},{
+		"Categories": ["group","nothing_to_report","dialog"],
+		"Text": "Things haven't changed much since the last time we spoke."
+	},{
+		"Categories": ["group","nothing_to_report","dialog"],
+		"Text": "There's nothing new under the sun, or in [groupname]."
+	},{
+		"Categories": ["group","nothing_to_report","dialog"],
+		"Text": "Sorry, nothing new to report. Same old, same old."
+	},{
+		"Categories": ["group","nothing_to_report","message"],
+		"Text": "It sounds like there isn't anything new going on."
+	}
+]r

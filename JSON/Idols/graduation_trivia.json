@@ -1,0 +1,185 @@
+[
+	{
+		ID:		0,
+		Type:	"good",
+		Text: 	"Got a job as a broadcast anchor at National Broadcasting Corporation"
+	},{
+		ID:		1,
+		Type:	"good",
+		Text: 	"Married popular sports star [name:male] [name:surname], currently a housewife and mother of [rand:2:3:4]"
+	},{
+		ID:		2,
+		Type:	"good",
+		Text: 	"Head of publicity Meld Entertainment"
+	},{
+		ID:		3,
+		Type:	"good",
+		Text: 	"Head of fundraising at the city Arts Center"
+	},{
+		ID:		4,
+		Type:	"good",
+		Text: 	"Won an election for a city Metropolitan Assembly seat"
+	},{
+		ID:		5,
+		Type:	"good",
+		Text: 	"Sits on the board of directors for [var:company_name] Incorporated",
+		Params: ["smart"]
+	},{
+		ID:		6,
+		Type:	"good",
+		Text: 	"Vice President of Marketing at [var:company_name] Entertainment"
+	},{
+		ID:		7,
+		Type:	"good",
+		Text: 	"Living as fashion designer in New York City",
+		Params: ["smart", "cool"]
+	},{
+		ID:		8,
+		Type:	"good",
+		Text: 	"Owns a fashion label that launched a popular line of jackets",
+		Params: ["cool"]
+	},{
+		ID:		9,
+		Type:	"good",
+		Text: 	"Works as a model, currently residing in France",
+		Params: ["pretty"]
+	},{
+		ID:		10,
+		Type:	"good",
+		Text: 	"Launched a career as an independent singer/songwriter",
+		Params: ["vocal"]
+	},{
+		ID:		11,
+		Type:	"good",
+		Text: 	"International speaker, appears regularly on the TED circuit",
+		Params: ["smart", "cool"]
+	},{
+		ID:		12,
+		Type:	"good",
+		Text: 	"Has a starring role in a popular daytime drama"
+	},{
+		ID:		13,
+		Type:	"good",
+		Text: 	"Currently dating popular rapper [name:male] \"[var:musician_name]\" [name:surname]",
+		Params: ["dance"]
+	},{
+		ID:		14,
+		Type:	"good",
+		Text: 	"Hired as a media strategist at [var:rival_group]"
+	},{
+		ID:		15,
+		Type:	"average",
+		Text: 	"Works as a promotion staffer at Pony Island Records"
+	},{
+		ID:		16,
+		Type:	"average",
+		Text: 	"Moved out to the country and bought a hot spring inn that now serves as a popular tourist destination"
+	},{
+		ID:		17,
+		Type:	"average",
+		Text: 	"Occasionally does voice acting for low-budget independent video games"
+	},{
+		ID:		18,
+		Type:	"average",
+		Text: 	"Works as a tour guide at the city art museum"
+	},{
+		ID:		19,
+		Type:	"average",
+		Text: 	"Opened a ramen shop near the business district"
+	},{
+		ID:		20,
+		Type:	"average",
+		Text: 	"Works as a tutor at a private high school"
+	},{
+		ID:		21,
+		Type:	"average",
+		Text: 	"Married an old middle school classmate, currently a housewife and mother of [rand:3:4:5]"
+	},{
+		ID:		22,
+		Type:	"average",
+		Text: 	"Works as kindergarten teacher",
+		Params: ["cute"]
+	},{
+		ID:		23,
+		Type:	"average",
+		Text: 	"Has an office job, moonlights as a rakugo performer",
+		Params: ["funny"]
+	},{
+		ID:		24,
+		Type:	"average",
+		Text: 	"Pulls in a decent side income as a stock photography model",
+		Params: ["pretty"]
+	},{
+		ID:		25,
+		Type:	"average",
+		Text: 	"Appeared as a backup dancer in a popular [var:musician_name] video, rumored to be dating him",
+		Params: ["dance"]
+	},{
+		ID:		26,
+		Type:	"average",
+		Text: 	"Hired as a marketing consultant by [var:rival_group]"
+	},{
+		ID:		27,
+		Type:	"average",
+		Text: 	"Works as a chess coach at an all-girls high school",
+		Params: ["smart"]
+	},{
+		ID:		28,
+		Type:	"average",
+		Text: 	"Works as an actuary for [name:surname] Insurance"
+	},{
+		ID:		29,
+		Type:	"average",
+		Text: 	"Emcees at a local comedy club",
+		Params: ["funny"]
+	},{
+		ID:		30,
+		Type:	"average",
+		Text:	"Started a career as a gravure idol specializing in VR movies",
+		Params:	["sexy"]
+	},{
+		ID:		31,
+		Type:	"average",
+		Text: 	"Started a career as a cosplay model, last seen signing photobooks at Comiket"
+	},{
+		ID:		32,
+		Type:	"average",
+		Text: 	"Works with the city police public relations department"
+	},{
+		ID:		33,
+		Type:	"average",
+		Text: 	"Works as a tradeshow spokesmodel for [var:company_name]"
+	},{
+		ID:		34,
+		Type:	"bad",
+		Text: 	"Works as an assistant shift manager at WcDonalds"
+	},{
+		ID:		35,
+		Type:	"bad",
+		Text: 	"Got an job working at an amusement park ticket booth"
+	},{
+		ID:		36,
+		Type:	"bad",
+		Text: 	"Last seen at an airport in the United Kingdom, whereabouts currently unknown"
+	},{
+		ID:		37,
+		Type:	"bad",
+		Text: 	"Has a cosplay photography Patreon that makes ¥8,000 per month"
+	},{
+		ID:		38,
+		Type:	"bad",
+		Text: 	"Currently under investigation for tax evasion"
+	},{
+		ID:		39,
+		Type:	"bad",
+		Text: 	"Works three nights a week at a hostess club"
+	},{
+		ID:		40,
+		Type:	"bad",
+		Text: 	"Works at a maid cafe in Akihabara"
+	},{
+		ID:		41,
+		Type:	"bad",
+		Text: 	"Disappeared from public life after marrying and divorcing indie rapper [name:male] \"[var:musician_name]\" [name:surname]"
+	}
+]

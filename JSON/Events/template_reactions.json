@@ -1,0 +1,165 @@
+[
+  {
+    "Type": "Do_nothing__publication__low_damage",
+    "Text": "The article featuring the photos goes live, but surprisingly is met with little response.  Fans response seems to range from mildly annoyed to totally apathetic."
+  },{
+    "Type": "Do_nothing__publication__high_damage",
+    "Text": "The article featuring the photos goes live, and the response comes fast and furious.  Some fans are outraged, and social media channels are quickly flooded with hate for [actor_0]."
+  },{
+    "Type": "Do_nothing__blackmail__no_damage",
+    "Text": "An entire day goes by without any contact from the blackmailer, and no sign of the photos on any public sites.  Perhaps it was just a bluff?"
+  },{
+    "Type": "Do_nothing__blackmail__very_low_damage",
+    "Text": "The blackmailer posts several photographs of [actor_0] and [actor_1] anonymously to an online message board with a long screed attacking [actor_0]. Some fans are upset about the photo, but most of the responses are attacking the poster, calling the blackmailer mentally unstable for writing such a bizarre and vindictive rant. Some posters go onto accuse the blackmailer of editing [actor_0]'s face into the photos, and the few blogs that do report on the thread seem to focus more on the disturbed psychology of the original poster."
+  },{
+    "Type": "Do_nothing__blackmail__high_damage",
+    "Text": "The photos the blackmailer sent appear on several small fan blogs later that day, with most blogs crediting an \"anonymous tipster.\" [actor_0] is bombarded on social media by angry fans demanding an explanation, with some vowing to never support her again. Some of the social media accounts appear to be sock puppets, recently-made accounts possibly created by the blackmailer, but there are plenty of genuine reactions sprinkled into the mix."
+  },{
+    "Type": "Do_nothing__public__low_damage",
+    "Text": "The photos fail to get any traction, and what little response they do get seems tepid at worst, with few fans even bothering to comment on the photos at all."
+  },{
+    "Type": "Do_nothing__public__high_damage",
+    "Text": "The news spreads rapidly, starting with smaller gossip sites and fan blogs, and within several hours it even spreads to several larger publications begin to pick up the story.  This doesn't seem like the kind of thing that's going to die down quickly or quietly..."
+  },{
+    "Type": "Do_nothing__blurry__low_damage",
+    "Text": "With the ambiguous nature of the photographs, few people are convinced that [actor_0] is actually the girl shown in the photographs, and the gossip quickly dies in less than a day."
+  },{
+    "Type": "Pay_to_publication",
+    "Text": "Our contact at the gossip site messages back to confirm the receipt of the payment, and promises that the story will remain private. They seem unwilling to admit how they obtained the photos in the first place, though."
+  },{
+    "Type": "Pay_blackmail",
+    "Text": "After the extortion fee is paid, the blackmailer seems to cut all contact. Hopefully this is the last we'll see of them."
+  },{
+    "Type": "Report_to_police__success",
+    "Text": "The police discover the apartment from which the threatening email was sent, and they manage to apprehend the blackmailer!  The blackmailer has confessed and is complying with law enforcement; it seems unlikely that they'll be any trouble to us now."
+  },{
+    "Type": "Report_to_police__success_2",
+    "Text": "The police discover that the threatening email was sent from an office workplace for a computer company located downtown.  After visiting the office the emails were sent from, it's unclear who exactly was responsible for sending the emails, but the presence of the police seems to have scared the blackmailer into not releasing the photos."
+  },{
+    "Type": "Report_to_police__failure",
+    "Text": "The police open an investigation, but without any firm leads the investigation doesn't seem to be leading anywhere.  Meanwhile, the photos have begun to spread through anonymous message boards, leading to a small but vocal contingent of fans who seem to be outraged about the photos."
+  },{
+    "Type": "Deny_romance__success",
+    "Text": "Everyone seems to believe that the encounter wasn't romantic in nature, and without the salacious angle to catch people's attention, the story quickly disappears."
+  },{
+    "Type": "Deny_romance__failure",
+    "Text": "A few small sites and fan blogs circulate the press release stating that the encounter wasn't romantic in nature, but most people seem to be skeptical, and a few even lob accusations of a cover-up.  [actor_0] is out of the headlines for now, but the rumor mill on social media is still running wild and probably won't die down any time soon."
+  },{
+    "Type": "Deny_identity__success__unpublished",
+    "Text": "The editor who contacted us doesn't seem to fully buy the story, but it looks like we've introduced enough doubt that they decided not to run with the story."
+  },{
+    "Type": "Deny_identity__success__unpublished_2",
+    "Text": "Most people seem to believe that [actor_0] isn't the girl shown in the photograph, and a number of people have even started attacking the publication that posted the photos insinuating that it was her.  Maybe they'll be a little bit more shy about posting photos like this in the future."
+  },{
+    "Type": "Deny_identity__success__blackmail",
+    "Text": "The blackmailer posts the photos several hours later, but the fact that the photos came from an anonymous source, combined with the ambiguity of the photograph, seems to have most people convinced that this isn't some juicy scoop."
+  },{
+    "Type": "Deny_identity__success__published",
+    "Text": "The story fails to gain traction, probably because most people believe that the photos aren't related to [actor_0] in any way.  In fact, the most vocal response comes from fans accusing the source of the photographs of trying to gin up controversy."
+  },{
+    "Type": "Deny_identity__failure__unpublished",
+    "Text": "The denial statement is released shortly after the story goes live, but most people don't seem to buy it.  Some people have posted side-by-side comparison photos showing just how closely the girl in the photographs resembles [actor_0], which just seems to set the rumor mill ablaze even more."
+  },{
+    "Type": "Deny_identity__failure__blackmail",
+    "Text": "The denial statement is released shortly after the pictures start to appear on several anonymous message boards and circulated around smaller blogs, but people don't seem to be buying the denial.  Later in the day, the same blackmailer that posted the original photos shares several more detailed photographs, where [actor_0]'s face is unmistakably visible, adding more fuel to the fire."
+  },{
+    "Type": "Deny_identity__failure__published",
+    "Text": "The denial statement is met with skepticism from fans, and within several hours there's a backlash against the denial from fans who seem more about the weak effort at a cover-up. There's still some ambiguity about the whole situation which has helped to stop some outlets from republishing the photos, but a small number of vocal fans seem to be even more upset than before."
+  },{
+    "Type": "No_apology__low_damage",
+    "Text": "A few fans loudly announce their disapproval, but it seems like by and large people don't care about the news (and even more don't consider it news at all)."
+  },{
+    "Type": "No_apology__high_damage",
+    "Text": "The lack of an apology or condemnation of [actor_0]'s involvement seems to anger even more fans, leading to a substantial backlash on social media."
+  },{
+    "Type": "Make_public__low_damage",
+    "Text": "[actor_0] and [actor_1] publicly announce that they are dating, and the reception seems to be mostly mixed.  A small number of fans criticize both [actor_0] and [actor_1], but the negative reaction is small, and some people even seem to view it as a positive thing and voice their support for [actor_0]."
+  },{
+    "Type": "Make_public__high_damage",
+    "Text": "[actor_0] and [actor_1] publicly announce that they're dating, but this seems to cause even more of a backlash than when the photos initially leaked out. A lot of fans aren't happy about this, and the announcement only seems to have increased the number of people who are paying attention to it."
+  },{
+    "Type": "Apologize__normal",
+    "Text": "Few fans seem to change their opinion after the apology, but those that aren't willing to forgive will probably quickly forget now that an official statement has brought the rumor mill to a halt.  People aren't happy, but at least things don't seem to be getting worse."
+  },{
+    "Type": "Apologize__very_low_damage",
+    "Text": "Fan reaction to the apology seems to range from supportive to confused, with most fans questioning whether an apology was needed in the first place.  In any event, the story seems to be dead, and whatever \"scandal\" emerged from this turned out to have hardly any effect on [actor_0]'s public image at all."
+  },{
+    "Type": "Family__no_damage",
+    "Text": "After the situation is explained, the mob fervor against [actor_0] is completely replaced with overwhelming support from fans, who are sympathetic after seeing someone try to damage her using what turned out to be a perfectly innocent photograph. The day's events were a bit of an emotional roller coaster for [actor_0], but she seems to be in high spirits now!"
+  },{
+    "Type": "Family__no_damage_2",
+    "Text": "[actor_0]'s family views the release of the photos as an unwelcome invasion of privacy, but mostly they're happy that the story is dead and [actor_0] is out of the headlines for now."
+  },
+
+
+  {
+    "Type": "conflict_center_reprimand_0",
+    "Text": "[actor_0] delivers apologies both to [actor_1] and the bystanders that overheard the argument."
+  },{
+    "Type": "conflict_center_reprimand_both_1",
+    "Text": "[actor_0] and [actor_1] both apologize to the bystanders that overheard the argument. Neither of them seems happy about it, though."
+  },{
+    "Type": "conflict_center_reprimand_both_2",
+    "Text": "The girls stop fighting, but redirect their anger toward you."
+  },{
+    "Type": "conflict_center_reassure",
+    "Text": "[actor_0] thanks you for listening, and promises not to make a public fuss about it in the future."
+  },{
+    "Type": "conflict_center_counseling_1",
+    "Text": "[actor_0] and [actor_1] talk through their differences, and by the end of it they seem to have set the feud aside."
+  },{
+    "Type": "conflict_center_counseling_2",
+    "Text": "[actor_0] and [actor_1] both leave the counseling session seeming resentful, but at least they're not yelling anymore."
+  },{
+    "Type": "conflict_center_counseling_3",
+    "Text": "[actor_0] and [actor_1] get into another shouting match during the counseling session, and the counselor has to send both of them to separate rooms!"
+  },{
+    "Type": "conflict_dates_reprimand_0",
+    "Text": "[actor_0] apologizes to [actor_1], but the apology doesn't exactly seem heartfelt."
+  },{
+    "Type": "conflict_dates_reprimand_both_1",
+    "Text": "[actor_1] seems upset by the reprimand, and claims that she didn't do anything wrong."
+  },{
+    "Type": "conflict_dates_reprimand_both_2",
+    "Text": "The girls stop fighting, but redirect their anger toward you. At least they're not fighting with each other anymore..."
+  },{
+    "Type": "conflict_dates_reassure_1",
+    "Text": "[actor_0] nods along, but she doesn't seem convinced."
+  },{
+    "Type": "conflict_dates_reassure_2",
+    "Text": "[actor_0] apologizes for making a public fuss."
+  },{
+    "Type": "conflict_business_reprimand_0_1",
+    "Text": "[actor_0] tearfully apologizes to [actor_1] and admits that she was just jealous. The two hug it out and seem to be getting along fine now."
+  },{
+    "Type": "conflict_business_reprimand_0_2",
+    "Text": "[actor_0] apologizes to [actor_1], but gets upset when [actor_1] doesn't accept the apology. After another shouting match, the two walk away furious."
+  },{
+    "Type": "conflict_business_reprimand_both",
+    "Text": "Both [actor_0] and [actor_1] seem upset by the public reprimand. They're no longer fighting with each other, but now they seem to be upset with you!"
+  },{
+    "Type": "conflict_business_reassure_1",
+    "Text": "[actor_0] seems slightly reassured, but seems skeptical that anything will actually be done."
+  },{
+    "Type": "conflict_business_reassure_2",
+    "Text": "[actor_0] seems happy, but warns against making empty promises. [actor_1] seems peeved by the lack of an apology from [actor_0]."
+  },{
+    "Type": "conflict_bump1_reprimand_0",
+    "Text": "[actor_0] delivers another apology, this one with a little more gusto, but she swears up and down that it was an accident."
+  },{
+    "Type": "conflict_bump1_reprimand_1",
+    "Text": "[actor_1] breaks down in tears, and admits that she lashed out at [actor_0] because she's been under a lot of stress lately. [actor_0] gives an understanding response, and the two seem to have repaired their relationship."
+  },{
+    "Type": "conflict_bump1_counseling",
+    "Text": "Both girls break down and admit that they've been under a lot of stress lately. [actor_0] bumped into [actor_1] because she was too tired to see where she was going, and [actor_1] snapped at [actor_0] because she was already having a bad day. The two talk through their differences, and leave the room with a better understanding of each other's feelings."
+  },{
+    "Type": "conflict_bump2_reprimand_0",
+    "Text": "[actor_0] apologizes again, but [actor_1] refuses to accept the apology, claiming that this incident is just part of a pattern of bullying from other girls. [actor_0] denies it, but the denial doesn't seem very convincing."
+  },{
+    "Type": "conflict_bump2_reprimand_1",
+    "Text": "[actor_1] breaks down in tears, and claims that this small incident is just part of a larger pattern of bullying from other girls. Privately, several staffers share stories that seem to corroborate what she says. It seems like [actor_0] is the ringleader of the bullies."
+  },{
+    "Type": "conflict_bump2_counseling",
+    "Text": "[actor_1] claims that [actor_0] and her friends have been systematically bullying her, and the small 'accident' in the hallway was just one of many incidents. The counseler does some investigating and determines this to be true, identifying [actor_0] as the ringleader of the bullying campaign."
+  }
+]

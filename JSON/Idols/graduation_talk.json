@@ -1,0 +1,578 @@
+[
+	{
+		"Categories": ["ask","happy"],
+		"Text": "I've really appreciated the time I've had with [groupname]. That being said,"
+	},{
+		"Categories": ["ask","happy"],
+		"Text": "Being in [groupname] has been such a good opportunity for me! But I'll have to graduate eventually, and I think a good time for that would be"
+	},{
+		"Categories": ["ask","happy"],
+		"Text": "I'm proud to be part of [groupname], but I have to start thinking about what's next at some point, right? I'm thinking I should move on"
+	},{
+		"Categories": ["ask","happy"],
+		"Text": "I've really enjoyed getting to know everyone, but I can't stay here forever! If I could, I think I'd like to graduate"
+	},
+
+	{
+		"Categories": ["ask","moderate"],
+		"Text": "I've been thinking about what I want to do with the rest of my life.  I think that I'll probably have a good idea of what's next for me"
+	},{
+		"Categories": ["ask","moderate"],
+		"Text": "I can't be an idol forever, you know? I'll have to move on eventually, and I think I'd probably do that"
+	},{
+		"Categories": ["ask","moderate"],
+		"Text": "What's next for me, huh? I'll probably move onto the next chapter of my life"
+	},{
+		"Categories": ["ask","moderate"],
+		"Text": "Hopefully I'll be ready to move on"
+	},
+
+	{
+		"Categories": ["ask","unhappy"],
+		"Text": "I've been starting to think maybe this idol life isn't for me, you know? If I had to pick a time to graduate, it would probably be some time"
+	},{
+		"Categories": ["ask","unhappy"],
+		"Text": "Being an idol isn't all sunshine and roses. I don't want to make it sound like I'm in a hurry to leave, but I'm thinking of graduating"
+	},{
+		"Categories": ["ask","unhappy"],
+		"Text": "Right to the point, eh? Well, I think I'd like to be out of here"
+	},{
+		"Categories": ["ask","unhappy"],
+		"Text": "I'd like to be on my way"
+	},
+
+	{
+		"Categories": ["ask","date_12"],
+		"Text": "in [date]."
+	},{
+		"Categories": ["ask","date_12_2"],
+		"Text": "in the next couple years or so."
+	},{
+		"Categories": ["ask","date_2"],
+		"Text": "in the next [date] years or so."
+	},{
+		"Categories": ["ask","date_highschool"],
+		"Text": "after finishing high school."
+	},{
+		"Categories": ["ask","date_5"],
+		"Text": "before I turn [age]."
+	},
+
+
+
+	{
+		"Categories": ["fire","allow_grad"],
+		"Text": "Thanks for at least allowing me the dignity of a formal graduation."
+	},{
+		"Categories": ["fire","allow_grad"],
+		"Text": "Well, at least you're not being totally unceremonious about it."
+	},{
+		"Categories": ["fire","allow_grad"],
+		"Text": "I wish it didn't have to come to this."
+	},{
+		"Categories": ["fire","allow_grad"],
+		"Text": "Alright, I think I can stick around for that long."
+	},
+
+	{
+		"Categories": ["fire","not_good_low_stats"],
+		"Text": "So, you finally noticed, huh? I knew this day would come eventually."
+	},{
+		"Categories": ["fire","not_good_high_stats"],
+		"Text": "Really? I find that hard to believe."
+	},{
+		"Categories": ["fire","not_good"],
+		"Text": "You've just made a big mistake. But sure, I'll leave, just you can see what a big mistake you've made."
+	},{
+		"Categories": ["fire","not_good"],
+		"Text": "Well, that's a matter of opinion. In my opinion, you're too much of an idiot to realize how great I am."
+	},
+	{
+		"Categories": ["fire","not_good","message"],
+		"Text": "We need to make room for new talent"
+	},
+
+	{
+		"Categories": ["fire","too_old_20"],
+		"Text": "Really? This is what counts for \"too old\" these days?"
+	},{
+		"Categories": ["fire","too_old", "too_old_25"],
+		"Text": "Well, you know what they say about Christmas cakes..."
+	},{
+		"Categories": ["fire","too_old"],
+		"Text": "Oh, so I'm too old, is that it? You could just come right out and say it."
+	},{
+		"Categories": ["fire","too_old"],
+		"Text": "A wise man told me that the blueprint for success was rage and youthful exuberance. My youth has faded, but I've still got the rage!"
+	},
+	{
+		"Categories": ["fire","too_old","message"],
+		"Text": "We want [groupname] to project a more youthful image."
+	},
+
+	{
+		"Categories": ["fire","scandal"],
+		"Text": "Really, you're going to hang me out to dry over something like that?"
+	},{
+		"Categories": ["fire","scandal"],
+		"Text": "I hope you realize what this will do to my career."
+	},{
+		"Categories": ["fire","scandal"],
+		"Text": "And here I was, thinking that [groupname] would stick with me when the going got tough."
+	},{
+		"Categories": ["fire","scandal"],
+		"Text": "Yeah, I can see why you'd do that. Doesn't make it hurt any less."
+	},
+	{
+		"Categories": ["fire","scandal","message"],
+		"Text": "We can't overlook your involvement in a recent scandal"
+	},
+
+	{
+		"Categories": ["fire","money_lie"],
+		"Text": "I find that pretty hard to believe, considering how well [groupname] is doing. I think you and I both know the real reason."
+	},{
+		"Categories": ["fire","money"],
+		"Text": "Running low on cash, huh? Well, I guess I understand."
+	},{
+		"Categories": ["fire","money"],
+		"Text": "So, the belt is tightening, and I'm the one that gets squeezed out, huh?"
+	},{
+		"Categories": ["fire","money"],
+		"Text": "Listen, I get it. I don't like it, but I get it."
+	},
+	{
+		"Categories": ["fire","money","message"],
+		"Text": "Our budget has tightened"
+	},
+
+	{
+		"Categories": ["fire","personal"],
+		"Text": "Oh, so it's just my personality? That's a relief."
+	},{
+		"Categories": ["fire","personal"],
+		"Text": "A little bit of drama, and I'm the one who gets fired?"
+	},{
+		"Categories": ["fire","personal"],
+		"Text": "Maybe I'm not the one who's the problem here."
+	},
+	{
+		"Categories": ["fire","personal","message"],
+		"Text": "Irreconcilable personality differences"
+	},
+
+
+
+	{
+		"Categories": ["announcement","happy"],
+		"Text": "We all have to graduate eventually, right? My last day with [groupname] will be"
+	},{
+		"Categories": ["announcement","happy"],
+		"Text": "I wish I didn't have to talk to you about this, but it's time for me to graduate. I'm looking at"
+	},{
+		"Categories": ["announcement","happy"],
+		"Text": "All good things must come to an end, and I feel that my time with [groupname] will be coming to an end on"
+	},{
+		"Categories": ["announcement","happy"],
+		"Text": "I think it's time for me to say goodbye to [groupname]. My graduation date is set for"
+	},
+
+	{
+		"Categories": ["announcement","moderate"],
+		"Text": "We both knew this day would come eventually, it was just a question of when. Well, I think I should graduate from [groupname] on"
+	},{
+		"Categories": ["announcement","moderate"],
+		"Text": "It's time for me to move onto the next chapters of my life. My target graduation date is"
+	},{
+		"Categories": ["announcement","moderate"],
+		"Text": "While my time with [groupname] has been an important period of personal development for me, I feel it's time for me to move on. I'll no longer be part of [groupname] on"
+	},{
+		"Categories": ["announcement","moderate"],
+		"Text": "I've recently received an offer I can't refuse, and that means my time with [groupname] must come to an end. I need to finish up here and graduate on"
+	},
+
+	{
+		"Categories": ["announcement","unhappy"],
+		"Text": "Recently, I've come to realize that being part of [groupname] has been limiting my personal opportunities in a number of ways. I want to graduate on"
+	},{
+		"Categories": ["announcement","unhappy"],
+		"Text": "Listen...I don't think that I was a good match for [groupname], and I'm guessing you feel the same way. I'm out of here on"
+	},{
+		"Categories": ["announcement","unhappy"],
+		"Text": "Me being a part of [groupname] isn't doing either of us any good. I'm not enjoying myself, and you're not getting the best parts of me. I think it's time for me to graduate, so let's make it happen on"
+	},{
+		"Categories": ["announcement","unhappy"],
+		"Text": "It's time for me to bid you an adieu that's long overdue. I'm out of here on"
+	},{
+		"Categories": ["announcement","unhappy"],
+		"Text": "I don't want to waste any more of my life here. For a graduation date, I'm looking at"
+	},{
+		"Categories": ["announcement","unhappy"],
+		"Text": "I'm looking forward to a lot of things in life, but the thing I'm looking forward to most is being done with [groupname]. I'm graduating"
+	},
+
+	{
+		"Categories": ["announcement","message"],
+		"Text": "[girl] has announced her intention to graduate on [date]. That's 3 months from now."
+	},
+
+
+
+	{
+		"Categories": ["graduation","happy_a"],
+		"Text": "Being part of [groupname] has been a wonderful experience, and I wouldn't trade my time here for anything."
+	},{
+		"Categories": ["graduation","happy_a"],
+		"Text": "Part of me wishes that I could be an idol forever, but everyone has to graduate eventually."
+	},{
+		"Categories": ["graduation","happy_a"],
+		"Text": "I wish I could stay longer, but I think now's the time for me to move on."
+	},{
+		"Categories": ["graduation","happy_a"],
+		"Text": "Youth is fleeting, and so is my time with [groupname]. Alas, I wish it weren't so, but all good things must come to an end."
+	},{
+		"Categories": ["graduation","happy_a"],
+		"Text": "It's been a lot of fun."
+	},{
+		"Categories": ["graduation","happy_a"],
+		"Text": "Is it graduation day already? I was secretly hoping this date wouldn't come."
+	},
+
+	{
+		"Categories": ["graduation","happy_b"],
+		"Text": "I'm going to miss this place."
+	},{
+		"Categories": ["graduation","happy_b"],
+		"Text": "I'll always cherish the memories we made here."
+	},{
+		"Categories": ["graduation","happy_b"],
+		"Text": "It's been real, and it's been fun, and it's been real fun."
+	},{
+		"Categories": ["graduation","happy_b"],
+		"Text": "Hopefully we can still keep in touch."
+	},{
+		"Categories": ["graduation","happy_b"],
+		"Text": "Keep me in your memories, okay?"
+	},{
+		"Categories": ["graduation","happy_b"],
+		"Text": "I'll always remember my time with [groupname]."
+	},{
+		"Categories": ["graduation","happy_b"],
+		"Text": "I'll never forget you, or the time I spent with [groupname]."
+	},
+
+	{
+		"Categories": ["graduation","moderate"],
+		"Text": "It's been a pleasure working with you."
+	},{
+		"Categories": ["graduation","moderate"],
+		"Text": "I appreciate all of the support you've given me."
+	},{
+		"Categories": ["graduation","moderate"],
+		"Text": "Best of luck in your future endeavors!"
+	},{
+		"Categories": ["graduation","moderate"],
+		"Text": "We both knew this day would come eventually, it was just a question of when."
+	},
+
+	{
+		"Categories": ["graduation","unhappy"],
+		"Text": "Part of me wishes things had worked out better, but a bigger part of me just wants to be out the door as fast as possible.  See ya."
+	},{
+		"Categories": ["graduation","unhappy"],
+		"Text": "I'm not going to mince words, this place sucked!"
+	},{
+		"Categories": ["graduation","unhappy"],
+		"Text": "If I'm being honest, I'm not really sad to say goodbye to [groupname]. I'm sure that bigger and better things await me on the other side of graduation."
+	},{
+		"Categories": ["graduation","unhappy"],
+		"Text": "Yeah, I'm done here. Don't worry, I won't let the door hit me on the way out."
+	},{
+		"Categories": ["graduation","unhappy"],
+		"Text": "All I have to say is, good riddance."
+	},{
+		"Categories": ["graduation","unhappy"],
+		"Text": "I'm going to miss this place! That's what I would say if I were being dishonest."
+	},{
+		"Categories": ["graduation","unhappy"],
+		"Text": "I feel like I finally managed to escape Alcatraz."
+	},{
+		"Categories": ["graduation","unhappy"],
+		"Text": "Maybe some day I'll look back on my time with [groupname] as the best days of my life, but right now all I can think about is how I'm ready to leave."
+	},
+
+
+
+	{
+		"Categories": ["staff","accept"],
+		"Text": "You know, I was secretly hoping I could stay with [groupname] past graduation, so getting to join as a staff worker is like a dream come true."
+	},{
+		"Categories": ["staff","accept"],
+		"Text": "Of course I'll accept the offer. I'd love to continue working with [groupname]!"
+	},{
+		"Categories": ["staff","accept"],
+		"Text": "Wow, you'd let me do that? Sure, I'd be glad to stick around. My time on the stage might be done, but I'm looking forward to helping train the next generation of talent!"
+	},{
+		"Categories": ["staff","accept"],
+		"Text": "To be honest, that would be a dream job for me. Yes, I'd be happy to keep working with you."
+	},{
+		"Categories": ["staff","accept"],
+		"Text": "Since you're the one asking...sure, I'd be down for that."
+	},{
+		"Categories": ["staff","accept"],
+		"Text": "You like me that much, huh? Sure, I'd be happy to."
+	},
+
+	{
+		"Categories": ["staff","decline"],
+		"Text": "I wish I could, but I've got another opportunity waiting for me."
+	},{
+		"Categories": ["staff","decline"],
+		"Text": "Sorry, but I've already accepted another job offer. I appreciate the gesture, though."
+	},{
+		"Categories": ["staff","decline"],
+		"Text": "Someone else made me an offer I can't refuse, so I'm going to have to decline your offer. But thanks."
+	},{
+		"Categories": ["staff","decline"],
+		"Text": "I'm flattered that you ask, but I think I'm done with the idol life."
+	},{
+		"Categories": ["staff","decline"],
+		"Text": "Unfortunately I have to decline. But thanks for the offer."
+	},
+
+	{
+		"Categories": ["successor","decline"],
+		"Text": "Sorry, but I really don't have the time."
+	},{
+		"Categories": ["successor","decline"],
+		"Text": "I wish I could, but I'm going to be too busy with my new job to have time for that kind of thing."
+	},{
+		"Categories": ["successor","decline"],
+		"Text": "That's kind of a big ask, and unfortunately I'm going to have to say no."
+	},
+
+	{
+		"Categories": ["successor","accept_sister"],
+		"Text": "I already have someone in mind. I think my younger sister would be perfect for this."
+	},{
+		"Categories": ["successor","accept"],
+		"Text": "So, you want me to recruit my replacement? I guess that's essential for any organization to start thriving. You know what, I think I will."
+	},{
+		"Categories": ["successor","accept"],
+		"Text": "Sure, why not? I enjoyed my time here, and if I can give another girl the same opportunity, it'll at least be good karma."
+	},{
+		"Categories": ["successor","accept"],
+		"Text": "You want me to find someone who can be the next one to carry the torch? You know what, I think I can."
+	},{
+		"Categories": ["successor","accept"],
+		"Text": "I like that idea. Going out into the world and finding the next generation of [groupname]..."
+	},{
+		"Categories": ["successor","accept"],
+		"Text": "Yeah, I think I know a few people who might be interested. I'll send them your contact information."
+	},{
+		"Categories": ["successor","accept"],
+		"Text": "Sure, I'd be glad to help with the auditioning process."
+	},
+
+
+
+
+	{
+		"Categories": ["choice", "well_wish"],
+		"Text": "Best of luck in your future endeavors"
+	},{
+		"Categories": ["choice", "well_wish"],
+		"Text": "I hope that you enjoyed your time here at [groupname]"
+	},{
+		"Categories": ["choice", "well_wish"],
+		"Text": "Congratulations"
+	},{
+		"Categories": ["choice", "well_wish"],
+		"Text": "I'll try to make the transition as smooth as possible"
+	},{
+		"Categories": ["choice", "well_wish"],
+		"Text": "Alright, sounds good"
+	},{
+		"Categories": ["choice", "well_wish"],
+		"Text": "That's fine by me"
+	},
+
+	{
+		"Categories": ["stay", "accept"],
+		"Text": "Hmm, you're still not done with me yet? I guess I can stick around until [new_date]."
+	},{
+		"Categories": ["stay", "accept"],
+		"Text": "I guess, after all that [groupname] has done for me, I could stick around a bit longer. I'll move my graduation date to [new_date]."
+	},{
+		"Categories": ["stay", "accept"],
+		"Text": "Are you really going to twist my arm on this? Well, I do owe you a favor, and I guess it wouldn't be a problem for me to stick around until [new_date]."
+	},{
+		"Categories": ["stay", "accept"],
+		"Text": "Okay, I'll graduate on [new_date] instead. But you'll owe me for this."
+	},{
+		"Categories": ["stay", "accept"],
+		"Text": "I can push my graduation date back to [new_date], if you insist. But don't expect me to do any more favors for you from now on."
+	},{
+		"Categories": ["stay", "accept"],
+		"Text": "I'll do my best to accommodate that. I can move my graduation to [new_date] instead. Hopefully that will give you enough time to prepare for the transition."
+	},{
+		"Categories": ["stay", "accept"],
+		"Text": "Alright, I suppose I can stick around a bit longer. Let's move my graduation to [new_date] instead."
+	},{
+		"Categories": ["stay", "accept"],
+		"Text": "I can stick around until [new_date]. But after that, I think I'll really need to be on my way."
+	},
+
+	{
+		"Categories": ["stay", "decline", "high_affection"],
+		"Text": "Sorry, no dice. It's time for me to move on."
+	},{
+		"Categories": ["stay", "decline", "mid_affection"],
+		"Text": "I don't owe you anything more. I'll be around until my planned graduation date, and not a moment longer."
+	},{
+		"Categories": ["stay", "decline", "low_affection"],
+		"Text": "After the way you've treated me? I don't think so. Maybe if you had done a better job of looking out for my interests, I would have decided to stick around longer."
+	},{
+		"Categories": ["stay", "decline", "low_affection"],
+		"Text": "Well, your preferences are your preferences, and I don't really have to accommodate them. Especially since you don't have the best track record of accommodating my preferences."
+	},{
+		"Categories": ["stay", "decline", "low_affection"],
+		"Text": "It's for the best for me to move on, [player:polite]. I got the impression that you never really cared about me much anyway."
+	},{
+		"Categories": ["stay", "decline", "low_affection"],
+		"Text": "After everything I've given to this organization, I think you're lucky that I chose to stick around this long."
+	},
+
+	{
+		"Categories": ["reply", "well_wish"],
+		"Text": "Thanks, [player:polite]."
+	},{
+		"Categories": ["reply", "well_wish"],
+		"Text": "Good luck to you as well. I hope that [groupname] continues to do well, even in my absence."
+	},{
+		"Categories": ["reply", "well_wish"],
+		"Text": "Good. I think this split will be mutually beneficial."
+	},{
+		"Categories": ["reply", "well_wish"],
+		"Text": "Best of luck with running [groupname], [player:polite]."
+	},{
+		"Categories": ["reply", "well_wish"],
+		"Text": "I appreciate your willingness to accommodate me, [player:polite]. Let's both do everything we can to make this transition as smooth as possible."
+	},{
+		"Categories": ["reply", "well_wish"],
+		"Text": "Goodbye, [player:polite]. Or, at least that's what I'll be saying on [date]."
+	},{
+		"Categories": ["reply", "well_wish"],
+		"Text": "Alright, cool. I'll do my best to keep up with my professional duties until then."
+	},
+
+
+	{
+		"Categories": ["ask", "bankruptcy"],
+		"Text": "So does that mean..."
+	},{
+		"Categories": ["ask", "bankruptcy"],
+		"Text": "Wait, what are you saying?"
+	},{
+		"Categories": ["ask", "bankruptcy"],
+		"Text": "I think I know what's coming next."
+	},{
+		"Categories": ["ask", "bankruptcy"],
+		"Text": "I figured."
+	},{
+		"Categories": ["ask", "bankruptcy"],
+		"Text": "I heard."
+	},{
+		"Categories": ["ask", "bankruptcy"],
+		"Text": "So..."
+	},{
+		"Categories": ["ask", "bankruptcy"],
+		"Text": "And what does that mean for me?"
+	},{
+		"Categories": ["ask", "bankruptcy"],
+		"Text": "Cut to the chase."
+	},{
+		"Categories": ["ask", "bankruptcy"],
+		"Text": "And as for me..."
+	},{
+		"Categories": ["ask", "bankruptcy"],
+		"Text": "..."
+	},{
+		"Categories": ["ask", "bankruptcy"],
+		"Text": "Go on..."
+	},
+
+	{
+		"Categories": ["choice", "bankruptcy"],
+		"Text": "You're extremely talented"
+	},{
+		"Categories": ["choice", "bankruptcy"],
+		"Text": "You've done everything we've asked of you"
+	},{
+		"Categories": ["choice", "bankruptcy"],
+		"Text": "You were an invaluable part of [groupname]"
+	},{
+		"Categories": ["choice", "bankruptcy"],
+		"Text": "I hate that this is happening"
+	},{
+		"Categories": ["choice", "bankruptcy"],
+		"Text": "We couldn't have asked for better"
+	},{
+		"Categories": ["choice", "bankruptcy"],
+		"Text": "I feel lucky to have worked with you"
+	},{
+		"Categories": ["choice", "bankruptcy"],
+		"Text": "It was a pleasure working with you"
+	},{
+		"Categories": ["choice", "bankruptcy"],
+		"Text": "[groupname] survived as long as it did because of your hard work"
+	},{
+		"Categories": ["choice", "bankruptcy"],
+		"Text": "You were a diligent worker"
+	},{
+		"Categories": ["choice", "bankruptcy"],
+		"Text": "You were great at your job"
+	},{
+		"Categories": ["choice", "bankruptcy"],
+		"Text": "We were lucky to have you"
+	},{
+		"Categories": ["choice", "bankruptcy"],
+		"Text": "We made some great memories together"
+	},{
+		"Categories": ["choice", "bankruptcy"],
+		"Text": "I wish this didn't have to happen"
+	},{
+		"Categories": ["choice", "bankruptcy"],
+		"Text": "This is out of my hands"
+	},{
+		"Categories": ["choice", "bankruptcy"],
+		"Text": "I appreciate the many sacrifices you made for [groupname]"
+	},{
+		"Categories": ["choice", "bankruptcy"],
+		"Text": "You were an excellent worker"
+	},{
+		"Categories": ["choice", "bankruptcy"],
+		"Text": "You're incredibly talented"
+	},
+
+
+	{
+		"Categories": ["reply", "bankruptcy"],
+		"Text": "I understand."
+	},{
+		"Categories": ["reply", "bankruptcy"],
+		"Text": ". . ."
+	},{
+		"Categories": ["reply", "bankruptcy"],
+		"Text": "I see."
+	},{
+		"Categories": ["reply", "bankruptcy"],
+		"Text": "Goodbye."
+	},{
+		"Categories": ["reply", "bankruptcy"],
+		"Text": "Alright then."
+	},{
+		"Categories": ["reply", "bankruptcy"],
+		"Text": "That's it? Alright."
+	}
+]

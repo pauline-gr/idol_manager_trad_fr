@@ -1,0 +1,121 @@
+[
+	{
+		"Categories": ["bad_job"],
+		"Text": "working at a video rental store in Akiba"
+	},{
+		"Categories": ["bad_job"],
+		"Text": "cleaning the kitchen at a small ramen shop"
+	},{
+		"Categories": ["bad_job"],
+		"Text": "working at a convenience store"
+	},{
+		"Categories": ["bad_job"],
+		"Text": "working as a cashier at a fast food restaurant"
+	},
+
+
+	{
+		"Categories": ["kids_string","no_kids"],
+		"Text": "decided not to have kids"
+	},{
+		"Categories": ["kids_string","no_kids"],
+		"Text": "talked about having kids, but were never able to conceive"
+	},{
+		"Categories": ["kids_string","no_kids"],
+		"Text": "kept putting off having kids, before deciding after several years that neither of you really wanted to be a parent"
+	},
+
+	{
+		"Categories": ["kids_string","had_kids"],
+		"Text": "initially decided not to have kids, but both changed your mind a year into your marriage, and went on to have [he_kids_number] kids"
+	},{
+		"Categories": ["kids_string","had_kids"],
+		"Text": "had [he_kids_number] kids together"
+	},{
+		"Categories": ["kids_string","had_kids","male_mc"],
+		"Text": "initially decided not to have kids, but had an accidental pregnancy a year into your marriage and decided to keep it, before going on to have [he_kids_number] more kids"
+	},
+
+
+	{
+		"Categories": ["career_string_1","id_1"],
+		"Text": "You and [g:casual] moved to Italy and opened a Japanese restaurant together."
+	},{
+		"Categories": ["career_string_2","id_1"],
+		"Text": "Business was good until the financial crash of [he_year] when you went bankrupt and returned to Japan."
+	},
+	{
+		"Categories": ["career_string_1","id_2"],
+		"Text": "[g:casual]'s career took off after she attracted the attention of many international fans and started doing international tours."
+	},{
+		"Categories": ["career_string_2","id_2"],
+		"Text": "You eventually quit your job to become her manager and travel with her."
+	},
+	{
+		"Categories": ["career_string_1","id_3"],
+		"Text": "[g:casual]'s career took off after she attracted the attention of many international fans and started doing international tours."
+	},{
+		"Categories": ["career_string_2","id_3"],
+		"Text": "You eventually quit your job to look after the kids full time."
+	},
+	{
+		"Categories": ["career_string_1","id_4"],
+		"Text": "You went on to become CTO at [he_random_company]."
+	},{
+		"Categories": ["career_string_2","id_4"],
+		"Text": "[g:casual] quit her job to look after the kids full time."
+	},
+	{
+		"Categories": ["career_string_1","id_5"],
+		"Text": "[g:casual] became a fashion designer at age 40."
+	},{
+		"Categories": ["career_string_2","id_5"],
+		"Text": "You worked as CFO at [he_random_company] until [he_year] when the company was caught in a price-fixing scandal, forcing you to retire in disgrace."
+	},
+	{
+		"Categories": ["career_string_1","id_6"],
+		"Text": "[g:casual]'s career stagnated after you got married."
+	},{
+		"Categories": ["career_string_2","id_6"],
+		"Text": "You continued [bad_job] until retiring at age 70."
+	},
+
+	{
+		"Categories": ["relationship_outcome_string","good"],
+		"Text": "You and [g:casual] celebrated your 50th wedding anniversary by having dinner at a restaurant that moved into the building where [groupname] used to operate from."
+	},{
+		"Categories": ["relationship_outcome_string","good"],
+		"Text": "You passed away at the age of [he_death_age] with [g:casual] at your side."
+	},{
+		"Categories": ["relationship_outcome_string","good","ambition"],
+		"Text": "Fifty years later, you and [g:casual] still celebrate your anniversary every year by going out and singing karaoke and singing songs she performed when you were both with [groupname]."
+	},{
+		"Categories": ["relationship_outcome_string","good","convenience"],
+		"Text": "Fifty years later, [g:casual] still loves dragging you out to the theater whenever there's a big new international blockbuster to see."
+	},{
+		"Categories": ["relationship_outcome_string","good","fun"],
+		"Text": "Fifty years later, you and [g:casual] still celebrate your anniversary every year by going to the arcade and trying to win a stuffed animal from the claw machine. So far, you've spent [yen][he_arcade_money]."
+	},
+
+	{
+		"Categories": ["relationship_outcome_string","bad"],
+		"Text": "[he_divorce_time] years into your relationship, you divorced after [g:casual] caught you having an affair."
+	},{
+		"Categories": ["relationship_outcome_string","bad"],
+		"Text": "You divorced [g:casual] [he_divorce_time] years into your marriage after discovering that she was having an affair."
+	},{
+		"Categories": ["relationship_outcome_string","bad"],
+		"Text": "You and [g:casual] spent the later years of your marriage falling further and further apart before eventually deciding that an amicable divorce was for the best."
+	},{
+		"Categories": ["relationship_outcome_string","bad"],
+		"Text": "You and [g:casual] divorced after [he_divorce_time] years, citing 'irreconcilable differences.' The divorce was mentioned on an obscure [groupname] fan blog several years later when they did a 'where are they now' article featuring [g:casual]."
+	},
+
+	{
+		"Categories": ["custody_string","had_kids"],
+		"Text": "[he_custody] received custody of the children."
+	},{
+		"Categories": ["custody_string","no_kids"],
+		"Text": "..."
+	}
+]

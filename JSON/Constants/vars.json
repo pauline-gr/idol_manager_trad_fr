@@ -1,0 +1,64 @@
+[
+	{
+		"variable": "default",
+		"male": "lastName firstName",
+		"female": "lastName firstName",
+		"color": "blue"
+	},{
+		"variable": "firstname",
+		"male": "firstName",
+		"female": "firstName",
+		"color": "blue"
+	},{
+		"variable": "lastname",
+		"male": "lastName",
+		"female": "lastName",
+		"color": "blue"
+	},{
+		"variable": "polite",
+		"male": "Mr. lastName",
+		"female": "Mme. lastName",
+		"color": "blue"
+	},{
+		"variable": "casual",
+		"male": "firstName",
+		"female": "firstName",
+		"color": "blue"
+	},{
+		"variable": "SirMaam",
+		"male": "Monsieur",
+		"female": "Madame"
+	},{
+		"variable": "heshe",
+		"male": "il",
+		"female": "elle"
+	},{
+		"variable": "HeShe",
+		"male": "Il",
+		"female": "Elle"
+	},{
+		"variable": "manwoman",
+		"male": "homme",
+		"female": "femme"
+	},{
+		"variable": "ManWoman",
+		"male": "Homme",
+		"female": "Femme"
+	},{
+		"variable": "himher",
+		"male": "Lui",
+		"female": "Elle"
+	},{
+		"variable": "HimHer",
+		"male": "Lui",
+		"female": "Elle"
+	},{
+		"variable": "hisher",
+		"male": "son/sa",
+		"female": "son/sa"
+	},{
+		"variable": "HisHer",
+		"male": "Son/Sa",
+		"female": "Son/Sa"
+	}
+]

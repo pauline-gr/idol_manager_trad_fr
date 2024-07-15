@@ -1,0 +1,251 @@
+[
+	{
+		type: 			"Prodigy",
+		title: 			"Prodige",
+		intro:			"intro_prodigy",
+		description:	"Les sessions d'entraînement sont 30% plus rapides"
+	},
+	{
+		type: 			"Hypochondriac",
+		title: 			"Hypocondriaque",
+		intro:			"intro_hypochondriac",
+		description:	"Consomme 2x plus de stamina lors des événements de poignée de main",
+		positive:		false
+	},
+	{
+		type: 			"Thick_Skin",
+		title: 			"Blindée",
+		intro:			"intro_thick_skin",
+		description:	"Immunisée contre le harcèlement et le harcèlement en ligne"
+	},
+	{
+		type: 			"Clumsy",
+		title: 			"Maladroite",
+		intro:			"intro_clumsy",
+		description:	"Malus à la danse, bonus à la comédie"
+	},
+	{
+		type: 			"Jack_of_All_Trades",
+		title: 			"Femme polyvalente",
+		intro:			"intro_jack_of_all_trades",
+		description:	"Apprend 50% plus vite lors de l'entraînement de la statistique la plus basse"
+	},
+	{
+		type: 			"Annoying",
+		title: 			"Ennuyeuse",
+		intro:			"intro_annoying",
+		description:	"Quand elle participe à des activités de groupe, les autres filles consomment 1.2x plus de stamina que d'habitude",
+		positive:		false
+	},
+	{
+		type: 			"Tenacious",
+		title: 			"Tenace",
+		intro:			"intro_tenacious",
+		description:	"Quand la stamina physique de l'idole tombe en dessous de 50pt, elle a 30% de chances de ne pas consommer de stamina lorsqu'elle fait une activité"
+	},
+	{
+		type: 			"Lazy",
+		title: 			"Paresseuse",
+		intro:			"intro_lazy",
+		description:	"Réduit la stamina physique maximale de 30pt",
+		positive:		false
+	},
+	{
+		type: 			"Misandry",
+		title: 			"Misandre",
+		intro:			"intro_misandry",
+		description:	"Interagit mal avec les fans masculins (20% de chances d'obtenir un point d'opinion négatif pour les fans masculins après un événement de poignée de main)"
+		positive:		false
+	},
+	{
+		type: 			"Asexual",
+		title: 			"Asexuelle",
+		intro:			"intro_asexual",
+		description:	"N'a jamais de relation amoureuse"
+	},
+	{
+		type: 			"Indiscreet",
+		title: 			"Indiscrète",
+		intro:			"intro_indiscreet",
+		description:	"Ne peut pas garder un secret (a tendance à divulguer des informations lors d'interviews ou sur les réseaux sociaux)",
+		positive:		false
+	},
+	{
+		type: 			"Snitch",
+		title: 			"Moucharde",
+		intro:			"intro_snitch",
+		description:	"Rapporte des scandales possibles même si la relation avec le joueur n'est pas assez bonne"
+	},
+	{
+		type: 			"Maternal",
+		title: 			"Maternelle",
+		intro:			"intro_maternal",
+		description:	"S'entend mieux avec des filles plus jeunes qu'elle"
+	},
+	{
+		type: 			"Precocious",
+		title: 			"Précoce",
+		intro:			"intro_precocious",
+		description:	"S'entend mieux avec des filles plus âgées qu'elle"
+	},
+	{
+		type: 			"Weak_vocal_chords",
+		title: 			"Cordes vocales fragiles",
+		intro:			"intro_weak_vocal_chords",
+		description:	"Consomme 2x plus de stamina lors des performances",
+		positive:		false
+	},
+	{
+		type: 			"Underdog",
+		title: 			"Outsider",
+		intro:			"intro_underdog",
+		description:	"Bonus à toutes les statistiques si votre dernier single n'a pas été en tête du classement"
+	},
+	{
+		type: 			"Defeatist",
+		title: 			"Défaitiste",
+		intro:			"intro_defeatist",
+		description:	"Malus à toutes les statistiques si votre dernier single n'a pas été en tête du classement",
+		positive:		false
+	},
+	{
+		type: 			"Worrier",
+		title: 			"Inquiète",
+		intro:			"intro_worrier",
+		description:	"Malus à toutes les statistiques si votre groupe a des points de scandale",
+		positive:		false
+	},
+	{
+		type: 			"Arrogant",
+		title: 			"Arrogante",
+		intro:			"intro_arrogant",
+		description:	"Devient moins aimable après avoir centré un single",
+		positive:		false
+	},
+	{
+		type: 			"Complacent",
+		title: 			"Complaisante",
+		intro:			"intro_complacent",
+		description:	"Diminue les statistiques de performance après avoir centré un single (pénalité pour le chant et la danse)",
+		positive:		false
+	},
+	{
+		type: 			"Lone_Wolf",
+		title: 			"Loup solitaire",
+		intro:			"intro_lone_wolf",
+		description:	"Bonus de statistiques lorsqu'elle anime seule un spectacle"
+	},
+	{
+		type: 			"Anxiety",
+		title: 			"Anxieuse",
+		intro:			"intro_anxiety",
+		description:	"Obtient une légère réduction de toutes les statistiques lorsque vous avez un grand événement en production"
+		positive:		false
+	},
+	{
+		type: 			"Live_fast",
+		title: 			"Vieillissement accéléré",
+		intro:			"intro_live_fast",
+		description:	"Amplifie la perte de statistiques due au vieillissement",
+		positive:		false
+	},
+	{
+		type: 			"Late_bloomer",
+		title: 			"Éclosion tardive",
+		intro:			"intro_late_bloomer",
+		description:	"Les statistiques augmentent avec l'âge au lieu de diminuer"
+	},
+	{
+		type: 			"Forgiving",
+		title: 			"Indulgente",
+		intro:			"intro_forgiving",
+		description:	"N'est pas rancunière'"
+	},
+	{
+		type: 			"Paranoid",
+		title: 			"Paranoïaque",
+		intro:			"intro_paranoid",
+		description:	"Plus susceptible de signaler de vrais scandales au joueur, mais signalera parfois également de faux comportements scandaleux"
+	},
+	{
+		type: 			"Secretive",
+		title: 			"Secrète",
+		intro:			"intro_secretive",
+		description:	"Ne signalera pas les scandales/problèmes"
+		positive:		false
+	},
+	{
+		type: 			"Trendy",
+		title: 			"Tendance",
+		intro:			"intro_trendy",
+		description:	"Bonus d'attrait avec les fans adolescents et jeunes adultes, moins d'attrait avec les fans adultes"
+	},
+	{
+		type: 			"Perfectionist",
+		title: 			"Perfectionniste",
+		intro:			"intro_perfectionist",
+		description:	"Prend un coup à sa santé mentale quand un événement auquel elle participe se passe mal"
+		positive:		false
+	},
+	{
+		type: 			"High_maintenance",
+		title: 			"Exigeante",
+		intro:			"intro_high_maintenance",
+		description:	"Consomme 1.5x plus de stamina que la normale, mais le traitement spa restaure 4x plus de stamina"
+	},
+	{
+		type: 			"Photogenic",
+		title: 			"Photogénique",
+		intro:			"intro_photogenic",
+		description:	"Bonus de 2x aux paiements de photoshoot"
+	},
+	{
+		type: 			"Meme_queen",
+		title: 			"Reine des memes",
+		intro:			"intro_meme_queen",
+		description:	"Increases success chance of viral marketing campaigns and minor boost to all online content"
+		description:	"Augmente les chances de succès des campagnes de marketing viral et donne un petit boost à tout le contenu en ligne"
+	},
+	{
+		type: 			"Amorous",
+		title: 			"Amoureuse",
+		intro:			"intro_amorous",
+		description:	"Plus encline à s'impliquer dans des relations amoureuses"
+	},
+	{
+		type: 			"Loyal",
+		title: 			"Loyale",
+		intro:			"intro_loyal",
+		description:	"Les événements qui pourraient nuire aux relations l'affectent moins"
+	},
+	{
+		type: 			"Steadfast",
+		title: 			"Ferme",
+		intro:			"intro_steadfast",
+		description:	"Les pénalités pour santé faible sont considérablement réduites"
+	},
+	{
+		type: 			"Resilient",
+		title: 			"Résistante",
+		intro:			"intro_resilient",
+		description:	"Récupère plus rapidement lorsque la stamina tombe en dessous de 65%"
+	},
+	{
+		type: 			"Shameless",
+		title: 			"Sans honte",
+		intro:			"intro_shameless",
+		description:	"Ne craint pas les scandales"
+	},
+	{
+		type: 			"Spoiled",
+		title: 			"Gâtée",
+		intro:			"intro_spoiled",
+		description:	"Consomme la stamina deux fois plus vite, récupère la stamina deux fois moins vite"
+	},
+	{
+		type: 			"Moonlighter",
+		title: 			"Oiseau de nuit",
+		intro:			"intro_moonlighter",
+		description:	"Considère le groupe comme un emploi secondaire (l'entraînement est 10x plus rapide, mais coûte 5x plus de stamina)"
+	}
+]

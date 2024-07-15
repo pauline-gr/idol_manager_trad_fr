@@ -1,0 +1,553 @@
+[
+  {
+    "ID": "dating_scandal",
+    "Image": "dating_scandal.png",
+    "Formula": "[how_spotted] [activity] [gender][profession][fling].\n\n[how_photos_delivered][fact_about_photo][fact_about_fling][fact_about_relationship][what_girl_admits]What will you do?",
+    "Weight": 100,
+    "Random": true,
+
+    "Actors": [
+      {
+        "Tag": "actor_0"
+      }, {
+        "Tag": "fling",
+        "Type": "male_or_female",
+        "Special_Params": "love_interest",
+        "Actions": [
+          {
+            "target": "variable",
+            "parameter": "set_with_chance",
+            "formula": "unidentified|15"
+          }
+        ]
+      }
+    ],
+
+    "Parts": [
+      {
+        "ID": "how_spotted",
+        "Values": [
+          {"Text": "Des photos de [actor_0:full] ont fuité"},
+          {"Text": "[actor_0:full] a été repérée"},
+          {"Text": "[actor_0:full] a été vue"}
+        ],
+        "Actions": [
+          {"target":"variable","parameter":"set","formula":"Can_Deny_Identity 0"},
+          {"target":"variable","parameter":"set","formula":"Can_Deny_Romance 0"},
+          {"target":"variable","parameter":"set","formula":"Damage 50"}
+        ]
+      },{
+        "ID":"meta",
+        "Requirements": [
+          {"target":"actor_1","parameter":"gender","formula":"female"}
+        ],
+        "Actions": [
+          {"target":"variable","parameter":"add","formula":"Can_Deny_Romance 50"}
+        ]
+      },{
+        "ID":"meta",
+        "Requirements": [
+          {"target":"variable","parameter":"is","formula":"unidentified"}
+        ],
+        "Actions": [
+          {"target":"actor_1","parameter":"set_name","formula":"her partner"}
+        ]
+      },{
+        "ID": "activity",
+        "Values": [
+          {
+            "Text": "entrant dans une voiture avec",
+            "Actions": [
+              {"target":"variable","parameter":"add", "formula": "Can_Deny_Romance 40"}
+            ],
+            "Requirements": [
+              {"target": "actor_0", "parameter": "is_aoc", "formula":"true"}
+            ]
+          },
+          {
+            "Text": "faisant de la moto avec",
+            "Actions": [
+              {"target":"variable","parameter":"add", "formula": "Can_Deny_Romance 40"}
+            ],
+            "Requirements": [
+              {"target": "actor_0", "parameter": "is_aoc", "formula":"true"}
+            ]
+          },
+          {
+            "Text": "en train de dîner avec",
+            "Actions": [
+              {"target":"variable","parameter":"add", "formula": "Can_Deny_Romance 40"}
+            ]
+          },
+          {
+            "Text": "visitant un musée avec",
+            "Actions": [
+              {"target":"variable","parameter":"add", "formula": "Can_Deny_Romance 40"}
+            ]
+          },
+          {"Text": "se tenant la main en public avec"},
+          {"Text": "se promenant dans un parc avec"},
+          {"Text": "faisant du shopping avec"},
+          {"Text": "dans un parc en train de s'embrasser avec"},
+          {"Text": "visitant un parc d'attractions avec"}
+        ]
+      },{
+        "ID": "gender",
+        "Requirements": [{"target": "variable", "parameter": "isnt", "formula": "unidentified"}],
+        "Values": [
+          {
+            "Text":"homme ",
+            "Requirements": [{"target": "actor_1", "parameter": "gender", "formula": "male"}]
+          },{
+            "Text":"femme ",
+            "Requirements": [{"target": "actor_1", "parameter": "gender", "formula": "female"}]
+          }
+        ]
+      },{
+        "ID": "profession",
+        "Requirements": [{"target": "variable", "parameter": "isnt", "formula": "unidentified"}],
+        "Values": [
+          {
+            "Text": "présentateur Christophe Decheval ",
+            "Requirements": [
+              {"target": "actor_0", "parameter": "is_aoc", "formula":"true"}
+            ]
+          },
+          {
+            "Text": "DJ de campagne ",
+            "Requirements": [
+              {"target": "actor_1", "parameter": "gender", "formula": "male"},
+              {"target": "actor_0", "parameter": "is_aoc", "formula":"true"}
+            ]
+          },
+          {
+            "Text": "propriétaire de boîte de nuit ",
+            "Requirements": [
+              {"target": "actor_1", "parameter": "gender", "formula": "male"},
+              {"target": "actor_0", "parameter": "is_aoc", "formula":"true"}
+            ]
+          },
+          {
+            "Text": "star du sport ",
+            "Requirements": [
+              {"target": "actor_0", "parameter": "is_aoc", "formula": "true"}
+            ]
+          },{
+            "Text": "acteur Tom Holland ",
+            "Requirements": [{"target": "actor_1", "parameter": "gender", "formula": "male"}]
+          },
+          {"Text": "styliste "},
+          {"Text": "mannequin "},
+          {
+            "Text": "acteur ",
+            "Requirements": [
+              {"target": "actor_1", "parameter": "gender", "formula": "male"},
+              {"target": "actor_0", "parameter": "is_aoc", "formula":"true"}
+            ]
+          },{
+            "Text": "esthéticienne ",
+            "Requirements": [{"target": "actor_1", "parameter": "gender", "formula": "female"}]
+          },{
+            "Text": "styliste ",
+            "Requirements": [{"target": "actor_1", "parameter": "gender", "formula": "female"}]
+          },{
+            "Text": "une membre du groupe rival [rival_group] ",
+            "Requirements": [{"target": "actor_1", "parameter": "gender", "formula": "female"}]
+          }
+        ]
+      },{
+        "ID": "fling",
+        "Values": [
+          {
+            "Text": "homme non identifié",
+            "Requirements": [{"target": "actor_1", "parameter": "gender", "formula": "male"},{"target": "variable", "parameter": "is", "formula": "unidentified"},{"target": "actor_0", "parameter": "is_aoc", "formula":"true"}]
+          },{
+            "Text": "femme non identifiée",
+            "Requirements": [{"target": "actor_1", "parameter": "gender", "formula": "female"},{"target": "variable", "parameter": "is", "formula": "unidentified"},{"target": "actor_0", "parameter": "is_aoc", "formula":"true"}]
+          },{
+            "Text": "garçon non identifié",
+            "Requirements": [{"target": "actor_1", "parameter": "gender", "formula": "male"},{"target": "variable", "parameter": "is", "formula": "unidentified"},{"target": "actor_0", "parameter": "is_aoc", "formula":"false"}]
+          },{
+            "Text": "fille non identifiée",
+            "Requirements": [{"target": "actor_1", "parameter": "gender", "formula": "female"},{"target": "variable", "parameter": "is", "formula": "unidentified"},{"target": "actor_0", "parameter": "is_aoc", "formula":"false"}]
+          },{
+            "Text": "[actor_1]",
+            "Requirements": [{"target": "variable", "parameter": "isnt", "formula": "unidentified"}]
+          }
+        ]
+      },{
+        "ID": "how_photos_delivered",
+        "Chance": 100,
+        "Values": [
+          {
+            "Text": "Un éditeur d'un site people nous a transmis les photos et prévoit de les publier plus tard dans la journée.\n\n",
+            "Actions": [
+              {"target":"variable", "parameter":"set", "formula": "publication 200000"},
+              {"target":"variable", "parameter":"multiply", "formula": "publication fame"}
+            ]
+          },
+          {
+            "Text": "Plusieurs photos nous ont été transmises par email en provenance d'un expéditeur anonyme, menaçant de les publier pour ruiner la réputation de [actor_0] sauf si nous faisons un virement de [template_var|blackmail:money:red]. C'est de l'extorsion !\n\n",
+            "Actions": [
+              {"target":"variable", "parameter":"set", "formula": "blackmail 100000"},
+              {"target":"variable", "parameter":"multiply", "formula": "blackmail fame"}
+            ]
+          },
+          {"Text": "Plusieurs photos ont été postées anonymement sur un forum, et ont commencé à être partagées sur d'autres plateformes.\n\n"},
+          {"Text": "Les photos avaient été postées sur les réseaux sociaux quelques jours plus tôt, mais n'avaient pas reçu beaucoup d'attention.\n\n"}
+        ]
+      },{
+        "ID": "fact_about_photo",
+        "Chance": 30,
+        "Values": [
+          {"Text": "[actor_0] porte un masque médical sur la photo, mais avec les gros plans on voit clairement que c'est elle.\n\n"},
+          {"Text": "La tête de [actor_0]est tournée sur la photo, rendant difficile son identification.\n\n"},
+          {"Text": "La photo est floue, mais les vêtements qu'elle porte sur la photo correspondent à d'autres photos prises d'elle le jour même.\n\n"}
+        ],
+        "Actions": [
+          {"target":"variable","parameter":"add","formula":"Can_Deny_Identity 30"}
+        ]
+      },{
+        "ID": "fact_about_fling",
+        "Chance": 30,
+        "Values": [
+          {
+            "Text":"[actor_1] est marié, ce qui rend la situation particulièrement préjudiciable si elle s'avérait vraie.\n\n",
+            "Actions": [
+              {"target":"variable","parameter":"add","formula":"Damage 150"}
+            ]
+          },
+          {
+            "Text":"[actor_1] est un charrot notoire qui a fréquenté de nombreuses idoles.\n\n",
+            "Actions": [
+              {"target":"variable","parameter":"add","formula":"Damage 50"},
+              {"target":"variable","parameter":"set","formula":"Playboy"},
+              {"target":"variable","parameter":"add","formula":"Can_Deny_Romance -40"},
+              {"target":"variable","parameter":"add","formula":"Can_Deny_Identity -40"}
+            ],
+            "Requirements": [
+              {"target":"actor_1","parameter":"gender","formula":"male"}
+            ]
+          },
+          {
+            "Text":"[actor_1] a 20 ans de plus que [actor_0], ce qui rend cette histoire particulièrement croustillante.\n\n",
+            "Actions": [
+              {"target":"variable","parameter":"add","formula":"Damage 50"}
+            ]
+          },
+          {
+            "Text":"[actor_1] a 30 ans de plus que [actor_0], ce qui rend cette histoire particulièrement croustillante.\n\n",
+            "Actions": [
+              {"target":"variable","parameter":"add","formula":"Damage 100"}
+            ]
+          }
+        ],
+        "Requirements": [
+          {"target": "variable", "parameter": "isnt", "formula": "unidentified"},
+          {"target": "actor_0", "parameter": "is_aoc", "formula":"true"}
+        ]  
+      },{
+        "ID": "fact_about_relationship",
+        "Chance": 15,
+        "Values": [
+          {"Text": "Plusieurs personnes ont stalké les rréseaux sociaux de [actor_1] et ont découvert une photo avec [actor_0] datant du mois dernier.\n\n"}
+        ],
+        "Actions": [
+          {"target":"variable","parameter":"add","formula":"Can_Deny_Identity -40"}
+        ],
+        "Requirements": [{"target": "variable", "parameter": "isnt", "formula": "unidentified"}]
+      },{
+        "ID": "what_girl_admits",
+        "Values": [
+          {
+            "Text": "[actor_0] dément être la fille de la photo.\n\n",
+            "Actions": [
+              {"target":"variable","parameter":"add","formula":"Can_Deny_Identity 20"}
+            ]
+          },{
+            "Text": "[actor_0] a admis être la fille sur la photo, mais affirme que c'était la première fois qu'ils se voyaient.\n\n"
+          },{
+            "Text": "[actor_0] a admis être la fille sur la photo, mais affirme que ce rendez-vous n'avait rien de romantique.\n\n",
+            "Actions": [
+              {"target":"variable","parameter":"add","formula":"Can_Deny_Romance 20"}
+            ]
+          },{
+            "Text": "[actor_0] a admis avoir fréquenté [actor_1] plusieurs fois au cours du mois dernier.\n\n",
+            "Actions": [{"target":"variable","parameter":"set","formula":"Admits_Romance"}],
+            "Requirements": [{"target": "variable", "parameter": "isnt", "formula": "unidentified"}]
+          },{
+            "Text": "[actor_0] affirme que [actor_1:manwoman] sur la photo est un membre de sa famille et qu'elle a plusieurs vieilles photos de famille pour le prouver.\n\n",
+            "Requirements": [
+              {
+                "target":"variable","parameter":"is","formula":"unidentified"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+
+    "Replies": [
+      {
+        "Text":"Ne rien faire",
+        "Actions":[
+          {"target":"meta","parameter":"custom","formula":"dating_do_nothing"}
+        ]
+      },
+      {
+        "Text":"Les payer [template_var|blackmail:money] pour ne pas publier les photos",
+        "Requirements":[
+          {"target":"variable","parameter":"is","formula":"blackmail"}
+        ],
+        "Actions":[
+          {"target":"meta","parameter":"custom","formula":"dating_pay_blackmail"}
+        ]
+      },{
+        "Text":"Les payer [template_var|blackmail:money] pour ne pas publier les photos",
+        "Requirements":[
+          {"target":"variable","parameter":"is","formula":"publication"}
+        ],
+        "Actions":[
+          {"target":"meta","parameter":"custom","formula":"dating_pay_blackmail"}
+        ]
+      },
+      {
+        "Text":"Signaler le chantage à la police",
+        "Requirements":[
+          {"target":"variable","parameter":"is","formula":"blackmail"}
+        ],
+        "Actions":[
+          {"target":"meta","parameter":"custom","formula":"dating_report_to_police"}
+        ]
+      },
+      {
+        "Text":"Affirmer que la rencontre n'avait rien de romantique",
+        "Requirements":[
+          {"target":"variable","parameter":"more_than","formula":"Can_Deny_Romance 0"}
+        ],
+        "Actions":[
+          {"target":"meta","parameter":"custom","formula":"dating_deny_romance"}
+        ]
+      },
+      {
+        "Text":"Affirmer que ça n'était pas elle sur les photos",
+        "Requirements":[
+          {"target":"variable","parameter":"more_than","formula":"Can_Deny_Identity 0"}
+        ],
+        "Actions":[
+          {"target":"meta","parameter":"custom","formula":"dating_deny_identity"}
+        ]
+      },
+      {
+        "Text":"Reconnaître l'incident mais ne pas s'excuser",
+        "Actions":[
+          {"target":"meta","parameter":"custom","formula":"dating_no_apology"}
+        ]
+      },
+      {
+        "Text":"Contraindre à [actor_0] et [actor_1] de rendre leur relation publique",
+        "Requirements":[
+          {"target":"variable","parameter":"is","formula":"Admits_Romance"}
+        ],
+        "Actions":[
+          {"target":"meta","parameter":"custom","formula":"dating_make_public"}
+        ]
+      },
+      {
+        "Text":"Contraindre [actor_0] à s'excuser publiquement et la mettre en retrait",
+        "Actions":[
+          {"target":"meta","parameter":"custom","formula":"dating_apologize"}
+        ]
+      },
+      {
+        "Text":"Assurer que la personne sur les photos est un membre de la famille",
+        "Requirements":[
+          {"target":"variable","parameter":"is","formula":"unidentified"}
+        ],
+        "Actions":[
+          {"target":"meta","parameter":"custom","formula":"dating_family"}
+        ]
+      }
+    ]
+  },
+
+  {
+    "ID": "conflict",
+    "Image": "conflict.png",
+    "Formula": "[intro]\n\n[conflict]\n\n[how_to_deal]",
+    "Weight": 100,
+    "Random": false,
+
+    "Actors": [
+      {
+        "Tag": "actor_0"
+      }, {
+        "Tag": "actor_1"
+      }
+    ],
+
+    "Parts": [
+      {
+        "ID": "intro",
+        "Values": [
+          {"Text": "Une dispute a éclaté entre [actor_0:full] et [actor_1:full]."},
+          {"Text": "[actor_0:full] et [actor_1:full] ont été vus se battre dans le couloir."},
+          {"Text": "[actor_0:full] et [actor_1:full] se sont disputés dans la salle de pause."},
+          {"Text": "Une dispute semble avoir éclaté entre [actor_0:full] et [actor_1:full]."},
+          {"Text": "[actor_0:full] et [actor_1:full] ont échangé des insultes devant l'un des membres du personnel."},
+          {"Text": "[actor_0:full] et [actor_1:full] se sont disputées à haute voix à l'extérieur du studio d'enregistrement."}
+        ]
+      },
+      {
+        "ID": "conflict",
+        "Values": [
+          {
+            "ID":"undeserved_center",
+            "Text": "Il semble que [actor_0] pense que [actor_1] a eu plus de temps sous les projecteurs qu'elle ne le mérite, et n'a pas les compétences en danse pour justifier d'être au centre du dernier single."
+          },
+          {
+            "ID":"too_many_dates",
+            "Text": "[actor_0] est apparemment contrariée que [actor_1] ait passé beaucoup de temps avec vous récemment. Elle en fait mention de manière passive-agressive sans l'évoquer clairement."
+          },
+          {
+            "ID":"business",
+            "Text": "[actor_0] semble mécontente que [actor_1] obtienne des contrats pour des séances photo et des publicités alors qu'elle estime qu'elle l'aurait plus mérité qu'elle."
+          },
+          {
+            "ID":"bump1",
+            "Text": "Apparemment, [actor_0] a bousculé [actor_1] et l'a renversée dans le couloir. [actor_0] prétend que c'était un accident, mais [actor_1] refuse d'accepter ses excuses."
+          },
+          {
+            "ID":"bump2",
+            "Text": "Apparemment, [actor_0] a bousculé [actor_1] et l'a cognée contre un mur. [actor_0] prétend que c'était un accident, mais [actor_1] assure qu'elle a fait exprès."
+          }
+        ]
+      },
+      {
+        "ID": "how_to_deal",
+        "Values": [
+          {"Text": "Comment devrions-nous gérer cette situation ?"},
+          {"Text": "Quelle est la meilleure façon de gérer cela ?"},
+          {"Text": "Que devrions-nous faire pour résoudre ce problème ?"}
+        ]
+      }
+    ],
+
+    "Replies": [
+      {
+        "ID":"undeserved_center",
+        "Text":"Réprimander [actor_0:full] pour avoir déclenché la dispute",
+        "Actions":[
+          {"target":"meta","parameter":"custom","formula":"conflict_center_reprimand_0"}
+        ]
+      },{
+        "ID":"undeserved_center",
+        "Text":"Réprimander [actor_0:full] et [actor_1:full] pour s'être disputées en public",
+        "Actions":[
+          {"target":"meta","parameter":"custom","formula":"conflict_center_reprimand_both"}
+        ]
+      },{
+        "ID":"undeserved_center",
+        "Text":"Rassurer [actor_0:full] en privé et lui dire que vous prenez en compte ses préoccupations",
+        "Actions":[
+          {"target":"meta","parameter":"custom","formula":"conflict_center_reassure"}
+        ]
+      },{
+        "ID":"undeserved_center",
+        "Text":"Organiser une séance de conciliation",
+        "Requirements":[
+          {"target":"meta","parameter":"staff","formula":"doctor"}
+        ],
+        "Actions":[
+          {"target":"meta","parameter":"custom","formula":"conflict_center_counseling"}
+        ]
+      },
+
+      {
+        "ID":"too_many_dates",
+        "Text":"Réprimander [actor_0:full] pour avoir déclenché la dispute",
+        "Actions":[
+          {"target":"meta","parameter":"custom","formula":"conflict_dates_reprimand_0"}
+        ]
+      },{
+        "ID":"too_many_dates",
+        "Text":"Réprimander [actor_0:full] et [actor_1:full] pour s'être disputées en public",
+        "Actions":[
+          {"target":"meta","parameter":"custom","formula":"conflict_dates_reprimand_both"}
+        ]
+      },{
+        "ID":"too_many_dates",
+        "Text":"Rassurer [actor_0:full] en privé et lui dire qu'il n'y a rien à craindre",
+        "Actions":[
+          {"target":"meta","parameter":"custom","formula":"conflict_dates_reassure"}
+        ]
+      },
+
+      {
+        "ID":"business",
+        "Text":"Réprimander [actor_0:full] pour avoir déclenché la dispute",
+        "Actions":[
+          {"target":"meta","parameter":"custom","formula":"conflict_business_reprimand_0"}
+        ]
+      },{
+        "ID":"business",
+        "Text":"Réprimander [actor_0:full] et [actor_1:full] pour s'être disputées en public",
+        "Actions":[
+          {"target":"meta","parameter":"custom","formula":"conflict_business_reprimand_both"}
+        ]
+      },{
+        "ID":"business",
+        "Text":"Rassurer [actor_0:full] en privé et lui dire que vous prenez en compte ses préoccupations",
+        "Actions":[
+          {"target":"meta","parameter":"custom","formula":"conflict_business_reassure"}
+        ]
+      },
+
+      {
+        "ID":"bump1",
+        "Text":"Réprimander [actor_0:full] pour avoir bousculé [actor_1:full]",
+        "Actions":[
+          {"target":"meta","parameter":"custom","formula":"conflict_bump1_reprimand_0"}
+        ]
+      },{
+        "ID":"bump1",
+        "Text":"Réprimander [actor_1:full] et lui dire que refuser les excuses de [actor_0:full] est un comportement puéril",
+        "Actions":[
+          {"target":"meta","parameter":"custom","formula":"conflict_bump1_reprimand_1"}
+        ]
+      },{
+        "ID":"bump1",
+        "Text":"Organiser une séance de conciliation",
+        "Requirements":[
+          {"target":"meta","parameter":"staff","formula":"doctor"}
+        ],
+        "Actions":[
+          {"target":"meta","parameter":"custom","formula":"conflict_bump1_counseling"}
+        ]
+      },
+
+      {
+        "ID":"bump2",
+        "Text":"Réprimander [actor_0:full] pour avoir bousculé [actor_1:full]",
+        "Actions":[
+          {"target":"meta","parameter":"custom","formula":"conflict_bump2_reprimand_0"}
+        ]
+      },{
+        "ID":"bump2",
+        "Text":"Réprimander [actor_1:full] et lui dire que refuser les excuses de [actor_0:full] est un comportement puéril",
+        "Actions":[
+          {"target":"meta","parameter":"custom","formula":"conflict_bump2_reprimand_1"}
+        ]
+      },{
+        "ID":"bump2",
+        "Text":"Organiser une séance de conciliation",
+        "Requirements":[
+          {"target":"meta","parameter":"staff","formula":"doctor"}
+        ],
+        "Actions":[
+          {"target":"meta","parameter":"custom","formula":"conflict_bump2_counseling"}
+        ]
+      }
+    ]
+  }
+]

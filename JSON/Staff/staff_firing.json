@@ -1,0 +1,100 @@
+[
+	{
+		"Categories": ["reply", "intro_1"],
+		"Text": "J'ai eu votre message. Que voulez-vous ?"
+	},{
+		"Categories": ["reply", "intro_1"],
+		"Text": "Que voulez-vous ?"
+	},{
+		"Categories": ["reply", "intro_1"],
+		"Text": "Hey, chef. Que voulez-vous ?"
+	},
+
+	{
+		"Categories": ["reply", "intro_2"],
+		"Text": "Je suppose que c'est important."
+	},{
+		"Categories": ["reply", "intro_2"],
+		"Text": "Vous en faites une tête. J'imagine que c'est grave."
+	},{
+		"Categories": ["reply", "intro_2"],
+		"Text": "Je suppose que quoi que ce soit, je ne vais pas aimer. Votre expression en dit long."
+	},{
+		"Categories": ["reply", "intro_2"],
+		"Text": "Qu'est-ce que c'est que cette tête sérieuse ?"
+	},
+
+	{
+		"Categories": ["reply", "letting_go"],
+		"Text": "C'est comme ça que ça marche dans ce business, non ? On dégage le vieux et on garde le neuf."
+	},{
+		"Categories": ["reply", "letting_go"],
+		"Text": "J'ai toujours espéré que j'étais plus qu'un simple numéro. Visiblement j'avais tort..."
+	},{
+		"Categories": ["reply", "letting_go"],
+		"Text": "Je vois. En d'autres termes, je je ne suis pas indispensable et vous êtes en train de me jeter."
+	},
+
+	{
+		"Categories": ["reply", "resign"],
+		"Text": "Donc en fait, vous êtes en train de me faire creuser ma propre tombe, c'est ça ?"
+	},{
+		"Categories": ["reply", "resign"],
+		"Text": "Je m'excuse si je me trompe, mais une 'démission' c'est lorsque le salarié est à l'initiative de son départ. Et c'est vous qui décidez de mon départ ici."
+	},{
+		"Categories": ["reply", "resign"],
+		"Text": "Donc, je dois participer à ma propre expulsion ?"
+	},
+
+	{
+		"Categories": ["mid1"],
+		"Text": "D'accord, je comprends, vous avez pris votre décision."
+	},{
+		"Categories": ["mid1"],
+		"Text": "Je suppose que je ne peux rien dire qui vous fera changer d'avis de toute façon."
+	},{
+		"Categories": ["mid1"],
+		"Text": "Je n'ai rien à gagner à essayer de vous convaincre, n'est-ce pas ? Vous avez déjà pris votre décision."
+	},
+
+	{
+		"Categories": ["mid2"],
+		"Text": "Pouvons nous essayer de régler les choses avec élégance ?"
+	},{
+		"Categories": ["mid2"],
+		"Text": "Laissez moi au moins le peu de dignité qu'il me reste."
+	},{
+		"Categories": ["mid2"],
+		"Text": "Parlons un peu de ce que vous allez faire pour moi."
+	},
+
+	{
+		"Categories": ["mid3", "budget"],
+		"Text": "J'accepte de partir sans faire de bruit si vous annoncez qu'il s'agit d'un licenciement économique. Je ne veux pas que les gens pensent que j'ai un problème de comportement ou dans mon travail."
+	},{
+		"Categories": ["mid3", "severance"],
+		"Text": "J'accepte de partir sans faire de bruit si vous me payez [severance_amount] en dédomagement. C'est la moindre des choses."
+	},
+
+	{
+		"Categories": ["reply", "accept"],
+		"Text": "Merci. C'est clairement le pire jour de ma vie, mais ça aurait pu être pire."
+	},{
+		"Categories": ["reply", "accept"],
+		"Text": "Merci. Vous savez, ça va me manquer de bosser ici. C'est dommage que ça se termine comme ça."
+	},{
+		"Categories": ["reply", "accept"],
+		"Text": "Merci. Il y a eu des hauts et des bas mais je pense que je me souviendrai principalement du positif quand je repenserai à cette expérience."
+	},
+
+	{
+		"Categories": ["reply", "decline"],
+		"Text": "Vous allez regretter votre décision. Si vous pensez que vous pouvez vous débarasser de moi comme ça, vous vous mettez le doigt dans l'oeil. Mon départ va laisser un vide et les gens vont très vite s'en rendre compte."
+	},{
+		"Categories": ["reply", "decline"],
+		"Text": "Soit, je pense que vous êtes un connard. Ne soyez pas surpris si d'autres personnes ici commencent à penser que vous êtes un connard à leur tour."
+	},{
+		"Categories": ["reply", "decline"],
+		"Text": "Aucune classe hein ? Bien, ne soyez pas surpris quand les autres se rendront compte d'à quel point vous n'avez aucune élégance."
+	}
+]

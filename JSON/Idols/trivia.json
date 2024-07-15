@@ -1,0 +1,219 @@
+[
+	{
+		ID:		0,
+		Type:	"_default",
+		Text: 	"A une araignée de compagnie"
+	},{
+		ID:		1,
+		Type:	"_default",
+		Text: 	"A pris des cours de caligraphie"
+	},{
+		ID:		2,
+		Type:	"_default",
+		Text: 	"Aime regarder du football américain"
+	},{
+		ID:		3,
+		Type:	"_default",
+		Text: 	"Peut résoudre un Rubik's Cube en moins de 30 secondes"
+	},{
+		ID:		4,
+		Type:	"_default",
+		Text: 	"A une collection de papillons"
+	},{
+		ID:		5,
+		Type:	"_default",
+		Text: 	"Veut devenir mixologue"
+	},{
+		ID:		6,
+		Type:	"_default",
+		Text: 	"Peut jongler avec jusqu'à huit objets à la fois"
+	},{
+		ID:		7,
+		Type:	"_default",
+		Text: 	"Sait comment manger des ailes de poulet avec une seule main"
+	},{
+		ID:		8,
+		Type:	"_default",
+		Text: 	"Aime les romans de science-fiction"
+	},{
+		ID:		9,
+		Type:	"_default",
+		Text: 	"Se réveille avec la musique de Guillaume Tell comme réveil"
+	},{
+		ID:		10,
+		Type:	"_default",
+		Text: 	"Aime les films Bollywood"
+	},{
+		ID:		11,
+		Type:	"_default",
+		Text: 	"A un poster de Leif Ericson dans sa chambre"
+	},{
+		ID:		12,
+		Type:	"_default",
+		Text: 	"Possède un télescope très haut de gamme"
+	},{
+		ID:		13,
+		Type:	"_default",
+		Text: 	"Rêve d'être réincarnée en arbre"
+	},{
+		ID:		14,
+		Type:	"_default",
+		Text: 	"Transporte toujours une Game Boy Advance dans son sac"
+	},{
+		ID:		15,
+		Type:	"_default",
+		Text: 	"A marché plus de 1 million de pas dans un jeu mobile géolocalisé en réalité augmentée"
+	},{
+		ID:		16,
+		Type:	"_default",
+		Text: 	"Peut couper un oignon sans pleurer"
+	},{
+		ID:		17,
+		Type:	"_default",
+		Text: 	"Aime écouter des podcasts dans des langues qu'elle ne comprend pas"
+	},{
+		ID:		18,
+		Type:	"_default",
+		Text: 	"Utilise une machine à bruit blanc pour dormir la nuit"
+	},{
+		ID:		19,
+		Type:	"_default",
+		Text: 	"A une vaste collection de figurines de super-héros de comics américains"
+	},{
+		ID:		20,
+		Type:	"family",
+		Text: 	"Sa mère [older_dev]"
+	},{
+		ID:		21,
+		Type:	"family",
+		Text: 	"Son père [older_dev]"
+	},{
+		ID:		22,
+		Type:	"family",
+		Text: 	"A [sibling] qui [older_dev]"
+	},{
+		ID:		23,
+		Type:	"family",
+		Text: 	"A [sibling] qui [medium_dev]"
+	},{
+		ID:		24,
+		Type:	"sibling",
+		Text: 	"un grand frère"
+	},{
+		ID:		25,
+		Type:	"sibling",
+		Text: 	"une grande sœur"
+	},{
+		ID:		26,
+		Type:	"older_dev",
+		Text: 	"joue de la cornemuse"
+	},{
+		ID:		27,
+		Type:	"older_dev",
+		Text: 	"est en train de publier un web-roman en série isekai"
+	},{
+		ID:		28,
+		Type:	"older_dev",
+		Text: 	"travaille comme artiste de manga shoujo"
+	},{
+		ID:		29,
+		Type:	"older_dev",
+		Text: 	"travaille comme éditeur dans un magazine de manga shounen"
+	},{
+		ID:		30,
+		Type:	"older_dev",
+		Text: 	"détient le record du monde de mangeur de ramen"
+	},{
+		ID:		31,
+		Type:	"older_dev",
+		Text: 	"a plus de 20 chats"
+	},{
+		ID:		32,
+		Type:	"older_dev",
+		Text: 	"a dépensé plus de [yen]1,000,000 dans des gachas"
+	},{
+		ID:		33,
+		Type:	"older_dev",
+		Text: 	"a eu un diplôme d'une université [nationality]"
+	},{
+		ID:		34,
+		Type:	"older_dev",
+		Text: 	"travaille pour une multinationale"
+	},{
+		ID:		35,
+		Type:	"medium_dev",
+		Text: 	"a abandonné ses études au collège après être devenue accro à un MMORPG"
+	},{
+		ID:		36,
+		Type:	"medium_dev",
+		Text: 	"a représenté le Japon aux Jeux d'été de 2016"
+	},{
+		ID:		37,
+		Type:	"medium_dev",
+		Text: 	"Fréquente une université [nation]"
+	},{
+		ID:		38,
+		Type:	"nation",
+		Text: 	"aux États-Unis"
+	},{
+		ID:		39,
+		Type:	"nation",
+		Text: 	"en France"
+	},{
+		ID:		40,
+		Type:	"nation",
+		Text: 	"au Royaume-Uni"
+	},{
+		ID:		41,
+		Type:	"nation",
+		Text: 	"au Canada"
+	},{
+		ID:		42,
+		Type:	"nation",
+		Text: 	"au Brésil"
+	},{
+		ID:		43,
+		Type:	"nation",
+		Text: 	"en Allemagne"
+	},{
+		ID:		44,
+		Type:	"nation",
+		Text: 	"en Espagne"
+	},{
+		ID:		45,
+		Type:	"nation",
+		Text: 	"en Australie"
+	},{
+		ID:		46,
+		Type:	"nationality",
+		Text: 	"américaine"
+	},{
+		ID:		47,
+		Type:	"nationality",
+		Text: 	"française"
+	},{
+		ID:		48,
+		Type:	"nationality",
+		Text: 	"britannique"
+	},{
+		ID:		49,
+		Type:	"nationality",
+		Text: 	"canadienne"
+	},{
+		ID:		50,
+		Type:	"nationality",
+		Text: 	"brésilienne"
+	},{
+		ID:		51,
+		Type:	"nationality",
+		Text: 	"allemande"
+	},{
+		ID:		52,
+		Type:	"nationality",
+		Text: 	"espagnole"
+	},{
+		ID:		53,
+		Type:	"nationality",
+		Text: 	"australienne"
+	}
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "Title": "Failing Camera",
+    "Description": "Our crew is reporting that the footage from one of the suspended cameras is too shaky and sometimes disappears entirely.\n\nThey can take the camera down and try to fix it, but that will cause inconvenience for a part of the crowd and we'll miss some cool shots of this song.",
+    "Safe_Choice": "Take it down",
+    "Risky_Choice": "Keep filming",
+    "Risky": [{
+      "Type": "Failure",
+      "Text": "Oh no! The camera's cables broke and it crashed into the crowd!",
+      "Hype": -30
+    },{
+      "Type": "Success",
+      "Text": "Our technician noticed that one of camera's cables wasn't attached properly and quickly fixed it.",
+      "Hype": 30
+    }],
+    "Safe": [{
+      "Type": "Success",
+      "Text": "",
+      "Hype": -10
+    }]
+  },{
+    "Title": "Broken Heel",
+    "Description": "The costume for the next dance has all of the idols wearing high heel boots, but the heel on one of [girl]'s boots seems to have broken.\n\nShe has an extra pair of flat-soled boots with her, but they don't match with the rest of the group.",
+    "Safe_Choice": "Have her wear the spare flat-soled boots instead",
+    "Risky_Choice": "Repair the heel",
+    "Risky": [{
+      "Type": "Failure",
+      "Text": "Uh oh!  [girl]'s heel came loose, causing her to stumble in the middle of a song!",
+      "Hype": -10
+    },{
+      "Type": "Critical_Failure",
+      "Text": "Oh no! [girl]'s heel came loose, causing her to stumble in the middle of a song and twist her ankle!",
+      "Hype": -30
+    },{
+      "Type": "Success",
+      "Text": "With a bit of fast-setting adhesive, the boot's heel seems to be as good as new.",
+      "Hype": 30
+    }],
+    "Safe": [{
+      "Type": "Success",
+      "Text": "",
+      "Hype": -10
+    }]
+  },{
+    "Title": "Low Battery",
+    "Description": "The battery for [girl]'s headset is running low and we don't have any spare headsets or battery packs. One technician questions whether the remaining battery will be enough to finish the set.\n\nWe have a pre-recorded vocal tracks for each of the girls in case a headset stops working, but fans usually notice lip synced performances and it can lower fan enthusiasm.",
+    "Safe_Choice": "Play a pre-recorded track and have her lip sync",
+    "Risky_Choice": "Try and finish the rest of the concert using the headset with the remaining battery",
+    "Risky": [{
+      "Type": "Failure",
+      "Text": "Uh oh! [girl]'s headset battery ran out in the middle of the song, and we had to switch to a vocal recording halfway through.",
+      "Hype": -20
+    },{
+      "Type": "Success",
+      "Text": "",
+      "Hype": 30
+    }],
+    "Safe": [{
+      "Type": "Success",
+      "Text": "",
+      "Hype": -10
+    }]
+  },{
+    "Title": "Hair Caught",
+    "Description": "The next song is about to start, but [girl]'s hair got caught in a fan blade back stage!  It looks like it will take a few minutes to untangle, which would force us to delay the next song.\n\nOne of the other girls has offered up a pair of scissors to try and cut her free, but [girl] doesn't seem too happy at the prospect of having her hair cut.",
+    "Safe_Choice": "Briefly pause the show to untangle her hair",
+    "Risky_Choice": "Use the scissors and cut her free",
+    "Risky": [{
+      "Type": "Failure",
+      "Text": "Oh no! In order to free [girl], they had to cut off most of her hair!  She looks like she's almost ready to cry as she takes the stage.",
+      "Hype": -30
+    },{
+      "Type": "Success",
+      "Text": "A few small snips later, [girl] is free to take the stage.",
+      "Hype": 30
+    }],
+    "Safe": [{
+      "Type": "Success",
+      "Text": "",
+      "Hype": -10
+    }]
+  },{
+    "Title": "Water Leak",
+    "Description": "It looks like a water spill has caused the stage's right exit to become wet and potentially slippery.\n\nThe routine the idols have practiced ends with them exiting stage right, but we could have them flip the routine and have them exit stage left to avoid the spill.",
+    "Safe_Choice": "Have the idols flip their final and exit stage left instead to avoid the spill",
+    "Risky_Choice": "Quickly dry the stage before the next set",
+    "Risky": [{
+      "Type": "Failure",
+      "Text": "Uh oh! Our crew cleaned up most of the leak, but the stage was still damp and [girl] slipped and fell as she was leaving the stage!",
+      "Hype": -10
+    },{
+      "Type": "Critical_Failure",
+      "Text": "Oh no! Our crew cleaned up most of the leak, but the stage was still damp and [girl] slipped and fell, twisting her ankle!",
+      "Hype": -30
+    },{
+      "Type": "Success",
+      "Text": "Our crew succeeded in drying off the stage, and it looks like the leaking has stopped.",
+      "Hype": 30
+    }],
+    "Safe": [{
+      "Type": "Failure",
+      "Text": "The last-minute change to the dance routine caused several girls to get confused and start moving in the wrong direction at the end of the set. After an awkward exit, luckily no one was hurt.",
+      "Hype": -30
+    },{
+      "Type": "Success",
+      "Text": "",
+      "Hype": -10
+    }]
+  }
+]

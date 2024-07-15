@@ -1,0 +1,402 @@
+[
+  {
+    "ID": "story_fujimoto",
+    "Gender": "M",
+    "FirstName": "",
+    "LastName": "Fujimoto",
+    "Nickname": "Fujimoto",
+    "Sprites": [
+      {
+        "ID": "default",
+        "Filename": "fujimoto.png"
+      },
+      {
+        "ID": "laughing",
+        "Filename": "fujimoto_laughing.png"
+      },
+      {
+        "ID": "sigh",
+        "Filename": "fujimoto_sigh.png"
+      },
+      {
+        "ID": "tux",
+        "Filename": "fujimoto_tux.png"
+      },
+      {
+        "ID": "tux_laughing",
+        "Filename": "fujimoto_tux_laughing.png"
+      },
+      {
+        "ID": "tux_sigh",
+        "Filename": "fujimoto_tux_sigh.png"
+      }
+    ]
+  },
+  {
+    "ID": "story_rival",
+    "Sprites": [
+      {
+        "ID": "default",
+        "Filename": "rival_male.png"
+      },
+      {
+        "ID": "shadow",
+        "Filename": "rival_male_shadow.png"
+      },
+      {
+        "ID": "smug",
+        "Filename": "rival_male_smug.png"
+      },
+      {
+        "ID": "worried",
+        "Filename": "rival_male_worried.png"
+      },
+      {
+        "ID": "angry",
+        "Filename": "rival_male_angry.png"
+      },
+      {
+        "ID": "intense",
+        "Filename": "rival_male_intense.png"
+      },
+      {
+        "ID": "stand_smug",
+        "Filename": "rival_male_stand_smug.png"
+      },
+      {
+        "ID": "stand_worried",
+        "Filename": "rival_male_stand_worried.png"
+      },
+      {
+        "ID": "stand_angry",
+        "Filename": "rival_male_stand_angry.png"
+      },
+      {
+        "ID": "dress",
+        "Filename": "rival_male_dress.png"
+      },
+      {
+        "ID": "dress_intense",
+        "Filename": "rival_male_dress_intense.png"
+      }
+    ]
+  },
+  {
+    "ID": "story_player",
+    "Sprites": [
+      {
+        "ID": "default",
+        "Filename": "player_male.png"
+      },
+      {
+        "ID": "stand_smug",
+        "Filename": "player_male_stand_smug.png"
+      },
+      {
+        "ID": "stand_worried",
+        "Filename": "player_male_stand_worried.png"
+      },
+      {
+        "ID": "stand_shocked",
+        "Filename": "player_male_stand_shocked.png"
+      }
+    ]
+  },
+  {
+    "ID": "story_showhost",
+    "Gender": "M",
+    "FirstName": "Shintaro",
+    "LastName": "Shimizu",
+    "Sprites": [
+      {
+        "ID": "default",
+        "Filename": "showhost.png"
+      },
+      {
+        "ID": "chill",
+        "Filename": "showhost_chill.png"
+      }
+    ]
+  },
+  {
+    "ID": "award_host_male",
+    "Gender": "M",
+    "FirstName": "Kengo",
+    "LastName": "Azumi",
+    "Sprites": [
+      {
+        "ID": "default",
+        "Filename": "showhost.png"
+      }
+    ]
+  },
+  {
+    "ID": "award_host_female",
+    "Gender": "F",
+    "FirstName": "Yuko",
+    "LastName": "Amami",
+    "Sprites": [
+      {
+        "ID": "default",
+        "Filename": "showhost.png"
+      }
+    ]
+  },
+  {
+    "ID": "award_temp",
+    "Gender": "F",
+    "FirstName": "Yuko",
+    "LastName": "Amami",
+    "Sprites": [
+      {
+        "ID": "default",
+        "Filename": "showhost.png"
+      }
+    ]
+  },
+  {
+    "ID": "award_mic",
+    "Gender": "M",
+    "Nickname": "Boris",
+    "Sprites": [
+      {
+        "ID": "default",
+        "Filename": "award_mic.png"
+      }
+    ]
+  },
+  {
+    "ID": "story_intern",
+    "Gender": "M",
+    "Nickname": "Intern",
+    "Sprites": [
+      {
+        "ID": "default",
+        "Filename": "intern.png"
+      },
+      {
+        "ID": "cocky",
+        "Filename": "intern_cocky.png"
+      },
+      {
+        "ID": "uhmm",
+        "Filename": "intern_uhmm.png"
+      },
+      {
+        "ID": "tehee",
+        "Filename": "intern_tehee.png"
+      }
+    ]
+  },
+  {
+    "ID": "story_pm",
+    "Gender": "M",
+    "Nickname": "Project Manager",
+    "Sprites": [
+      {
+        "ID": "default",
+        "Filename": "showhost.png"
+      }
+    ]
+  },
+  {
+    "ID": "story_male_judge",
+    "Gender": "M",
+    "FirstName": "Yasunori",
+    "LastName": "Tanaka",
+    "Sprites": [
+      {
+        "ID": "default",
+        "Filename": "judge_m.png"
+      },
+      {
+        "ID": "aint it",
+        "Filename": "judge_m_aint_it.png"
+      },
+      {
+        "ID": "it",
+        "Filename": "judge_m_it.png"
+      },
+      {
+        "ID": "ugh",
+        "Filename": "judge_m_ugh.png"
+      }
+    ]
+  },
+  {
+    "ID": "story_fem_judge",
+    "Gender": "F",
+    "FirstName": "Chie",
+    "LastName": "Sawamura",
+    "Sprites": [
+      {
+        "ID": "default",
+        "Filename": "judge_fem.png"
+      },
+      {
+        "ID": "happy",
+        "Filename": "judge_fem_happy.png"
+      },
+      {
+        "ID": "surprised",
+        "Filename": "judge_fem_surprised.png"
+      },
+      {
+        "ID": "umu",
+        "Filename": "judge_fem_umu.png"
+      }
+    ]
+  },
+  {
+    "ID": "story_table",
+    "Gender": "M",
+    "Nickname": "IKEA-kun",
+    "Sprites": [
+      {
+        "ID": "default",
+        "Filename": "table.png"
+      }
+    ]
+  },
+  {
+    "ID": "story_aya",
+    "Gender": "F",
+    "Nickname": "Aya",
+    "Sprites": [
+      {
+        "ID": "default",
+        "Filename": "aya.png"
+      },
+      {
+        "ID": "happy",
+        "Filename": "aya_happy.png"
+      },
+      {
+        "ID": "intence",
+        "Filename": "aya_intence.png"
+      },
+      {
+        "ID": "surprised",
+        "Filename": "aya_surprised.png"
+      },
+      {
+        "ID": "suspicious",
+        "Filename": "aya_suspicious.png"
+      },
+      {
+        "ID": "suspicious_af",
+        "Filename": "aya_suspicious_af.png"
+      },
+      {
+        "ID": "default_mic",
+        "Filename": "aya_mic.png"
+      },
+      {
+        "ID": "happy_mic",
+        "Filename": "aya_happy_mic.png"
+      },
+      {
+        "ID": "intence_mic",
+        "Filename": "aya_intence_mic.png"
+      },
+      {
+        "ID": "surprised_mic",
+        "Filename": "aya_surprised_mic.png"
+      },
+      {
+        "ID": "suspicious_mic",
+        "Filename": "aya_suspicious_mic.png"
+      },
+      {
+        "ID": "suspicious_af_mic",
+        "Filename": "aya_suspicious_af_mic.png"
+      }
+    ]
+  },{
+    "ID": "ss_int",
+    "Gender": "M",
+    "FirstName": "Satoshi",
+    "LastName": "Isobe",
+    "Sprites": [
+      {
+        "ID": "default",
+        "Filename": "award_mic.png"
+      }
+    ]
+  },  {
+    "ID": "story_kato",
+    "Gender": "M",
+    "FirstName": "",
+    "LastName": "Kato",
+    "Nickname": "Kato",
+    "Sprites": [
+      {
+        "ID": "default",
+        "Filename": "kato.png"
+      },{
+        "ID": "smiling",
+        "Filename": "kato_smiling.png"
+      }
+    ]
+  },{
+    "ID": "story_cameraman",
+    "Gender": "M",
+    "FirstName": "",
+    "LastName": "",
+    "Nickname": "Cameraman",
+    "Sprites": [
+      {
+        "ID": "default",
+        "Filename": "cameraman.png"
+      }
+    ]
+  },{
+    "ID": "random_name",
+    "Gender": "M",
+    "FirstName": "",
+    "LastName": "",
+    "Nickname": "",
+    "Sprites": [
+      {
+        "ID": "default",
+        "Filename": "cameraman.png"
+      }
+    ]
+  },{
+    "ID": "story_runner",
+    "Gender": "M",
+    "FirstName": "Taro",
+    "LastName": "Fujie",
+    "Nickname": "",
+    "Sprites": [
+      {
+        "ID": "default",
+        "Filename": "runner.png"
+      }
+    ]
+  },{
+    "ID": "story_swimmer",
+    "Gender": "F",
+    "FirstName": "Reiko",
+    "LastName": "Imai",
+    "Nickname": "",
+    "Sprites": [
+      {
+        "ID": "default",
+        "Filename": "skater.png"
+      }
+    ]
+  },{
+    "ID": "story_skate",
+    "Gender": "M",
+    "FirstName": "Yuto",
+    "LastName": "Yuzuru",
+    "Nickname": "",
+    "Sprites": [
+      {
+        "ID": "default",
+        "Filename": "skater.png"
+      }
+    ]
+  }
+]

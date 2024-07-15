@@ -1,0 +1,118 @@
+[
+	{
+		"Categories": ["date_generic", "greeting"],
+		"Text": "Hey [player:casual], ça fait plaisir de te voir!"
+	},{
+		"Categories": ["date_generic", "greeting"],
+		"Text": "Ah, c'est si bon d'être ici. J'attendais ça avec impatience."
+	},{
+		"Categories": ["date_generic", "greeting"],
+		"Text": "Ça fait un moment que je n'ai pas eu l'occasion de sortir, ça fait du bien de changer d'air."
+	},{
+		"Categories": ["date_generic", "greeting"],
+		"Text": "Quoi de neuf, [player:casual]? Comment ça va en ce moment ?"
+	},{
+		"Categories": ["date_generic", "greeting"],
+		"Text": "Désolée, je suis en retard! J'ai eu un contretemps en chemin."
+	},{
+		"Categories": ["date_generic", "greeting"],
+		"Text": "Ah, te voilà ! J'étais en train de me demander quand tu allais arriver. Je suis arrivée un peu trop en avance."
+	},{
+		"Categories": ["date_generic", "greeting"],
+		"Text": "J'espère que tu es prêt[e:female_mc] pour un après-midi inoubliable !"
+	},{
+		"Categories": ["date_generic", "greeting"],
+		"Text": "Ça fait plaisir de te voir [player:casual]. Je suis contente qu'on ai pu trouver le temps pour faire ça."
+	},{
+		"Categories": ["date_generic", "greeting"],
+		"Text": "Hey, quoi de neuf ?"
+	},{
+		"Categories": ["date_generic", "greeting"],
+		"Text": "Hey [player:casual], ça fait plaisir de te voir!"
+	},
+
+
+	{
+		"Categories": ["date_generic", "small_talk"],
+		"Text": "Désolée si je ne suis pas très énergique aujourd'hui. J'ai vraiment eu beaucoup de travail dernièrement. |Mais c'est sympa de pouvoir se détendre un peu."
+	},{
+		"Categories": ["date_generic", "small_talk"],
+		"Text": "Hey, tu as vu des bons films récemment ?|Récemment j'ai décidé de regarder tous les films qui ont gagné l'Oscar du meilleur film.|J'ai commencé à le faire pour me cultiver un peu, mais en fait, beaucoup d'entre eux sont vraiment bons et sympas à regarder !|Je suppose que c'est un peu normal vu qu'ils ont eu es Oscars..."
+	},{
+		"Categories": ["date_generic", "small_talk"],
+		"Text": "D'ailleurs, tu as déjà eu affaire à des nuisibles ?|Récemment, j'ai découvert qu'il y avait des termites dans mon immeuble. J'ai dû passer une nuit à l'hôtel pendant que mon propriétaire s'occupait du problème."
+	},{
+		"Categories": ["date_generic", "small_talk"],
+		"Text": "Ok, ça sort de nulle part, mais est-ce que je t'ai déjà dit que j'aime beaucoup la couleur chartreuse ?|En fait, je mange beaucoup d'avocats juste parce que j'aime la couleur."
+	},{
+		"Categories": ["date_generic", "small_talk"],
+		"Text": "Au fait, tu suis un peu l'actualité ?|Je ne suis pas très au courant de ce qu'il se passe dans le monde, mais j'ai entendu dire que le gouvernement a récemment adopté une nouvelle loi sur la protection de l'environnement.|C'est une bonne chose, non ?"
+	},{
+		"Categories": ["date_generic", "small_talk"],
+		"Text": "Désolée si je ne suis pas moi-même aujourd'hui.|Tu sais, ces jours où tu manges trop à midi, et ensuite tu passes le reste de la journée à te sentir lourd ?|C'est un peu ce que je ressens en ce moment."
+	},{
+		"Categories": ["date_generic", "small_talk"],
+		"Text": "Hey, tu as vu des bonnes séries dernièrement ?|Récemment j'ai commencé à regarder cette série qui commence vraiment bien.|C'est à propos d'un groupe d'enquêteurs médico-légaux, et à chaque épisode, ils doivent trouver l'identité du coupable derrière un crime récent.|Mais attends, il y a un twist cool : l'un des enquêteurs est en fait un tueur en série !"
+	},{
+		"Categories": ["date_generic", "small_talk"],
+		"Text": "Hey, tu savais qu'un nouveau restaurant a ouvert pas loin du bureau ?|Apparemment, leur truc, c'est la 'cuisine européenne'. Mais au lieu d'avoir un seul thème, ils ont un thème différent chaque soir.|Le vendredi, ils font de la cuisine italienne, et l'endroit est assez bondé.|Malheureusement, j'y suis allée un mardi, jour où ils font de la cuisine anglaise..."
+	},
+
+	{
+		"Categories": ["date_generic", "intro", "arcade"],
+		"Text": "Jouer à des jeux dans un endroit public comme celui-ci est plus amusant que de jouer à la maison, n'est-ce pas ? L'ambiance est tellement différente."
+	},{
+		"Categories": ["date_generic", "intro", "arcade"],
+		"Text": "Venir ici me rappelle tellement de souvenirs."
+	},{
+		"Categories": ["date_generic", "intro", "arcade"],
+		"Text": "Je me souviens être passée devant cet endroit l'autre jour alors qu'ils organisaient un grand tournoi de jeux vidéo.|Apparemment il y a vraiment des grands gamers à ces évènements."
+	},
+
+	{
+		"Categories": ["date_generic", "intro", "aquarium"],
+		"Text": "Hey, prêt[e:female_mc] à voir des requins ?"
+	},{
+		"Categories": ["date_generic", "intro", "aquarium"],
+		"Text": "Tu sais, toute cette eau commence à me donner vraiment soif."
+	},{
+		"Categories": ["date_generic", "intro", "aquarium"],
+		"Text": "Au fait, cet endroit propose un pass annuel qui ne coûte que le double d'un billet normal.|Il suffit de l'utiliser deux fois pour le rentabiliser.|C'est bon à savoir si tu as envie de venir ici souvent."
+	},{
+		"Categories": ["date_generic", "intro", "aquarium", "june_20"],
+		"Text": "Hey, c'est le 20 juin !|C'est l'anniversaire de la sortie de ce célèbre film de requins !|Je me demande si l'aquarium organise des événements spéciaux sur les requins pour l'occasion ?"
+	},
+
+	{
+		"Categories": ["date_generic", "intro", "bookstore"],
+		"Text": "C'est toujours réconfortant de venir dans des endroits comme celui-ci et de voir qu'ils sont toujours en activité.|Les gens pourraient lire des livres électroniques s'ils le voulaient, mais il y a quelque chose d'unique dans le fait de tenir un véritable livre entre ses mains."
+	},{
+		"Categories": ["date_generic", "intro", "bookstore"],
+		"Text": "Les endroits comme celui-ci donnent vraiment de la personnalité à un quartier, n'est-ce pas ?|Ça se ressent tout de suite quand tu arrives."
+	},{
+		"Categories": ["date_generic", "intro", "bookstore"],
+		"Text": "Je me demande si ce magasin a des livres rares qu'ils gardent à l'arrière.|Certains d'entre eux sont des objets de collection rares."
+	},
+
+	{
+		"Categories": ["date_generic", "intro", "department_store"],
+		"Text": "J'aime venir dans de grands magasins comme celui-ci."
+	},{
+		"Categories": ["date_generic", "intro", "department_store"],
+		"Text": "C'est tellement grand ici ! À chaque fois que je viens ici, il y a toujours un moment où je me sens submergée par l'immensité du lieu."
+	},{
+		"Categories": ["date_generic", "intro", "department_store"],
+		"Text": "Au fait, petit conseil : si tu as besoin d'utiliser les toilettes dans un endroit comme celui-ci, les toilettes les plus propres sont toujours celles qui se situent aux étages les plus élevés."
+	},
+
+	{
+		"Categories": ["date_generic", "intro", "park"],
+		"Text": "Il fait un peu venteux aujourd'hui, n'est-ce pas ?|Ça ne me dérange pas. En fait, j'aime bien quand il fait un peu frais. Ça permet de rester plus alerte."
+	},{
+		"Categories": ["date_generic", "intro", "park"],
+		"Text": "C'est une journée agréable. Je suis contente qu'on soit sortis."
+	},{
+		"Categories": ["date_generic", "intro", "park"],
+		"Text": "On a choisi le jour idéal pour une balade !"
+	}
+]

@@ -1,0 +1,1608 @@
+[
+	{
+		"ID": "0_build_office",
+		"Title": "Build your office",
+		"Cards": [
+			{
+				"ID": 0,
+				"Text": "[green]Click on an unused part of the building[/green] to build a room there.",
+				"Requirement": "0_open_new_room_popup",
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": false,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 1,
+				"Text": "To start with, let's [green]create Your Office[/green]. After all, you need a place to work!",
+				"Requirement": "0_build_your_office",
+				"OnStart": null,
+				"OnComplete": "trigger 1_enter_office",
+				"Block_Input": false,
+				"Arrow_ID": null
+			}
+		]
+	},
+
+	{
+		"ID": "1_enter_office",
+		"Title": "Enter your office",
+		"Cards": [
+			{
+				"ID": 0,
+				"Text": "[green]Open the staff tab[/green]",
+				"Requirement": "1_open_staff_tab",
+				"OnStart": null,
+				"OnComplete": null,
+				"Block_Input": false,
+				"Arrow_ID": "1_0_staff_tab"
+			},{
+				"ID": 1,
+				"Text": "It's you! Each staffer is represented by a \"card\" on this menu. You're the first (and so far, the only) staffer at [groupname].",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": true,
+				"Arrow_ID": "1_1_its_you"
+			},{
+				"ID": 2,
+				"Text": "On this menu, you can click on a staffer to change their nickname, or to fire them. Of course, you can't fire yourself, but you can give yourself a nickname if you'd like!",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": true,
+				"Arrow_ID": null
+			},{
+				"ID": 3,
+				"Text": "As the UI indicates, you're currently not assigned to any room. How about we move you over to that newly-created office? [green]Grab your card by clicking on the handle (hand icon), and drag yourself over to your office[/green].",
+				"Requirement": "1_move_your_staffer",
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": false,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 4,
+				"Text": "Nice! Look at you, already hard at work. This is the start of your journey as an idol manager!",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": "trigger 2_time",
+				"Continue_Button": true,
+				"Block_Input": false,
+				"Arrow_ID": null
+			}
+		]
+	},
+
+	{
+		"ID": "2_time",
+		"Title": "Time",
+		"Cards": [
+			{
+				"ID": 0,
+				"Text": "Here, you can see the current date. The green \"progress\" bar underneath the date indicates how close tomorrow is. The days go by so fast, don't they?",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": false,
+				"Arrow_ID": "2_1_time_display"
+			},{
+				"ID": 1,
+				"Text": "If you need time to think or plan your next move, you can pause time by using this button. The \"play\" button will resume time, and the \"fast-forward\" button will cause time to move at an accelerated pace.",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": false,
+				"Arrow_ID": "2_1_time_control"
+			},{
+				"ID": 2,
+				"Text": "Time will only pass when you're on this screen. Any time you're experiencing a story event, time will pause automatically.",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": "trigger 3_Auditions",
+				"Continue_Button": true,
+				"Block_Input": false,
+				"Arrow_ID": null
+			}
+		]
+	},
+
+	{
+		"ID": "3_Auditions",
+		"Title": "Auditions",
+		"Cards": [
+			{
+				"ID": 0,
+				"Text": "You can't have an idol group without idols! It's time to hold some auditions!",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": true,
+				"Arrow_ID": null
+			},{
+				"ID": 1,
+				"Text": "You can choose to hold local, regional, or nationwide auditions.\nMaking a wider talent search with a regional or nationwide audition will increase the chance of getting a highly talented idol, but it will also cost a lot more.\nThere's also a cooldown for holding higher tiers of audition.",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": true,
+				"Arrow_ID": null
+			},{
+				"ID": 2,
+				"Text": "Auditions are planned from your office. [green]Click on your office and select the \"auditions\" option[/green]. Let's hold a local or regional audition for now.",
+				"Requirement": "3_develop_audition",
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": false,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 3,
+				"Text": "The talent scout begins! It will take a few days for the audition to finish.",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 4,
+				"Text": "It looks like the game is currently paused. Our talent scout won't progress if time isn't moving forward! [green]Let's unpause it[/green] so that time can pass.",
+				"Requirement": "3_unpause_game",
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": false,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 5,
+				"Text": "As you can see, your portrait has a progress bar that will fill up as the audition gets closer to finishing. Remember, if you want time to progress faster, you can always press the \"fast-forward\" button. Just make sure not to lose track of time!",
+				"Requirement": "3_prepare_audition",
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": false,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 6,
+				"Text": "It's a brand new day, and the talent scouting is finished! It's time to look at the audition candidates and decide who to hire. [green]Click the \"audition\" icon over your head[/green] to see the candidates.",
+				"Requirement": "3_trigger_audition",
+				"OnStart": null,
+				"OnComplete": "trigger 4_audition_screen",
+				"Continue_Button": false,
+				"Block_Input": false,
+				"Arrow_ID": null
+			}
+		]
+	},
+
+	{
+		"ID": "4_audition_screen",
+		"Title": "Audition screen",
+		"Cards": [
+			{
+				"ID": 0,
+				"Text": "Each audition finds five idols. Who they are is a mystery! Let's [green]click on one of them[/green] to get started.",
+				"Requirement": "4_open_card",
+				"OnStart": "4_block_finish",
+				"OnComplete": null,
+				"Continue_Button": false,
+				"Block_Input": false,
+				"Block_Quit": true,
+				"Arrow_ID": null
+			},{
+				"ID": 1,
+				"Text": "Each idol has four stats that are based on their appearance, and four stats that are based on their talents.",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": true,
+				"Block_Quit": true,
+				"Arrow_ID": null
+			},{
+				"ID": 2,
+				"Text": "Next to each stat, you'll see two numbers. The first number is the current value of that stat. The second number, in brackets, is their [blue]potential[/blue] for that stat. You can think of [blue]potential[/blue] as a \"soft cap\": once an idol reaches their [blue]potential[/blue] in a certain stat, it will be much harder to raise that stat through training.",
+				"Requirement": null,
+				"OnStart": "4_block_finish",
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": true,
+				"Block_Quit": true,
+				"Arrow_ID": null
+			},{
+				"ID": 3,
+				"Text": "Each idol has a unique [blue]trait[/blue]. Some traits are beneficial, while others can be more of a hinderance than a help.",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": true,
+				"Block_Quit": true,
+				"Arrow_ID": "4_3_trait"
+			},{
+				"ID": 4,
+				"Text": "You can click here to hire this girl to be an idol in your group. But hold up — before we hire her, let's take a look at the other candidates. [green]Try clicking on each of the other idols[/green] to see how they stack up.",
+				"Requirement": "4_open_all_cards",
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": false,
+				"Block_Input": false,
+				"Block_Quit": true,
+				"Arrow_ID": "4_4_hire"
+			},{
+				"ID": 5,
+				"Text": "Wow! It looks like you were lucky enough to find a rare idol. That means she has pretty high starting stats, which will probably give her a head start over any of the other idols!",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": true,
+				"Block_Quit": true,
+				"Arrow_ID": null
+			},{
+				"ID": 6,
+				"Text": "The number above each idol's portrait down here represents their \"overall rating.\" It's essentially an average of all of their stats, and it can help when comparing different idols.",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": true,
+				"Block_Quit": true,
+				"Arrow_ID": "4_6_total_stat"
+			},{
+				"ID": 7,
+				"Text": "Now that we've had a chance to look at all of these idols, let's decide who to hire. You can hire as many (or as few) idols as you'd like.",
+				"Requirement": null,
+				"OnStart": "4_unblock_hire",
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": true,
+				"Block_Quit": true,
+				"Arrow_ID": null
+			},{
+				"ID": 8,
+				"Text": "Since you're just starting out and have no idols, let's [green]hire at least three idols[/green] to start out.",
+				"Requirement": "4_hire_3_idols",
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": false,
+				"Block_Input": false,
+				"Block_Quit": true,
+				"Arrow_ID": null
+			},{
+				"ID": 9,
+				"Text": "Nice, you've hired three idols! It looks like there are two left in this batch. You can either hire them as well, or send them packing. [green]Click the \"finish\" button when you're done[/green].",
+				"Requirement": "4_close_popup",
+				"OnStart": "4_unblock_finish",
+				"OnComplete": "4_trigger_activities_after_hire",
+				"Continue_Button": false,
+				"Block_Input": false,
+				"Arrow_ID": null
+			}
+		]
+	},
+
+	{
+		"ID": "5_activities",
+		"Title": "Activities",
+		"Cards": [
+			{
+				"ID": 0,
+				"Text": "Now that your group has idols, it's time to give them something to do! Let's [green]go over to the \"activities\" tab[/green].",
+				"Requirement": "5_open_activities_tab",
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": false,
+				"Block_Input": false,
+				"Arrow_ID": "5_0_activities_tab"
+			},{
+				"ID": 1,
+				"Text": "Every day, your group can perform an activity.",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 2,
+				"Text": "\"[blue]Performance[/blue]\" will spend idols' stamina. It will earn some money.",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 3,
+				"Text": "\"[blue]Promotion[/blue]\" will spend stamina to gain some fans.",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 4,
+				"Text": "\"[blue]Spa treatment[/blue]\" will spend money to allow 3 idols recover some of their physical stamina.",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 5,
+				"Text": "At the bottom of the screen, you can see how many fans, money, and scandal points your group has.",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 6,
+				"Text": "It looks like right now, your group doesn't have much of a following. Let's fix that by [green]doing a \"promotion\" to gain new fans[/green]!",
+				"Requirement": "5_do_promotion",
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": false,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 7,
+				"Text": "Success! You've got some fans. You can hover over your \"[blue]fans[/blue]\" at the bottom of the screen at any time to see the current demographics of your group's fanbase.",
+				"Requirement": "5_wait_for_availability",
+				"OnStart": "5_start_timer",
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 8,
+				"Text": "Now that it's a new day, let's plan a different activity for our group. [green]It's time for a performance[/green]!",
+				"Requirement": "5_do_performance",
+				"OnStart": "5_return_timer",
+				"OnComplete": null,
+				"Continue_Button": false,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 9,
+				"Text": "It looks like that brought in a bit of money. Remember, you can do one activity every day, so choose wisely! Since you're first starting out, it might be a good idea to do some more promotions to increase your fan following.",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 10,
+				"Text": "By the way, the benefit you get from doing a daily activity is based on the level of that daily activity. Hover over each daily activity to see how you can unlock higher levels!",
+				"Requirement": null,
+				"OnStart": "5_open_activities_tab",
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 11,
+				"Text": "Unlocking higher level daily activities is one of the best ways to make faster progress as an idol group. If you're ever stuck, consider checking your daily activities and seeing what the requirements are to level up!",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 12,
+				"Text": "Whenever your idols work, they spend stamina. You can [green]check their stamina on the idol menu[/green].",
+				"Requirement": "5_open_idol_tab",
+				"OnStart": null,
+				"OnComplete": "trigger 6_idol_menu",
+				"Continue_Button": false,
+				"Block_Input": false,
+				"Arrow_ID": "5_12_idol_tab"
+			}
+		]
+	},
+
+	{
+		"ID": "6_idol_menu",
+		"Title": "Idol menu",
+		"Cards": [
+			{
+				"ID": 0,
+				"Text": "Here, you can see an idol's physical and mental stamina. Ordinarily, idols spend physical stamina when working, but if you force them to work when they're completely exhausted, it will drain their mental stamina instead.",
+				"Requirement": null,
+				"OnStart": "6_open_idol_tab",
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": false,
+				"Arrow_ID": "6_0_stamina"
+			},{
+				"ID": 1,
+				"Text": "Idols with low physical stamina are at a greater risk of becoming [red]injured[/red], and idols with low mental stamina can become [red]depressed[/red]. Be a good boss and try not to work your idols too hard!",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 2,
+				"Text": "Both mental and physical stamina will recover over time, but mental stamina will recover much more slowly.",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 3,
+				"Text": "Here, you can view your idols stats. By default, it will display their looks and talents stats. [green]Click on the arrow next to their stats[/green] to view their relationship stats.",
+				"Requirement": "6_show_relationships",
+				"OnStart": "6_open_idol_tab",
+				"OnComplete": null,
+				"Continue_Button": false,
+				"Block_Input": false,
+				"Arrow_ID": "6_3_stats"
+			},{
+				"ID": 4,
+				"Text": "These stats indicate your relationship with each idol. They indicate your [blue]friendship[/blue], [blue]influence[/blue], and [blue]romance[/blue] level.",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 5,
+				"Text": "[blue]Friendship[/blue] is a measure of how much an idol likes you. Increase it by socializing with them and generally being pleasant whenever you interact with them.",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 6,
+				"Text": "[blue]Influence[/blue] is a measure of how indebted an idol feels to you. Increase it by doing favors for her.",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 7,
+				"Text": "[blue]Romance[/blue] is a measure of, well, you know. You might be able to increase it by flirting...but not everyone will respond well to those kinds of advances.",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 8,
+				"Text": "You can click on an idol to change her [blue]nickname[/blue], or put her on [blue]hiatus[/blue]. Later, when you create [blue]multiple idol groups[/blue], you can also click on them to assign them to different idol groups.",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 9,
+				"Text": "[green]Click on the \"profile\" icon[/green] to bring up an idol's profile screen.",
+				"Requirement": "6_open_profile",
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": false,
+				"Block_Input": false,
+				"Arrow_ID": "6_9_profile"
+			},{
+				"ID": 10,
+				"Text": "Here, you can view more detailed information about her stats",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": true,
+				"Arrow_ID": null
+			},{
+				"ID": 11,
+				"Text": "The \"[blue]fans[/blue]\" tab will tell you about the demographic of her fanbase",
+				"Requirement": null,
+				"OnStart": "6_open_tab_fans",
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": true,
+				"Arrow_ID": null
+			},{
+				"ID": 12,
+				"Text": "The \"[blue]jobs[/blue]\" tab will display any contracts an idol gets.",
+				"Requirement": null,
+				"OnStart": "6_open_tab_jobs",
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": true,
+				"Arrow_ID": null
+			},{
+				"ID": 13,
+				"Text": "The \"[blue]bonds[/blue]\" tab will display an idol's relationships with other idols in the group. You can click here to see who she's friends with, and to see which group members she might not be getting along with.",
+				"Requirement": null,
+				"OnStart": "6_open_tab_bonds",
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": true,
+				"Arrow_ID": null
+			},{
+				"ID": 14,
+				"Text": "It looks like we don't know very much about her current relationships with other members of the group. Let's [blue]socialize[/blue] and get to know her better!",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": "trigger 7_socializing",
+				"Continue_Button": true,
+				"Block_Input": true,
+				"Arrow_ID": null
+			}
+		]
+	},
+
+	{
+		"ID": "7_socializing",
+		"Title": "Socializing",
+		"Cards": [
+			{
+				"ID": 0,
+				"Text": "From the idol menu, [green]choose an idol and drag her card into your office[/green].",
+				"Requirement": "7_drag_idol_into_office",
+				"OnStart": "6_close_popup",
+				"OnComplete": null,
+				"Continue_Button": false,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 1,
+				"Text": "It takes some time to prepare social event, so let time progress. (Remember that you can always fast-forward if you want time to move faster)",
+				"Requirement": "7_date_ready",
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": false,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 2,
+				"Text": "Looks like you're ready to socialize with the idol you selected. [green]Let's go get coffee[/green]!",
+				"Requirement": "7_go_on_date",
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": false,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 3,
+				"Text": "\"[blue]Casual conversation[/blue]\" is a good way to get to know your idols, and key to building [blue]friendship[/blue].",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": true,
+				"Arrow_ID": "7_3_conversation"
+			},{
+				"ID": 4,
+				"Text": "Try [blue]flirting[/blue] at your own risk. Not everyone is receptive to a romantic overture!",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": true,
+				"Arrow_ID": "7_4_flirt"
+			},{
+				"ID": 5,
+				"Text": "You can ask an idol about her [blue]wishes[/blue] to find out what her goals are. Helping her fulfill her goals will increase your [blue]influence[/blue] with her.",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": true,
+				"Arrow_ID": "7_5_wish"
+			},{
+				"ID": 6,
+				"Text": "You can ask an idol to share [blue]gossip[/blue] about other group members, or ask her to [blue]mentor[/blue] a younger member of the group. Note that most group members won't share gossip if they're not on [blue]friendly[/blue] terms with you!",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": true,
+				"Arrow_ID": "7_6_gossip"
+			},{
+				"ID": 7,
+				"Text": "If you have [blue]influence[/blue] with an idol, you can spend that influence to get her to do certain things. (If your idol is [red]bullying[/red] another group member, you might need to resort to this option to get her to stop!)",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": true,
+				"Arrow_ID": "7_7_influence"
+			},{
+				"ID": 8,
+				"Text": "Every idol [blue]graduates[/blue] and leaves the group eventually. You can ask her when she's planning to graduate, or accelerate her graduation.",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": true,
+				"Arrow_ID": "7_8_graduation"
+			},{
+				"ID": 9,
+				"Text": "It's best to begin every working relationship by getting to know the other person. Let's [green]engage in some casual conversation[/green] with this idol.",
+				"Requirement": "7_do_conversation",
+				"OnStart": "7_block_buttons",
+				"OnComplete": "7_trigger_manager_after_conversation",
+				"Continue_Button": false,
+				"Block_Input": false,
+				"Arrow_ID": "7_3_conversation"
+			}
+		]
+	},
+
+	{
+		"ID": "8_hire_a_manager",
+		"Title": "Hire a manager",
+		"Cards": [
+			{
+				"ID": 0,
+				"Text": "You can't run everything yourself! Idols need to be [blue]coached[/blue], and you need staffers to help with [blue]sales[/blue] and [blue]production[/blue] tasks. Let's go and hire some!",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 1,
+				"Text": "[green]Click over to the staff tab[/green].",
+				"Requirement": "8_open_staff_tab",
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": false,
+				"Block_Input": false,
+				"Arrow_ID": "1_0_staff_tab"
+			},{
+				"ID": 2,
+				"Text": "[green]Click the green \"hire\" button[/green].",
+				"Requirement": "8_click_hire",
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": false,
+				"Block_Input": false,
+				"Arrow_ID": "8_2_hire_button"
+			},{
+				"ID": 3,
+				"Text": "Here, you can hire a variety of different staffers. This screen will also show you what type of room the staffer works in. For example, dance coaches and choreographers work in the dance room.",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": true,
+				"Arrow_ID": null
+			},{
+				"ID": 4,
+				"Text": "Each staffer will have one of two specializations for their staffer type. (They can still perform the task they're not a specialist at.)",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": true,
+				"Arrow_ID": null
+			},{
+				"ID": 5,
+				"Text": "You can choose from [blue]novice[/blue], [blue]professional[/blue], and [blue]expert[/blue] level staffers. More experienced staffers start with higher stats, but also cost more money to employ. As a starting group with a limited budget, it’s best to keep our costs low, so let’s hire a [blue]novice[/blue] staffer for now.",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": true,
+				"Arrow_ID": "8_5_novice"
+			},{
+				"ID": 6,
+				"Text": "For now, let's start by hiring a [blue]manager[/blue] to help us with some business deals. [green]Select either a \"sales manager\" or \"production manager\"[/green]",
+				"Requirement": "8_hire_manager",
+				"OnStart": "8_block_staff",
+				"OnComplete": null,
+				"Continue_Button": false,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 7,
+				"Text": "Now, our new staffer needs a place to work. Let's go back to the main agency view and build an office for her.",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": "6_close_popup",
+				"Continue_Button": true,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 8,
+				"Text": "[green]Click on an unused space and select \"office\"[/green].",
+				"Requirement": "8_build_office",
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": false,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 9,
+				"Text": "[green]Grab the staffer's card and drag her into the office[/green].",
+				"Requirement": "8_drag_staff_into_office",
+				"OnStart": "8_open_staff_tab",
+				"OnComplete": null,
+				"Continue_Button": false,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 10,
+				"Text": "If staffers aren't assigned to a particular task, they will automatically generate [blue]research points[/blue].",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": "trigger 9_research",
+				"Continue_Button": true,
+				"Block_Input": false,
+				"Arrow_ID": null
+			}
+		]
+	},
+
+	{
+		"ID": "9_research",
+		"Title": "Research",
+		"Cards": [
+			{
+				"ID": 0,
+				"Text": "Now that you've hired a staff, they'll generate research points whenever they're not working on an assigned task.",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 1,
+				"Text": "It looks like you already have some research points. [green]Let's go spend them[/green]!",
+				"Requirement": "9_open_research_tab",
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": false,
+				"Block_Input": false,
+				"Arrow_ID": "9_1_research_tab"
+			},{
+				"ID": 2,
+				"Text": "Here, you can hover over each type of research point to see how many research points your staffers are passively generating each day. You can also buy research points by clicking on the green \"buy\" icon.",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 3,
+				"Text": "Let's [green]spend some of your manager research points[/green].",
+				"Requirement": "9_open_manager_points",
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": false,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 4,
+				"Text": "You can spend manager research points to unlock different [blue]marketing[/blue] options, or unlock different types of [blue]business contracts[/blue].",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 5,
+				"Text": "It looks like you don't have enough research points to unlock anything. You can [green]generate more research points passively[/green], or [green]buy them from the previous menu[/green].",
+				"Requirement": "9_earn_enough_manager_points",
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": false,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 6,
+				"Text": "Let's [green]unlock the \"photoshoot\" business contract[/green]. Click and hold to spend research points on this.",
+				"Requirement": "9_unlock_photoshoot",
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": false,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 7,
+				"Text": "Once you've unlocked an item with research points, you can spend more research points to level it up in the future.",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 8,
+				"Text": "Note that certain items have separate requirements to unlock. For example, unlocking the [blue]variety show[/blue] business contract requires that your group have a certain number of fans and fame.",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 9,
+				"Text": "Let's [green]go back to the previous menu[/green]",
+				"Requirement": "9_go_back_to_main_tab",
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": false,
+				"Block_Input": false,
+				"Arrow_ID": "9_9_go_back"
+			},{
+				"ID": 10,
+				"Text": "Different staffer types can be used to research different items.\nFor example, you'll use music research points to unlock different musical genres, and use dance research points to unlock different styles of choreography.",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": "trigger 10_business_deals",
+				"Continue_Button": true,
+				"Block_Input": false,
+				"Arrow_ID": null
+			}
+		]
+	},
+
+	{
+		"ID": "10_business_deals",
+		"Title": "Business deals",
+		"Cards": [
+			{
+				"ID": 0,
+				"Text": "You have a manager working for you. Let's have her make some [blue]business proposals[/blue].",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 1,
+				"Text": "[green]Click on the staffer's office and select \"business proposal\"[/green].",
+				"Requirement": "10_start_business_proposal",
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": false,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 2,
+				"Text": "It will take some time for her to finish. Remember that you can always fast-forward to make time progress faster.",
+				"Requirement": "10_business_proposal_ready",
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": false,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 3,
+				"Text": "It looks like she's finished creating a business proposal! Let's [green]click the yen icon[/green] and see.",
+				"Requirement": "10_click_biz_prop",
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": false,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 4,
+				"Text": "Each client will be looking for an idol who is good in a particular stat.",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": true,
+				"Arrow_ID": null
+			},{
+				"ID": 5,
+				"Text": "You get to choose which idol participates. You have three options. How good the rewards are depend on how good the idol is in the desired stat that the client is looking for.",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": true,
+				"Arrow_ID": null
+			},{
+				"ID": 6,
+				"Text": "Your staffer can try to negotiate a better rate. The number of times you can negotiate is based on the staffer's \"[blue]deals[/blue]\" stat.",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": true,
+				"Arrow_ID": null
+			},{
+				"ID": 7,
+				"Text": "Re-negotiating the deal can result in a better or worse result. The results are random, with the odds of success determined by the staffer's \"[blue]deals[/blue]\" stat.",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": true,
+				"Arrow_ID": null
+			},{
+				"ID": 8,
+				"Text": "Once you have an outcome you like, [green]click the \"accept\" button[/green].",
+				"Requirement": "10_accept_proposal",
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": false,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 9,
+				"Text": "You can also have a staffer automatically generate business proposals",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 10,
+				"Text": "[green]Click on the staffer and select the \"auto proposals\" option[/green].",
+				"Requirement": "10_select_auto_proposals",
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": false,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 11,
+				"Text": "When this box is ticked, the staffer will automatically generate business proposals whenever she isn't working on anything else.\n(Note: this means she won't generate research points!)",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 12,
+				"Text": "Different types of business proposals have different benefits. You can click on the staffer's office and choose a [blue]preferred proposal[/blue] type for her to focus on from among the types of business deals you've unlocked. (More proposal types can be unlocked from the research menu)",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": "trigger agency_menu",
+				"Continue_Button": true,
+				"Block_Input": false,
+				"Arrow_ID": null
+			}
+		]
+	},
+
+	{
+		"ID": "agency_menu",
+		"Title": "Agency menu",
+		"Cards": [
+			{
+				"ID": 0,
+				"Text": "You've been using a lot of the [blue]menu tabs[/blue], like the [blue]idols[/blue], [blue]staff[/blue], and [blue]activities[/blue]. Did you know that you can switch between menu tabs using keyboard shortcuts?",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 1,
+				"Text": "You can advance to the next menu tab by pressing [blue][tab][/blue], or cycle up and down through them using the [blue][pageup][/blue] and [blue][pagedown][/blue] keys, or use the [blue][middle mouse button][/blue] to advance through them. Pressing the keys [blue][home][/blue] or [blue][end][/blue] will jump to the top or bottom menu tab.",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 2,
+				"Text": "Let's return to the default agency view. To [green]close the current tab[/green], you can click the \"[blue][x][/blue]\" icon or use the keyboard shortcut [blue][esc][/blue]. You can also close/open the most recent tab by clicking [blue][right mouse button][/blue].",
+				"Requirement": "agency_close_tab",
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 3,
+				"Text": "On the default agency view, you can get an overview of how many research points you currently have.",
+				"Requirement": null,
+				"OnStart": "agency_show_default_widget",
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": false,
+				"Arrow_ID": "details_research_points"
+			},{
+				"ID": 4,
+				"Text": "You can use the buttons here as shortcuts for daily activities like [blue]promotion[/blue], [blue]performance[/blue], and [blue]spa treatment[/blue].",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": false,
+				"Arrow_ID": "details_buttons"
+			},{
+				"ID": 5,
+				"Text": "These daily activities can also be triggered using keyboard shortcuts:\n\n[blue][Z][/blue]: promotion\n[blue][X][/blue]: performance\n[blue][C][/blue]: spa treatment",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": "trigger tasks_and_story",
+				"Continue_Button": true,
+				"Block_Input": false,
+				"Arrow_ID": null
+			}
+		]
+	},
+
+	{
+		"ID": "tasks_and_story",
+		"Title": "Tasks and story",
+		"Cards": [
+			{
+				"ID": 0,
+				"Text": "You can view pending [blue]tasks[/blue] from the default agency view. Let's take a look at your pending tasks.",
+				"Requirement": null,
+				"OnStart": "tasks_show_tasks_widget",
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 1,
+				"Text": "It looks like there's a story event waiting for you! Progressing through the game's [blue]story[/blue] will require you to complete objectives, which are detailed here.",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": false,
+				"Arrow_ID": "details_buttons"
+			},{
+				"ID": 2,
+				"Text": "Meeting the requirements for a story task doesn't automatically trigger the story event: you'll need to come back to this screen and click on the story task when you're ready to advance. (But be warned: the world marches to the beat of its own drum, and sometimes certain story events will happen automatically.)",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 3,
+				"Text": "In addition to story tasks, sometimes characters will give you optional [blue]tasks[/blue] to complete, which will appear on this screen.",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 4,
+				"Text": "If you [blue]socialize[/blue] with an idol and [blue]ask about her wishes[/blue], it will show up as a task here. You might also get a task if you [blue]take out a loan[/blue] from a [blue]certain someone[/blue].",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 5,
+				"Text": "Like with story events, you'll need to come back to this screen and click on the task after meeting the requirements in order to [blue]complete the task[/blue].",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 6,
+				"Text": "If you ever get stuck and aren't sure how to progress the story, you can always come back to this screen to view the requirements for the next story event.",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": "trigger 11_hire_a_dance_staffer",
+				"Continue_Button": true,
+				"Block_Input": false,
+				"Arrow_ID": null
+			}
+		]
+	}
+
+	{
+		"ID": "11_hire_a_dance_staffer",
+		"Title": "Hire a dance staffer",
+		"Cards": [
+			{
+				"ID": 0,
+				"Text": "It's time to hire a dance staffer!",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 1,
+				"Text": "[green]Click over to the \"staff\" tab[/green].",
+				"Requirement": "8_open_staff_tab",
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": false,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 2,
+				"Text": "[green]Click the green \"hire\" button[/green].",
+				"Requirement": "8_click_hire",
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": false,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 3,
+				"Text": "You can choose from [blue]novice[/blue], [blue]professional[/blue], and [blue]expert[/blue] level staffers. More experienced staffers start with higher stats, but also cost more money to employ.",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": true,
+				"Arrow_ID": null
+			},{
+				"ID": 4,
+				"Text": "Let's [green]hire a \"dance coach\"[/green].",
+				"Requirement": "11_hire_dance",
+				"OnStart": "11_block_staff",
+				"OnComplete": "6_close_popup",
+				"Continue_Button": false,
+				"Block_Input": false,
+				"Arrow_ID": "11_4_dance_coach"
+			},{
+				"ID": 5,
+				"Text": "Now, our new staffer needs a place to work. Let's go back to the main agency view and build an office for her. [green]Click on an unused space and select \"dance room\"[/green].",
+				"Requirement": "11_build_dance_room",
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": false,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 6,
+				"Text": "[green]Grab the staffer's card from the \"staff\" tab and drag her into the dance room[/green].",
+				"Requirement": "11_drag_dance_into_room",
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": false,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 7,
+				"Text": "If staffers aren't assigned to a particular task, they will automatically generate [blue]research points[/blue]. Dance research points can be used to unlock new choreography styles.",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": "trigger 12_hire_a_music_staffer",
+				"Continue_Button": true,
+				"Block_Input": false,
+				"Arrow_ID": null
+			}
+		]
+	},
+
+	{
+		"ID": "12_hire_a_music_staffer",
+		"Title": "Hire a music staffer",
+		"Cards": [
+			{
+				"ID": 0,
+				"Text": "It's time to hire a music staffer! Let's [green]hire a \"voice coach\" or \"music producer\"[/green].",
+				"Requirement": "12_hire_music",
+				"OnStart": null,
+				"OnComplete": "6_close_popup",
+				"Continue_Button": false,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 1,
+				"Text": "Now, our new staffer needs a place to work. Let's go back to the main agency view and build an office for him. [green]Click on an unused space and select \"Recording studio\"[/green].",
+				"Requirement": "12_build_recording_studio",
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": false,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 2,
+				"Text": "[green]Grab the staffer's card from the \"staff\" tab and drag him into the recording studio[/green].",
+				"Requirement": "12_drag_music_into_room",
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": false,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 3,
+				"Text": "If staffers aren't assigned to a particular task, they will automatically generate [blue]research points[/blue]. Music research points can be used to unlock new musical genres.",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": "trigger 13_your_first_coaching_session",
+				"Continue_Button": true,
+				"Block_Input": false,
+				"Arrow_ID": null
+			}
+		]
+	},
+
+	{
+		"ID": "13_your_first_coaching_session",
+		"Title": "Your first coaching session",
+		"Cards": [
+			{
+				"ID": 0,
+				"Text": "Dance coaches and vocal coaches can help idols improve their [blue]dance[/blue] and [blue]vocal[/blue] stats",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 1,
+				"Text": "Let's have your dance staffer coach an idol!",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 2,
+				"Text": "[green]Go to the \"idol\" tab[/green].",
+				"Requirement": "5_open_idol_tab",
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": false,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 3,
+				"Text": "[green]Select an idol and drag her card into the dance studio[/green].",
+				"Requirement": "13_drag_idol_into_dance",
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": false,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 4,
+				"Text": "Note that a staffer can only coach an idol if the staffer's coaching stat is higher than the idol's stat. For example, a dance staffer with a coaching stat of 20 won't be able to coach an idol whose [blue]dance[/blue] stat is 20 or higher.",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 5,
+				"Text": "This consumes idol stamina. Be careful not to over-work your idols!",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 6,
+				"Text": "You can click on a staffer's room and select \"[blue]auto-practice[/blue]\" to have them automatically coach idols whenever they're not working on anything else. NOTE: staffers won't generate research points when coaching!",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": "trigger 14_your_first_single",
+				"Continue_Button": true,
+				"Block_Input": false,
+				"Arrow_ID": null
+			}
+		]
+	},
+
+	{
+		"ID": "14_your_first_single",
+		"Title": "Your first single",
+		"Cards": [
+			{
+				"ID": 0,
+				"Text": "To produce a single, you need to have hired a [blue]dance staffer[/blue], [blue]music staffer[/blue], [blue]manager staffer[/blue].",
+				"Requirement": "14_hire_staff_for_single",
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 1,
+				"Text": "You must also go to the [blue]research[/blue] tab and [green]unlock at least one \"lyric\" type, \"marketing\" strategy, \"choreography\" style, and \"genre\" of music[/green].",
+				"Requirement": "14_research_for_single",
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 2,
+				"Text": "It's also a good idea to wait until your group has some [blue]fans[/blue] who will be willing to buy the single. Lacking fans? Try doing some [blue]promotion[/blue] activities under the [blue]activities[/blue] tab!",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 3,
+				"Text": "It's time to create your first single! [green]Open the \"singles\" tab and click \"New Single\"[/green].",
+				"Requirement": "14_new_single_popup",
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": false,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 4,
+				"Text": "Start by choosing a name. You can [green]type a name for your single[/green], or [green]click the randomization icon[/green] to have the game choose a song title for you.",
+				"Requirement": "14_type_name",
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": false,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 5,
+				"Text": "[green]Choose a \"marketing\" plan, \"genre\" of music, \"lyric\" type, and \"choreography\" style[/green]. Which ones you choose will affect the demographic appeal of your single.",
+				"Requirement": "14_select_params",
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": false,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 6,
+				"Text": "You'll need to [green]select a number of CDs to produce[/green]. (This doesn't apply if your \"[blue]marketing[/blue]\" plan was to do a \"[blue]digital only release[/blue]\").",
+				"Requirement": "14_select_number_of_cd",
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 7,
+				"Text": "[green]Click \"Continue\"[/green] after you're done setting up your single.",
+				"Requirement": "14_open_formation",
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": false,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 8,
+				"Text": "It's time to choose which idols will participate in the single. [green]Select an idol and drag her to the formation screen[/green] to place her in the formation.",
+				"Requirement": "14_put_idol_into_formation",
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": false,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 9,
+				"Text": "The group's stats will be based on the stats of the idols participating in the single. Idols closer to the center of the formation will contribute more.",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": true,
+				"Arrow_ID": null
+			},{
+				"ID": 10,
+				"Text": "The [blue]team chemistry[/blue] stat is based on how well the idols in the formation are getting along with each other. Putting a [red]bully[/red] in the formation can have a negative effect on team chemistry.",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": true,
+				"Arrow_ID": null
+			},{
+				"ID": 11,
+				"Text": "Being chosen as a center can also boost an idol's individual career. Is one of your idols [blue]wishing[/blue] to be a center?",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": true,
+				"Arrow_ID": null
+			},{
+				"ID": 12,
+				"Text": "[green]Click \"Continue\"[/green] after you're done setting up your formation.",
+				"Requirement": "4_close_popup",
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": false,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 13,
+				"Text": "Now that all of the hard choices have been made, it's time to [blue]produce[/blue] your single! You'll need to have [blue]your character[/blue] write the lyrics, have a [blue]music staffer[/blue] work on the song, have a [blue]dance staffer[/blue] do the choreography, and a [blue]manager staffer[/blue] create the marketing plan. The success of the single will depend on their stats!",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": true,
+				"Arrow_ID": null
+			},{
+				"ID": 14,
+				"Text": "Start by [green]dragging the single into your office[/green] to work on the lyrics.",
+				"Requirement": "14_drag_single_into_your_office",
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": false,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 15,
+				"Text": "Completing all of the [blue]production[/blue] tasks associated with the single will take some time.",
+				"Requirement": "14_finish_lyrics",
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": false,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 16,
+				"Text": "[green]Drag your single into other offices[/green] to have your staffers work on it.",
+				"Requirement": "14_finish_everything",
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": false,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 17,
+				"Text": "Your single is now ready to release! [green]Click the \"release\" button[/green].",
+				"Requirement": "14_release_single",
+				"OnStart": null,
+				"OnComplete": "finish",
+				"Continue_Button": false,
+				"Block_Input": false,
+				"Arrow_ID": null
+			}
+		]
+	},
+
+	{
+		"ID": "15_early_tips",
+		"Title": "Tips for managing early expenses",
+		"Cards": [
+			{
+				"ID": 0,
+				"Text": "1. Keep an eye on salary levels. (Salary levels can be viewed using the [color=blue]salary</color> icon in the bottom right.) Workers are happier when they're paid generously, but sometimes that's a luxury you can't afford. It's up to you to make the tough decisions and do what's best for the long-term health of the business.",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 1,
+				"Text": "2. When hiring [blue]staff members</color>, sometimes it's best to go with a [blue]novice</color>. Staffer applicants with [blue]professional</color> and [blue]expert</color> level experience are certainly better at doing their job, but getting that kind of experience requires a much more generous salary. While [blue]professionals</color> and [blue]experts</color> are going to be good at their jobs, sometimes their talents are [blue]under-utilized</color> at small businesses that aren't able to fully leverage their talents. Hold off on spending big bucks to hire the veterans when you're ready to put them to work on big projects.",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 2,
+				"Text": "3. Try not to hire too quickly! While every [blue]staffer</color> has different [blue]specializations</color>, sometimes having staffers do double-duty and also do work outside their specialization can let you get away with hiring a smaller workforce. Heck, sometimes you don't even need to delegate at all and can [color]do certain production tasks by yourself</color>. (Granted, that's probably not the best use of the manager's time, but small business have to be scrappy.)",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 3,
+				"Text": "4. Take advantage of low-interest loans. If you find someone who's willing to offer you loans with zero interest, even better! (For some reason, Fujimoto is sometimes in the mood to lend out money interest-free...though it does come with non-monetary stipulations. Still seems like it would probably be worth putting up with.)",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},
+		]
+	},
+
+	{
+		"ID": "16_money_tips",
+		"Title": "More money management tips",
+		"Cards": [
+			{
+				"ID": 0,
+				"Text": "1. Businesses are usually divided into \"cost centers\" and \"profit centers.\" Neglect your profit centers at your own peril. Figure out what parts of your business are generating the most revenue and double down on them! (This has an obvious corollary: if you spend money on a new type of project, and that type of project keeps failing to return a reasonable profit, stop throwing resources into the money pit and try something different.)",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 1,
+				"Text": "2. Recurring expenses are, well, expensive. One-time expenses can be comparatively cheap. If someone tells you that they need to make a one-time purchase in order to do their job better, consider giving it to them: if you can make someone just 1% more efficient by spending an amount of money that's less than 1% of their annual salary, that sounds like a positive return on investment to me!",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 2,
+				"Text": "3. If Fujimoto ever gives you a dinner invite, take him up on it. You're guaranteed to spend the evening feasting like royalty.",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": false,
+				"Arrow_ID": null
+			}
+		]
+	},
+
+	{
+		"ID": "17_workplace_tips",
+		"Title": "Managing the workplace",
+		"Cards": [
+			{
+				"ID": 0,
+				"Text": "1. Dealing with [blue]bullies</color> in the workplace can be tricky. To ferret out bullies, you'll need your workers to trust you enough that they'll be willing to openly talk about what's going on in the workplace. Earning that trust starts with [blue]socializing</color>. You'll be surprised what you can pick up when listening to [blue]gossip</color>.",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 1,
+				"Text": "2. If you can't figure out a way to resolve disputes between coworkers or fail to convince them to reconcile their differences, sometimes it can be best to simply [blue]separate bullies from their victims</color>. If the organization has a [blue]sister branch</color>, transferring the bully (or the victim) to separate them is an option. (To transfer someone to a different group, [blue]click on them and check the group option</color>.) Of course, this only works for bigger organizations of [blue]at least ten</color> who have the option to create sister branches. (I hear that a [blue]\"New group\"</color> button will show up on your active members tab once you reach this point.)",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": false,
+				"Arrow_ID": null
+			},{
+				"ID": 2,
+				"Text": "3. Trying to mix work and romance is generally a [blue]bad idea</color> and can lead to [blue]negative consequences</color>.",
+				"Requirement": null,
+				"OnStart": null,
+				"OnComplete": null,
+				"Continue_Button": true,
+				"Block_Input": false,
+				"Arrow_ID": null
+			}
+		]
+	}
+]

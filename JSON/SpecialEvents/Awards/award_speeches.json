@@ -1,0 +1,135 @@
+[
+	{
+		"Categories": ["solo","intro_1"],
+		"Text": "Thank you so much. It's an incredible honor to be standing here in front of all of you."
+	},{
+		"Categories": ["solo","intro_1"],
+		"Text": "I honestly can't believe I'm standing on this stage tonight. What an honor!"
+	},{
+		"Categories": ["solo","intro_1"],
+		"Text": "It's truly humbling to stand in front of you all tonight."
+	},
+
+	{
+		"Categories": ["solo","intro_2"],
+		"Text": "Of course, I couldn't have done this without the support of our incredible fans."
+	},{
+		"Categories": ["solo","intro_2"],
+		"Text": "I know that I wouldn't be here tonight if it wern't for the many people who have supported me."
+	},{
+		"Categories": ["solo","intro_2"],
+		"Text": "This is all possible thanks to the fans who have never stopped supporting me."
+	},
+
+	{
+		"Categories": ["solo","thanks_idol"],
+		"Text": "I'd like to thank [girl2], who"
+	},{
+		"Categories": ["solo","thanks_player"],
+		"Text": "I'd like to thank our manager [player:polite], who"
+	},{
+		"Categories": ["solo","thanks_staff"],
+		"Text": "I'd like to thank our group's [job], [staffer], who"
+	},{
+		"Categories": ["solo","thanks_fujimoto"],
+		"Text": "I'd like to thank our benefactor Fujimoto-san, who"
+	},{
+		"Categories": ["solo","thanks_family"],
+		"Text": "I'd like to thank my family, especially my father, who"
+	},{
+		"Categories": ["solo","thanks_family"],
+		"Text": "I'd like to thank my family, especially my mother, who"
+	},
+
+	{
+		"Categories": ["solo","thanks_2"],
+		"Text": "has been incredibly supportive over the past year."
+	},{
+		"Categories": ["solo","thanks_2"],
+		"Text": "has never stopped cheering me on."
+	},{
+		"Categories": ["solo","thanks_2"],
+		"Text": "has helped me in more ways than I can count."
+	},{
+		"Categories": ["solo","thanks_2"],
+		"Text": "helped me achieve what you see here tonight."
+	},{
+		"Categories": ["solo","thanks_2"],
+		"Text": "has given me the support I've needed to make it this far."
+	},{
+		"Categories": ["solo","thanks_2"],
+		"Text": "has had my back every step of the way."
+	},
+
+	{
+		"Categories": ["group","intro_1"],
+		"Text": "Thank you all so much! It's an honor to be accepting this award on behalf of [groupname]."
+	},{
+		"Categories": ["group","intro_1"],
+		"Text": "Wow, thank you for this incredible honor. It's humbling to be here, representing [groupname] tonight."
+	},{
+		"Categories": ["group","intro_1"],
+		"Text": "Thank you. Being part of [groupname] has been a wonderful experience, and this just made it even more wonderful."
+	},
+
+	{
+		"Categories": ["group","intro_2"],
+		"Text": "We're so grateful to the many people who helped us get to this point."
+	},{
+		"Categories": ["group","intro_2"],
+		"Text": "I know that the idols tend to get the most recognition, but there are other people who deserve credit, too."
+	},{
+		"Categories": ["group","intro_2"],
+		"Text": "Our fans really are the best. We owe this to a lot of people, but especially our fans."
+	},
+
+	{
+		"Categories": ["group","thanks_player"],
+		"Text": "I'd like to thank our manager [player:polite], who"
+	},{
+		"Categories": ["group","thanks_staff"],
+		"Text": "I'd like to thank our group's [job], [staffer], who"
+	},{
+		"Categories": ["group","thanks_fujimoto"],
+		"Text": "I'd like to thank our benefactor Fujimoto-san, who"
+	},
+
+	{
+		"Categories": ["group","thanks_2"],
+		"Text": "gives us the strength we need to succeed."
+	},{
+		"Categories": ["group","thanks_2"],
+		"Text": "supports us every step of the way."
+	},{
+		"Categories": ["group","thanks_2"],
+		"Text": "has been responsible for making all of this possible."
+	},
+
+	{
+		"Categories": ["no_win","message"],
+		"Text": "As the winner walks up to the stage to receive the award, you hear whispering behind you."
+	},{
+		"Categories": ["no_win","message"],
+		"Text": "As the winner walks up to the stage to receive the award, you hear the sound of muffled whispering next to you."
+	},{
+		"Categories": ["no_win","message"],
+		"Text": "As soon as the winner is announced, you hear a loud sigh next to you."
+	},
+
+	{
+		"Categories": ["no_win","dialog"],
+		"Text": "Well, there's always next year, right?"
+	},{
+		"Categories": ["no_win","dialog"],
+		"Text": "Ah well. I guess I shouldn't have gotten my hopes up."
+	},{
+		"Categories": ["no_win","dialog"],
+		"Text": "What is it they always say? 'It's an honor just to be nominated.' So why do I feel so disappointed?"
+	},{
+		"Categories": ["no_win","dialog"],
+		"Text": "Damn, and I thought this was my big chance."
+	},{
+		"Categories": ["no_win","dialog"],
+		"Text": "Aw, man..."
+	}
+]

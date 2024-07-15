@@ -1,0 +1,279 @@
+[
+	{
+		"Type": "dialogue",
+		"Categories": ["success","critical_success"],
+		"Text": "Hey, tu n'es pas mal non plus."
+	},{
+		"Type": "dialogue",
+		"Categories": ["success","critical_success"],
+		"Text": "Je suis heureuse que tu m'aies enfin remarquée."
+	},{
+		"Type": "dialogue",
+		"Categories": ["success","critical_success"],
+		"Text": "Waw.. Je crois que je vais m'évanouir. Tu me rattraperas si je tombe ?"
+	},{
+		"Type": "dialogue",
+		"Categories": ["success","critical_success"],
+		"Text": "On sous-estime bien trop la flatterie. Je t'en prie, continue."
+	},{
+		"Type": "dialogue",
+		"Categories": ["success","critical_success"],
+		"Text": "Je suis sans voix. J'ai du mal à me concentrer quand tu es là."
+	},{
+		"Type": "dialogue",
+		"Categories": ["success","critical_success"],
+		"Text": "Tu essayes de faire chavirer mon coeur ? Tu vas devoir faire plus d'efforts que ça. Allez, essaye."
+	},{
+		"Type": "dialogue",
+		"Categories": ["success","critical_success"],
+		"Text": "J'attends le moment où je vais me réveiller et réaliser que tout ça n'était qu'un merveilleux rêve."
+	},{
+		"Type": "dialogue",
+		"Categories": ["success","critical_success"],
+		"Text": "Hmm? Je crois que je t'ai mal entendu[e:female_mc]. Répète, mais plus lentement. Et plusieurs fois, je suis un peu dure d'oreille."
+	},{
+		"Type": "dialogue",
+		"Categories": ["success","critical_success"],
+		"Text": "Wow, tu es vraiment doué[e:female_mc] pour les compliments. Tu n'es pas simplement [séduisant:male_mc][élégante:female_mc]"
+	},{
+		"Type": "dialogue",
+		"Categories": ["success","critical_success"],
+		"Text": "Ma foi, je ne suis pas du genre à refuser un compliment."
+	},{
+		"Type": "dialogue",
+		"Categories": ["success","critical_success"],
+		"Text": "Combien de temps as-tu attendu pour dire ça ? J'attendais ça depuis si longtemps."
+	},{
+		"Type": "dialogue",
+		"Categories": ["success","critical_success"],
+		"Text": "Oh, tu as finalement remarqué ma présence."
+	},{
+		"Type": "dialogue",
+		"Categories": ["success","critical_success"],
+		"Text": "Oh, je parie que tu dis ça à toutes les filles qui s'appellent [girl] et qui me ressemblent."
+	},{
+		"Type": "dialogue",
+		"Categories": ["success","critical_success"],
+		"Text": "Tu as refait ma journée. Bon, elle n'était pas très intéressante jusque là, mais quand même."
+	},{
+		"Type": "dialogue",
+		"Categories": ["success","critical_success"],
+		"Text": "Tu en fais un peu trop, non ? Mais c'est pas grave, j'aime trop les compliments !"
+	},{
+		"Type": "dialogue",
+		"Categories": ["success","critical_success"],
+		"Text": "Hey, c'est marrant. La prochaine fois, sautons les banalités et passons directement aux mots doux."
+	},{
+		"Type": "dialogue",
+		"Categories": ["success","critical_success"],
+		"Text": "Tu sais, je ne serais pas contre si tu me parlais comme ça plus souvent."
+	},{
+		"Type": "dialogue",
+		"Categories": ["success","critical_success"],
+		"Text": "Tu ne devrais surtout pas dire ce genre de choses aux autres filles. Je veux dire, tu ne les dis qu'à moi, n'est-ce pas ?"
+	},{
+		"Type": "dialogue",
+		"Categories": ["success","critical_success"],
+		"Text": "Wow, [player], je ne savais pas que tu avais ça en toi."
+	},{
+		"Type": "dialogue",
+		"Categories": ["success","critical_success"],
+		"Text": "Tu ne sais pas depuis combien de temps j'attendais d'entendre ça."
+	},{
+		"Type": "dialogue",
+		"Categories": ["success","critical_success"],
+		"Text": "Hey, c'est vraiment pas professionnel. Ne t'en fais pas, je ne dirai rien à personne, tant que tu continues à me parler comme ça."
+	},{
+		"Type": "dialogue",
+		"Categories": ["success","critical_success"],
+		"Text": "Tu aimes repousser les limites, n'est-ce pas ? Eh bien, je suis contente que tu l'aies fait."
+	},{
+		"Type": "outcome",
+		"Categories": ["success"],
+		"Text": "[girl] semble beaucoup s'amuser"
+	},{
+		"Type": "outcome",
+		"Categories": ["success"],
+		"Text": "[girl] semble passer un bon moment"
+	},{
+		"Type": "outcome",
+		"Categories": ["critical_success"],
+		"Text": "[girl] est rayonnante"
+	},{
+		"Type": "outcome",
+		"Categories": ["critical_success"],
+		"Text": "[girl] est tout sourire"
+	},{
+		"Type": "dialogue",
+		"Categories": ["catastrophic_failure"],
+		"Text": "Wow, je ne sais pas quoi dire. C'est vraiment pas professionnel."
+	},{
+		"Type": "dialogue",
+		"Categories": ["catastrophic_failure"],
+		"Text": "...Je pense que je vais m'en aller."
+	},{
+		"Type": "dialogue",
+		"Categories": ["catastrophic_failure"],
+		"Text": "J'espère que tu n'as pas dit ce que je crois avoir entendu."
+	},{
+		"Type": "dialogue",
+		"Categories": ["catastrophic_failure"],
+		"Text": "Argh. Tu veux vraiment avoir cette discussion ?"
+	},{
+		"Type": "dialogue",
+		"Categories": ["catastrophic_failure"],
+		"Text": "Tu peux arrêter ? Pitié, juste arrête."
+	},{
+		"Type": "dialogue",
+		"Categories": ["catastrophic_failure"],
+		"Text": "Je n'apprécie pas du tout ce genre de remarques."
+	},{
+		"Type": "dialogue",
+		"Categories": ["catastrophic_failure"],
+		"Text": "Pourquoi es-tu comme ça ?"
+	},{
+		"Type": "dialogue",
+		"Categories": ["catastrophic_failure"],
+		"Text": "Question honnête, comment pensais-tu que j'allais réagir ? Parce que je peux t'assurer que ça ne va vraiment pas bien se passer."
+	},{
+		"Type": "outcome",
+		"Categories": ["catastrophic_failure"],
+		"Text": "Ça ne s'est pas bien passé..."
+	},{
+		"Type": "outcome",
+		"Categories": ["failure", "taken"],
+		"Text": "Il semblerait qu'elle soit déjà en couple"
+	},{
+		"Type": "outcome",
+		"Categories": ["failure", "too_fast"],
+		"Text": "Il semblerait qu'elle n'était pas prête pour ça..."
+	},{
+		"Type": "outcome",
+		"Categories": ["failure", "wrong_gender"],
+		"Text": "Apparemment, elle n'est pas intéressée par les [hommes:male_mc][femmes:female_mc]"
+	},{
+		"Type": "outcome",
+		"Categories": ["failure", "uninterested"],
+		"Text": "Il semblerait qu'elle ne soit pas intéressée par une relation amoureuse"
+	},{
+		"Type": "outcome",
+		"Categories": ["failure", "uncomfortable"],
+		"Text": "Une gêne s'installe dans la conversation qui semble durer une éternité"
+	},{
+		"Type": "outcome",
+		"Categories": ["failure", "oblivious"],
+		"Text": "Elle semble complètement indifférente à ta tentative de flirt..."
+	},{
+		"Type": "dialogue",
+		"Categories": ["failure", "uninterested"],
+		"Text": "J'aurais vraiment préféré que tu ne dises pas ce genre de choses..."
+	},{
+		"Type": "dialogue",
+		"Categories": ["failure", "taken"],
+		"Text": "Désolée, je suis déjà en couple."
+	},{
+		"Type": "dialogue",
+		"Categories": ["failure", "taken"],
+		"Text": "Je crois que je devrais te dire, j'ai déjà quelqu'un de spécial dans ma vie."
+	},{
+		"Type": "dialogue",
+		"Categories": ["failure", "taken"],
+		"Text": "Je suis flattée, mais je ne cherche pas à rencontrer quelqu'un en ce moment."
+	},{
+		"Type": "dialogue",
+		"Categories": ["failure", "uninterested"],
+		"Text": "Désolée, je ne pense pas que ça puisse aller plus loin."
+	},{
+		"Type": "dialogue",
+		"Categories": ["failure", "uninterested"],
+		"Text": "Tu n'es...vraiment pas mon genre."
+	},{
+		"Type": "dialogue",
+		"Categories": ["failure", "too_fast"],
+		"Text": "Tu es sûr que tu devrais dire ce genre de chose ? Je veux dire, ça ne me dérange pas, mais..."
+	},{
+		"Type": "dialogue",
+		"Categories": ["failure", "too_fast"],
+		"Text": "Oh!  Hum..."
+	},{
+		"Type": "dialogue",
+		"Categories": ["failure", "too_fast"],
+		"Text": "Est-ce que c'est vraiment approprié pour nous de parler comme ça ? Je veux dire, tu es une personne sympa, mais..."
+	},{
+		"Type": "dialogue",
+		"Categories": ["failure", "wrong_gender"],
+		"Text": "Hey, tu es sympa et tout, mais je ne suis pas vraiment intéressée par les [hommes:male_mc][femmes:female_mc]."
+	},{
+		"Type": "dialogue",
+		"Categories": ["failure", "wrong_gender"],
+		"Text": "Désolée, ça n'a rien de personnel, mais je ne suis pas intéressée par les [hommes:male_mc][femmes:female_mc]."
+	},{
+		"Type": "dialogue",
+		"Categories": ["failure", "uncomfortable"],
+		"Text":"H-Hey, tu as vu qu'il a plu hier? C'était vraiment inattendu!"
+	},{
+		"Type": "dialogue",
+		"Categories": ["failure", "uncomfortable"],
+		"Text": "Ah, heu..."
+	},{
+		"Type": "dialogue",
+		"Categories": ["failure", "uncomfortable"],
+		"Text": "Je suis désolée, je ne vais pas te déranger plus longtemps."
+	},{
+		"Type": "dialogue",
+		"Categories": ["failure", "wrong_gender"],
+		"Text": "J'apprecie le compliment, mais je ne suis pas vraiment intéressée par les [hommes:male_mc][femmes:female_mc]."
+	},{
+		"Type": "dialogue",
+		"Categories": ["failure", "taken"],
+		"Text": "Oh, tu es... intéressé par moi?  Je crois que je devrais te dire, j'ai déjà quelqu'un de spécial dans ma vie."
+	},{
+		"Type": "dialogue",
+		"Categories": ["failure", "oblivious"],
+		"Text": "Cet endroit est vraiment sympa. Tu viens souvent ici?"
+	},{
+		"Type": "dialogue",
+		"Categories": ["failure", "oblivious"],
+		"Text": "Et ouais, je suis vraiment impatiente d'être au prochain concert."
+	},{
+		"Type": "dialogue",
+		"Categories": ["failure", "oblivious"],
+		"Text": "Il n'y a pas grand chose de bien à la télé ces jours-ci, n'est-ce pas?"
+	},{
+		"Type": "dialogue",
+		"Categories": ["failure", "oblivious"],
+		"Text": "Hey, tu as vu ce qui s'est passé à Poitiers l'autre jour?"
+	},{
+		"Type": "action",
+		"Categories": ["failure", "taken", "too_fast", "wrong_gender", "uncomfortable"],
+		"Text": "[girl] se dandine sur sa chaise et évite tout contact visuel pendant les quelques minutes qui suivent"
+	},{
+		"Type": "action",
+		"Categories": ["failure", "taken", "wrong_gender", "uninterested"],
+		"Text": "[girl] rit poliment, mais il est évident qu'elle est mal à l'aise."
+	},{
+		"Type": "action",
+		"Categories": ["failure", "oblivious"],
+		"Text": "[girl] continue la conversation sans sourciller."
+	},{
+		"Type": "action",
+		"Categories": ["failure", "taken", "too_fast", "uncomfortable"],
+		"Text": "[girl] semble surprise par ce que vous venez de dire."
+	},{
+		"Type": "action",
+		"Categories": ["failure", "oblivious"],
+		"Text": "Le visage de [girl] reste impassible."
+	},{
+		"Type": "action",
+		"Categories": ["failure", "uninterested"],
+		"Text": "[girl] grimaçe légèrement."
+	},{
+		"Type": "action",
+		"Categories": ["failure", "uncomfortable"],
+		"Text": "[girl] rit nerveusement, mais son rire nerveux dure tellement longtemps que ça devient gênant"
+	},{
+		"Type": "action",
+		"Categories": ["failure", "uninterested"],
+		"Text": "[girl] rit avec un air de dédain."
+	}
+]

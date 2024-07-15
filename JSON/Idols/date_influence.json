@@ -1,0 +1,334 @@
+[
+	{
+		"Categories": ["bullying_leader","all_stop","dialog"],
+		"Text": "So, you figured it out, huh? I was trying to keep this on the down-low. Alright, we'll lay off [girl1]."
+	},{
+		"Categories": ["bullying_leader","all_stop","dialog"],
+		"Text": "You didn't have to stick your nose into this, you know. But since you're asking, I guess I have no choice to obey."
+	},{
+		"Categories": ["bullying_leader","all_stop","dialog"],
+		"Text": "Alright, alright. I'll tell the other girls to lay off."
+	},{
+		"Categories": ["bullying_leader","all_stop","dialog"],
+		"Text": "Just leave [girl1] alone? Sure, I think I can manage that."
+	},{
+		"Categories": ["bullying_leader","all_stop","dialog"],
+		"Text": "Okay, we'll leave [girl1] alone. Not because she deserves it, but because you're the one asking for it."
+	},
+
+	{
+		"Categories": ["bullying_leader","all_stop","message"],
+		"Text": "It seems like [girl]'s clique will stop bullying [girl1]. For now, at least."
+	},{
+		"Categories": ["bullying_leader","all_stop","message"],
+		"Text": "[girl]'s coordinated harassment campaign against [girl1] should be over now."
+	},{
+		"Categories": ["bullying_leader","all_stop","message"],
+		"Text": "[girl] has agreed to stop bullying [girl1], and her followers should also fall into line."
+	},
+
+	{
+		"Categories": ["bullying_leader","some_stop","dialog"],
+		"Text": "I can tell my friends to stop bullying [girl1], but some of them might not listen to me. This beef has gotten personal."
+	},{
+		"Categories": ["bullying_leader","some_stop","dialog"],
+		"Text": "I'll do my best to stop the other girls from ganging up on [girl1], but that's no guarantee that all of them will stop."
+	},{
+		"Categories": ["bullying_leader","some_stop","dialog"],
+		"Text": "I'll stop giving [girl1] such a hard time, but I can't control the actions of all of my friends. Most of them will probably lay off...but some might not listen."
+	},{
+		"Categories": ["bullying_leader","some_stop","dialog"],
+		"Text": "Hey, I'll do my best to stop people from giving [girl1] such a hard time, but not everyone is willing to stop just because I tell them to."
+	},
+
+	{
+		"Categories": ["bullying_leader","some_stop","message"],
+		"Text": "It seems like most of [girl]'s clique will stop bullying [girl1], but some members might have to be individually persuaded."
+	},{
+		"Categories": ["bullying_leader","some_stop","message"],
+		"Text": "Apparently, some members of [girl]'s clique might continue bullying [girl1], even in spite of [girl]'s wishes. They'll have to be dealt with individually."
+	},
+
+	{
+		"Categories": ["bullying_member","dialog"],
+		"Text": "Listen, ganging up on [girl1] wasn't my idea. I was only doing what [girl2] told me to do."
+	},{
+		"Categories": ["bullying_member","dialog"],
+		"Text": "This was all [girl2]'s idea. I don't want to defy her wishes, you know? But I will try to let up on [girl1]."
+	},{
+		"Categories": ["bullying_member","dialog"],
+		"Text": "A-all right. I'm really sorry about all this. I don't want to pass blame around, but this was really all [girl2]'s idea."
+	},{
+		"Categories": ["bullying_member","dialog"],
+		"Text": "To be honest, I never wanted anything to do with this. It was all [girl2]'s idea."
+	},{
+		"Categories": ["bullying_member","dialog"],
+		"Text": "Listen, I don't have a grudge against [girl1]. But when [girl2] told me that she had a problem with [girl1], it became my problem, too."
+	},{
+		"Categories": ["bullying_member","dialog"],
+		"Text": "Alright, I'll stop. But just so you know, it wasn't just me. [girl2] started it and got a bunch of us to go along with it."
+	},{
+		"Categories": ["bullying_member","dialog"],
+		"Text": "Fine, I'll lay off [girl1] if that's what you want me to do. But I'll be going against [girl2]'s wishes if I obey you."
+	},
+
+	{
+		"Categories": ["bullying_member","some_stop","message"],
+		"Text": "It seems like [girl] has decided to stop bullying [girl1], but other members of [girl2]'s clique might keep pestering her."
+	},{
+		"Categories": ["bullying_member","some_stop","message"],
+		"Text": "[girl] has agreed to stop harassing [girl1], but apparently she was just one of several idols who were swayed by [girl2]'s influence."
+	},{
+		"Categories": ["bullying_member","some_stop","message"],
+		"Text": "Other members of [girl2]'s clique will probably continue bothering [girl1], but at least [girl] has agreed to stop."
+	},
+
+	{
+		"Categories": ["bullying_member","all_stop","message"],
+		"Text": "[girl] agreed to stop bullying [girl1]. Now that enough members of [girl2]'s clique have decided to stop bullying [girl1], the others will probably fall into line as well."
+	},{
+		"Categories": ["bullying_member","all_stop","message"],
+		"Text": "Now that [girl] has agreed to defy [girl2]'s wishes and stop harassing [girl1], it seems like [girl2]'s influence over the group has sunk to the point where she probably can't keep up the bullying campaign."
+	},{
+		"Categories": ["bullying_member","all_stop","message"],
+		"Text": "With the bullies' ranks thinned by one more member, it's unlikely that [girl2] will be able to maintain her harassment campaign. [girl1] should be able to rest a bit easier now."
+	},
+
+
+	{
+		"Categories": ["requesting_blackmail","high_affection","dialog"],
+		"Text": "You know I'd do anything for you."
+	},{
+		"Categories": ["requesting_blackmail","high_affection","dialog"],
+		"Text": "I'm always glad to offer you a helping hand, even when it comes to stuff like this."
+	},{
+		"Categories": ["requesting_blackmail","high_affection","dialog"],
+		"Text": "Hey, sweetie. You want me to dig up dirt on someone?"
+	},
+
+	{
+		"Categories": ["requesting_blackmail","mid_affection","dialog"],
+		"Text": "So, you're that kind of person, huh? Willing to do whatever it takes, as long as it suits your goals?"
+	},{
+		"Categories": ["requesting_blackmail","mid_affection","dialog"],
+		"Text": "What exactly are you hoping I'll uncover? Just looking for something that could damage her reputation?"
+	},{
+		"Categories": ["requesting_blackmail","mid_affection","dialog"],
+		"Text": "Ah, so you're looking for leverage, is that it?"
+	},{
+		"Categories": ["requesting_blackmail","mid_affection","dialog"],
+		"Text": "So you want to play dirty, huh?"
+	},
+
+	{
+		"Categories": ["requesting_blackmail","low_affection","dialog"],
+		"Text": "So, I'm just a tool for you to use as you please. Fine, "
+	},{
+		"Categories": ["requesting_blackmail","low_affection","dialog"],
+		"Text": "I guess you leave me no choice. Fine, "
+	},{
+		"Categories": ["requesting_blackmail","low_affection","dialog"],
+		"Text": "I wouldn't be doing this if you weren't forcing me to. I guess "
+	},{
+		"Categories": ["requesting_blackmail","low_affection","dialog"],
+		"Text": "I'm really not comfortable doing this, but that doesn't really change anything, does it?"
+	},{
+		"Categories": ["requesting_blackmail","low_affection","dialog"],
+		"Text": "You're the boss, so I guess I have to go along with your request."
+	},{
+		"Categories": ["requesting_blackmail","low_affection","dialog"],
+		"Text": "You've already made up your mind, so I guess I have to go along with it."
+	},
+
+	{
+		"Categories": ["requesting_blackmail","middle","dialog"],
+		"Text": "I'll see what I can dig up."
+	},{
+		"Categories": ["requesting_blackmail","middle","dialog"],
+		"Text": "I'll snoop around and see what I find."
+	},{
+		"Categories": ["requesting_blackmail","middle","dialog"],
+		"Text": "I'll report back once I've had time to investigate."
+	},{
+		"Categories": ["requesting_blackmail","middle","dialog"],
+		"Text": "I think I might know where to look for dirt."
+	},
+
+	{
+		"Categories": ["requesting_blackmail","ending_friends","dialog"],
+		"Text": "Still, [girl2] is my friend. It hurts to betray her trust like this."
+	},{
+		"Categories": ["requesting_blackmail","ending_friends","dialog"],
+		"Text": "Just promise you won't do anything to hurt [girl2], okay?"
+	},
+
+	{
+		"Categories": ["requesting_blackmail","ending_enemies","dialog"],
+		"Text": "To be honest, I never really liked [girl2] anyway, so it's no skin off my back."
+	},{
+		"Categories": ["requesting_blackmail","ending_enemies","dialog"],
+		"Text": "I'm not sure what you have planned for [girl2], but whatever it is, she probably has it coming."
+	},
+
+
+	{
+		"Categories": ["delivering_blackmail","intro","dialog"],
+		"Text": "Hey, remember when you asked me to snoop on [girl2]?"
+	},{
+		"Categories": ["delivering_blackmail","intro","dialog"],
+		"Text": "I spent a few days following [girl2], just like you asked."
+	},{
+		"Categories": ["delivering_blackmail","intro","dialog"],
+		"Text": "I did some digging on [girl2]."
+	},{
+		"Categories": ["delivering_blackmail","intro","dialog"],
+		"Text": "I looked for something that might make [girl2] look bad"
+	},
+
+	{
+		"Categories": ["delivering_blackmail","success","dialog"],
+		"Text": "I managed to grab this when she wasn't looking."
+	},{
+		"Categories": ["delivering_blackmail","success","dialog"],
+		"Text": "[girl2] left her phone unlocked, and I managed to get this without her realizing it."
+	},{
+		"Categories": ["delivering_blackmail","success","dialog"],
+		"Text": "Here's what I was able to find. Is this what you had in mind?"
+	},{
+		"Categories": ["delivering_blackmail","success","dialog"],
+		"Text": "I managed to catch this without her noticing."
+	},
+
+	{
+		"Categories": ["delivering_blackmail","failure","dialog"],
+		"Text": "I looked around, but wasn't able to find anything incriminating."
+	},{
+		"Categories": ["delivering_blackmail","failure","dialog"],
+		"Text": "I looked for something that might make [girl2] look bad, but my search came up empty."
+	},{
+		"Categories": ["delivering_blackmail","failure","dialog"],
+		"Text": "I wasn't able to find any dirt."
+	},{
+		"Categories": ["delivering_blackmail","failure","dialog"],
+		"Text": "Sorry, but I wasn't able to find anything."
+	},
+
+	{
+		"Categories": ["delivering_blackmail","minor_success","message"],
+		"Text": "It's a photo of [girl2] smoking."
+	},{
+		"Categories": ["delivering_blackmail","minor_success","message"],
+		"Text": "It's a screenshot of [girl2]'s text conversation with an unknown recipient. The messages aren't too dirty, but they're definitely flirtatious."
+	},{
+		"Categories": ["delivering_blackmail","minor_success","message"],
+		"Text": "It's a photo of [girl2] kissing an unknown person on the cheek. Their face isn't fully visible in the photo."
+	},{
+		"Categories": ["delivering_blackmail","minor_success","message"],
+		"Text": "It appears to be a page from a private diary where [girl2] has written down a list of other girls that she wants to punch. That would probably cause a stir if it got out."
+	},{
+		"Categories": ["delivering_blackmail","minor_success","message"],
+		"Text": "It's a screenshot of a text conversation where [girl2] is discussing [groupname] with a family member. She appears to be badmouthing you."
+	},{
+		"Categories": ["delivering_blackmail","minor_success","message"],
+		"Text": "It's a screenshot of a group chat between [girl2] and several other group members. Most of the chat seems innocent, but there are several times where [girl2] badmouths [random_staffer]."
+	},{
+		"Categories": ["delivering_blackmail","minor_success","message"],
+		"Text": "It's a photo of [girl2]'s backpack. Several doujin artbooks with lewd covers are clearly visible inside."
+	},{
+		"Categories": ["delivering_blackmail","minor_success","message"],
+		"Text": "It's a ticket stub to a concert from several weeks ago. A review of the group's records reveals that [girl2] missed practice the day of the concert, claiming to be sick."
+	},
+
+	{
+		"Categories": ["delivering_blackmail","major_success","message"],
+		"Text": "It's a photo of [girl2] at a party. In the corner of the photo, there's a white powdery substance that appears to be an illegal drug of some kind!"
+	},{
+		"Categories": ["delivering_blackmail","major_success","message","under_drinking_age"],
+		"Text": "It's a photo of [girl2] drinking a beer.  She's definitely too young to be drinking!"
+	},{
+		"Categories": ["delivering_blackmail","major_success","message","over_aoc"],
+		"Text": "It's a photo of [girl2] posing in front of a mirror for a naked selfie.  Who did she take this for?"
+	},{
+		"Categories": ["delivering_blackmail","major_success","message","over_aoc"],
+		"Text": "It's a photo of [girl2] kissing and groping another person. The other person's face isn't visible in the photo, but this would definitely be a scandal if it got out!"
+	},{
+		"Categories": ["delivering_blackmail","major_success","message"],
+		"Text": "It's a screenshot of a text conversation between [girl2] and another person who seems to be offering to buy lewd photos from her. It's not clear whether she went through with it, but in the conversation, she's clearly negotiating over the price!"
+	},{
+		"Categories": ["delivering_blackmail","major_success","message","over_aoc"],
+		"Text": "It's a photo of [girl2] standing in front of a hotel with an older gentleman. This would be a huge scandal if it got out!"
+	},
+
+
+	{
+		"Categories": ["breakup","good_outcome","dialog"],
+		"Text": "Honestly, I was meaning to break things off anyway. This just gives me a nice excuse."
+	},{
+		"Categories": ["breakup","good_outcome","dialog"],
+		"Text": "I want to be mad, but this is probably for the best. And hey, now it's not my fault that I have to end the relationship. So...thanks."
+	},{
+		"Categories": ["breakup","good_outcome","dialog"],
+		"Text": "Thanks for giving me the excuse I needed to break things off. Now I don't have to be the bad guy."
+	},{
+		"Categories": ["breakup","good_outcome","dialog"],
+		"Text": "You want me to dump that loser? Fine by me. If anything, I regret not doing it sooner."
+	},
+
+	{
+		"Categories": ["breakup","good_outcome","message"],
+		"Text": "[girl] seems happy to end her current relationship."
+	},{
+		"Categories": ["breakup","good_outcome","message"],
+		"Text": "[girl] agrees to break things off without any complaint."
+	},
+
+	{
+		"Categories": ["breakup","avg_outcome","dialog"],
+		"Text": "I know it's a problem for the group's reputation if people find out. But this still hurts."
+	},{
+		"Categories": ["breakup","avg_outcome","dialog"],
+		"Text": "...crap. I guess it had to end eventually."
+	},{
+		"Categories": ["breakup","avg_outcome","dialog"],
+		"Text": "Are you sure you couldn't just let this slide? I get why you have to do this, but still..."
+	},{
+		"Categories": ["breakup","avg_outcome","dialog"],
+		"Text": "I knew this day would come eventually. But that doesn't make it sting any less."
+	},
+
+	{
+		"Categories": ["breakup","avg_outcome","message"],
+		"Text": "[girl] reluctantly agrees to break things off."
+	},{
+		"Categories": ["breakup","avg_outcome","message"],
+		"Text": "[girl] hesitates a bit, but eventually agrees to end her current relationship."
+	},{
+		"Categories": ["breakup","avg_outcome","message"],
+		"Text": "[girl] seems disappointed, but has agreed to end the relationship."
+	},
+
+	{
+		"Categories": ["breakup","bad_outcome","dialog"],
+		"Text": "I understand why you're doing this, but I hope you understand what it is that you're taking away from me."
+	},{
+		"Categories": ["breakup","bad_outcome","dialog"],
+		"Text": "It's going to take a long time for me to forgive you for this."
+	},{
+		"Categories": ["breakup","bad_outcome","dialog"],
+		"Text": "Fine, I'll cut things off, but make no mistake: you've got no right to force me to do this"
+	},{
+		"Categories": ["breakup","bad_outcome","dialog"],
+		"Text": "You're a real tyrant, aren't you? Fine, I guess I have no choice."
+	},
+
+	{
+		"Categories": ["breakup","bad_outcome","message"],
+		"Text": "[girl] has agreed to cut things off, but she's definitely not happy about it."
+	},{
+		"Categories": ["breakup","bad_outcome","message"],
+		"Text": "[girl] storms away after agreeing to break things off."
+	},{
+		"Categories": ["breakup","bad_outcome","message"],
+		"Text": "[girl] promises not to put up a fight, but she's definitely going to resent this."
+	},
+]

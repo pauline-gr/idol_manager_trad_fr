@@ -1,0 +1,362 @@
+[
+    {
+        "type": "image",
+        "title": "glitch_pitch_logo"
+    },
+    {
+        "id": 0,
+        "title": "Director, programmer",
+        "text": [
+            "Max Rogozin"
+        ]
+    },
+    {
+        "id": 1,
+        "title": "Story and design by",
+        "text": [
+            "Max Rogozin",
+            "Justin Kuiper"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Written by",
+        "text": [
+            "Justin Kuiper"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Event editor",
+        "text": [
+            "Justin Kuiper"
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Event writers",
+        "text": [
+            "Justin Kuiper",
+            "Jasmine \"Katy133\" Osler",
+            "Ric Cowley",
+            "Rhy",
+            "Jackie M.",
+            "MJ \"mjinxlei\" Lee"
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Character designer, artist",
+        "text": [
+            "Aiwa"
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Pixel artist, animator",
+        "text": [
+            "Catherine M."
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Additional pixel art",
+        "text": [
+            "pixelrogue",
+            "Arkady Kim"
+        ]
+    },
+    {
+        "id": 8,
+        "title": "Backgrounds, additional art",
+        "text": [
+            "Lena Cheredova"
+        ]
+    },
+    {
+        "id": 9,
+        "title": "Cover art",
+        "text": [
+            "Ninamo"
+        ]
+    },
+    {
+        "id": 10,
+        "title": "Music by",
+        "text": [
+            "Kobishi",
+            "Pavel Nokkard"
+        ]
+    },
+    {
+        "id": 11,
+        "title": "Idol Manager logo",
+        "text": [
+            "Elizabeth \"Re.Alice\" Tjahyadi"
+        ]
+    },
+    {
+        "id": 12,
+        "title": "Glitch Pitch logo",
+        "text": [
+            "Radkedesign"
+        ]
+    },
+
+    {
+        "id": 45,
+        "title": "Russian translation",
+        "text": [
+            "Pelmeshker"
+        ]
+    },
+
+    {
+        "id": 46,
+        "title": "Brazilian Portuguese translation",
+        "text": [
+            "Victor \"Bicky\" Brunet"
+        ]
+    },
+    {
+        "id": 13,
+        "title": "Theme Songs",
+        "text": [
+            "仮面女子"
+        ]
+    },
+    {
+        "id": 14,
+        "title": "Dreaming Days",
+        "text": [
+            "Lyrics by Hami",
+            "Composed by Masaki Nagata",
+            "Arranged by Hisao Sasaki"
+        ]
+    },
+    {
+        "id": 15,
+        "title": "Masquerade Nights",
+        "text": [
+            "Lyrics by Hami",
+            "Composed by Masaki Nagata",
+            "Arranged by GAKU"
+        ]
+    },
+    {
+        "id": 16,
+        "title": "",
+        "text": [
+            "Voice Actors"
+        ]
+    },
+    {
+        "id": 17,
+        "title": "Idols",
+        "text": [
+            "Moa Tsukino",
+            "Yuka Kojima",
+            "Yuri Kinoshita"
+        ]
+    },
+    {
+        "id": 18,
+        "title": "Fujimoto, Shimizu",
+        "text": [
+            "Keisuke Tokumori"
+        ]
+    },
+    {
+        "id": 19,
+        "title": "Male Rival, Kato",
+        "text": [
+            "Koji Kawakami"
+        ]
+    },
+    {
+        "id": 20,
+        "title": "Female Rival, Stylist",
+        "text": [
+            "Mayuko Kazama"
+        ]
+    },
+    {
+        "id": 21,
+        "title": "Naya, Sawamura",
+        "text": [
+            "Sachi Asahina"
+        ]
+    },
+    {
+        "id": 22,
+        "title": "Manager, Choreographer",
+        "text": [
+            "Matsuri Mizuguchi"
+        ]
+    },
+    {
+        "id": 23,
+        "title": "Music Producer, Tanaka, Fujieda",
+        "text": [
+            "Wataru Kato"
+        ]
+    },
+    {
+        "id": 24,
+        "title": "Doctor, Amamiya",
+        "text": [
+            "Reiko Muratsubaki"
+        ]
+    },
+    {
+        "id": 25,
+        "title": "Azumi, Intern, Yuzuru",
+        "text": [
+            "Hayato Kashiwazaki"
+        ]
+    },
+    {
+        "id": 26,
+        "title": "Active Gaming Media",
+        "text": [
+            "PLAYISM STAFF"
+        ]
+    },
+    {
+        "id": 27,
+        "title": "Executive Producer",
+        "text": [
+            "Shunji Mizutani"
+        ]
+    },
+    {
+        "id": 28,
+        "title": "Chief Manager",
+        "text": [
+            "Taku Yamanaka"
+        ]
+    },
+    {
+        "id": 29,
+        "title": "International Operation & Marketing",
+        "text": [
+            "Sayuri Murabayashi",
+            "Elaine Wong",
+            "Helene Fessard",
+            "Kevin McVay",
+            "Tsen Wesley"
+        ]
+    },
+    {
+        "id": 30,
+        "title": "Localization",
+        "text": [
+            "James R. Mountain"
+        ]
+    },
+    {
+        "id": 31,
+        "title": "Japanese translation",
+        "text": [
+            "George \"Yuzchastics\" Inagaki"
+        ]
+    },
+    {
+        "id": 32,
+        "title": "Chinese translation",
+        "text": [
+            "Sei Tyou"
+        ]
+    },
+    {
+        "id": 33,
+        "title": "Design",
+        "text": [
+            "Takahiro Nogita",
+            "Asuka Bailey"
+        ]
+    },
+    {
+        "id": 34,
+        "title": "Programming",
+        "text": [
+            "Yoshio Tsujimoto",
+            "Mario Maqueo",
+            "Alex Passera"
+        ]
+    },
+    {
+        "id": 35,
+        "title": "Release Management",
+        "text": [
+            "Shoya Kido"
+        ]
+    },
+    {
+        "id": 36,
+        "title": "Quality Assurance",
+        "text": [
+            "Yasuyuki Ohara",
+            "Hideyuki Nagakura"
+        ]
+    },
+    {
+        "id": 37,
+        "title": "Publishing Support",
+        "text": [
+            "Nana Iba",
+            "Yukako Miyamoto"
+        ]
+    },
+    {
+        "id": 38,
+        "title": "General Manager",
+        "text": [
+            "JJ Shinji Futami"
+        ]
+    },
+    {
+        "id": 39,
+        "title": "President/CEO",
+        "text": [
+            "Ibai Vinas Ameztoy"
+        ]
+    },
+    {
+        "id": 40,
+        "title": "Published by PLAYISM (AGM)",
+    },
+    {
+        "id": 41,
+        "title": "Special thanks",
+        "text": [
+            "Mereck",
+            "Antharos",
+            "Helmara",
+            "Nautawi",
+            "デストロイレコード",
+            "株式会社クリーブラッツ AliceProject",
+            "HSDM株式会社"
+        ]
+    },
+    {
+        "id": 42,
+        "title": "And a very special thanks to our Kickstarter backers"
+    },
+    {
+        "id": 43,
+        "title": "ks_3",
+        "text": [
+            "Arkblade", "Eric Tsai", "IonicAmalgam", "Justin Vermillion", "Marceline Persim", "Ondrej Hybler", "Ryuichi Hitori", "senjoutarou", "Shota Sekino (owandog)", "Sillipenda", "Remi_Scarlet", "Tony Rosales", "イブリース＠ＴＷ"
+        ]
+    },
+    {
+        "id": 44,
+        "title": "ks_5",
+        "text": [
+            "Amer Rahmani", "Anchobi", "Andy Artz", "Anime Mayhem", "attiy", "Ceilyne", "Charlie Thibeault", "Dragoon", "Druzil Zappa", "Duce", "Edwin Clark", "f122apg", "hekkoru", "It's Ya Girl Maria", "John Koepcke", "Jozshua Cuellar", "Keori", "Kevin Nelson", "Kingso", "lavenza", "Marcel Schalhorst", "MataMataMata", "Melvin Biteng", "Michael Chow", "N1ghtw1ng89", "rate-dat", "Rebellious Pawn", "royarcher34", "Ryuji Urashima", "S17B32", "Scott Paul Kenneth Kelly", "Sh0tgun_Jacks0n", "signa", "skyFlyMiles", "Sorrarios Sernar", "StockingMan", "teal", "The Silverman", "Timmothy Clarke", "Tsumik", "伊勢文", "Alyssa", "Andi Laudien", "Andreas TSM", "Arif Er", "BaptisteIRL", "Beat Jost", "Brian Pittman LoGiudice - President Gamers Association of Louisiana", "Brown town", "Christopher Cuevas", "Coreten", "Darien Aliaga (andres1232)", "DarthThePanda", "Daryl Serrano", "David Horton", "Dimitery Kelvin", "Fenichi", "Fournier Mathieu", "fusagiko", "Godaigo", "Greedo Briefs", "Helvegr", "IronixGirl", "Isabel Pita", "Isabela Pimenta", "Jacob Nazon", "Joseph Krumpfer", "Julien Millet", "Kakeru Tak", "Luca marchi", "Mark Volsky \"MidnightChief\"", "Max Jedele", "Mereck", "Michael D.B.-Valada", "Minxy (EMF)", "MrJoshBox", "narumiayatsuji", "oguhi", "Pablo V", "Pluisje", "PurpleKeira", "radixius", "Rémy Nauta", "Robert Simms", "Ryan \"TheCaptain\" Janelle", "ryanpanman", "Ryo Yamamuro", "Sean Siau", "Shino Fujioka", "Simon 'garkham' Landureau", "SkyOfCrimsom", "sofiapyonpyon", "Spirosity", "T.ADACHI", "Taka-San", "Tobias \"Dewinter Yageu\" Roden", "TobyHuangTW", "Toneberry", "Trevor Ramirez", "Tyler Romeo", "Umeiwa", "Vanja Tizi", "yepperoni", "Zachary Hults", "Ziffer42", "Zing Moua",
+
+            "@_yshrsmz", "@Orbiculare", "[101P]TuxedoSwit", "373and1", "A[2]ya", "Aaron Peterson", "Adalberto Ruiz Gutierrez (Magma_64)", "Adrian Lai", "Ajita Jago", "Akani", "Alistair Winters", "Allen Ragasa", "Almost Human", "AltoKun", "Andreas Kling", "Andrew Robinson", "Anthony Hansen", "Athis Nizen", "Au Nguyen", "ayakari", "AZUMAYA", "Barker", "bear0104", "BeefPaste", "Ben Davis", "blitzwingjp", "Bosco Rogers", "Brigido A Rocha", "Bryce Kane", "Bunbun", "Burnttoast95", "Burton Shaw III", "Cardy", "Carl-Michael Dextradeur", "Cesar Arciniega", "Chase Jones", "Christian Winsall", "clgdante", "Cloner4000", "cotaku39", "Cryllio", "Cyke", "daisuke toyota", "Daniel “Moonmist” Hernandez", "Darcy Brander", "DarkHanon", "David E. Olvera", "David J", "David Ming Luong", "David Torres", "DeadBeRise", "Deimos", "Deku", "Delicious_Air", "Dinasis", "DLJ", "Duncan Jimenez", "EarthBoundX5", "Elessar Alcarin", "Elissa Park", "equi_libria", "Eric Schwarzott", "Erick", "Evan 'Nave' Harris", "Fabian \"throtran\" Otte", "Fall Imori", "Felcast", "Felipe Robledo", "Flinflon", "Fluzzarn", "Forgive Your Insanity", "Franka Scy", "Frost_the_unicorn", "Gabrielle Aviles", "Genaro Apolinar Quesada", "Genesis Turner", "Geoff G Turner", "Gerson S.", "giw", "Go Knights Go!!!", "Gram64", "Guillaume Lebigot", "Halcyon_Daze", "Halogotstold", "HappyChubbs", "Haru", "HIKAKIN", "Hikaru HANASATO", "Hikauro", "Hiro J", "Homer Lindsay Dyer IV", "Horumon_Udon", "Hosunggoon", "HumbleCrow", "Illusive Fox", "itsbth", "Jacky Pride", "Jacob Benton", "Jairo Mendez", "James Tighe", "Jaren Wade", "Jason \"Scrublord\" Kim", "Jaspellior", "Jay", "JD", "Jean C.", "Jeff Reed", "Jeffry Welfare", "Jeppe Steen Larsen", "jimgo", "Joeschmo", "Johan Holmberg", "John Winner", "Jonathan Litwinka", "Jordan Aka Snow", "Jose J", "Joshua J. Slone", "Joshua Lake", "Julia Eddy", "Julio C. Rodriguez", "KaijinZero", "Kakuribbon", "Kawashima。", "Keith Lane", "Kenneth Turner", "Kenneth Uy", "Kenneth Wallace", "KenTheEagle", "Kieron Stoff", "Kirze", "kizi", "KLSol", "Koma Knox", "Kraven Teves", "Kumokiri/Hoshi", "kusaburger", "Lane Edgington", "LANtaro", "Lauren & Tish", "Lee Ker Hsien", "Leighton Petty", "Leoh", "Libra S", "Lim Ye Ping", "Lorenzo Abram", "Louis-Julien Vachon", "Luca Ceccon (Cek)", "Luke Perrin", "Luttii", "M.Sakamoto", "MacSanN", "Magnus", "Marcus Lo Re-Sant (Supergrunt3)", "Marshall Proudfoot", "Marty Thiebault", "Massao Higashino", "Master Ofu", "Matthew Jackson", "Max Amice", "MaxMoney", "Meltdown547", "Metawo Ueda", "Mevious", "Mew", "Michael \"SirWence\" Sears", "Michael BA Allen", "Michael Beemer", "Michael Wieczorek III", "Michael Williams", "Michaela Wilson", "Michelle 'Uzzy' Uscroft", "Midi", "miggy", "Mikatadesu", "MOGEL", "Mohammed Abdelraof Alkhamis", "Moricad", "MP3", "Myrnskees", "MysteryCorgi", "Naryoril", "Nekoron", "Neon Swaglord Chen", "neotsubasa", "nexas", "Niko", "Noble Princeps", "odayaka", "odstb24", "Olivier Larrieu", "Oulight", "Ow Xin Rui", "Owren", "P3 Renegade", "Patrick Ivan Altea", "Patrick Oukham Phimsarath", "Patrick Quintero", "Paul Sandman-Brya", "Penmore", "Pink_Nyan_Nyan_Punch", "Piotr Kociubiński", "Pits", "Pol", "Quek JiaJin", "R. Jackson", "R_Tatsui", "Ravemouse", "Ravspect", "Raymond Wan", "Rayna", "Reaperking47", "RennieRhombus", "Rennyu", "reynn", "Riku Maxwell", "Robert \"Trey\" Bruce", "Romer Magsino", "RonJon", "Rosalina Roy", "Rumblemuffin", "Rutana", "Rwokkefeller", "ryo ebisuwaki", "SageOfTheWood", "Sakura is Best Girl", "Sam Yang", "Samantha N.", "Samuel Cheung", "Scott M.", "Sean McPherson", "SEKI HIROMI", "Selinty_4i", "Seun Ogedengbe", "SGTGoldRush", "Shamax", "Sharro", "Shay Liess", "Shine Miwa", "ShyMel", "Sides", "Silv Shepard", "Silvis9311", "skkn", "Sousui", "Splagoon", "Stephen Jay Oyoung", "Suyen", "Sydney Anderson", "Taylor Kline", "Teemu Hattukangas", "Terr-E", "terrerk", "Tfse", "TheKillerAngel", "ThiagoTGM", "TimY", "to_kai", "Tomie Xiong", "Treyhawk", "Trips Starlake", "TwilliK", "Tyler Hom", "Unamina", "Uta", "Va Xiong (VAX)", "VG Nomad", "Violette Lollipop", "Watch Revolutionary Girl Utena", "waterboy", "Wenocire", "Wesley Allan Johnson", "Will \"FlameWing\" Shaw", "Xemia Heartless", "Xolf", "Y.K.TAN", "Yang Pulse", "Yuushalinsky", "Zaxam Dathers", "ZmmCool", "Zxadv", "プリンス", "큐리엔(Qrien)", "渗透之C君", "TN", "@bashnekk", "☆Hikaru Niitani★", "11DBHK", "200tang", "Adam Ruiz", "ajak60", "Alex Dizon", "Alexander Bam Bam Greensall", "Andreas Kjær Andersen", "Andrew Zydra", "Anthony Feldhake", "Aoto Takamine", "Appriser", "Arokyo", "Ashki", "Ashnaar", "AW", "Aya Partridge", "Ben Longmore", "Benjamin L", "Bicky", "block30", "Brasidas", "Brenda Aisha Wolf", "Bryton Rondquist", "Butterfly Joe", "Celina Mendez", "Chambon Ludovic", "Chanel Tee", "Charles D", "Chenkari", "Chikack", "Chinny", "Chip Sillesa", "Chirimen Hibino", "Chong Wei Loong", "Chris SM", "Cobalte", "Cody Sullivan", "Corssan", "crigget", "CrimsonPuppeteer", "CSO", "Curlymckay", "Cybeana", "D. Faust", "DAISUKE Lee", "Dakkhon Kor-Skarn", "dancingqxxeen", "Daniel Lovelady", "Daniel Shelton", "Dany D", "Datalanche", "Datcher", "David del Castillo", "David W Hill", "Defrid", "Delithia", "Derek Cheung", "Derek Lee", "Dillon Bray", "DJOkin", "DragonBox", "Dunadan", "DYoung", "Eagle", "effjaycee", "EN_DANGER", "Ephenesien", "Ethan Wood", "Evan Little", "Fitaurus", "Flaccidcake", "FluffyP", "Foas", "Franco Tran", "gakuuga", "General Cammy", "Ghent Starshadow", "Gherskom", "Glitch Heart", "Grace Joo", "Grant Edwards", "Grimdari Mynx", "Haiming Zhu", "Hammiam", "Hellsadvocate", "hubbles", "Human-Noodle", "IAmTehKodo", "Icedkocha", "ide ide", "Inabikari", "IZ*Echoes", "Jace Meyer", "Jame", "James \"Malkozaine\" Lundberg", "James Duarte (GarnetSunset)", "James Lock", "Jao", "Jarvis", "JefferyCuddleBuns", "Jeremy Brown", "John B", "John C", "Johnny Melgar", "Jørgen Gauthun Frøseth", "Joshua Meulman", "Josselin Cozanet", "Justin Smith", "Kasey Hall", "katym", "Kawasaki Takayo", "Kazuki Saito", "Keegan Frederick", "Kiekaboe", "Konstantin Koptev", "KoYo Yamano", "Ku Yong", "Kussie", "Kyle Rogacion", "Labuto", "lian_wired", "Lilith \"EvilGamerX\" Gaspar", "linalys", "liquette", "LLRod", "Lokikunz", "Lorelei N.", "Lunozio", "Lyra T", "M.M. van de Sluis (Eternalfrost78)", "MacFapper", "Madcat717", "Maerdiath", "Makoto Sato", "MardukCorp", "Margaret Kirrane", "Maria Johnson", "Mark", "Marlena Abraham", "Marshall W", "mawffin", "mayuzane", "Mei_Yun", "memoria", "Michael Alexandrou", "Michael K Lee", "Mikel A. LaRosa", "Mindela", "motora333", "mx", "nati_moritomo", "Natsulus", "Noah H", "NoOtaku", "oldllama", "Orthoretrovirinae", "Oxymonz", "Painsaw_", "Pandamai", "Pavel 'Liri' Eremin", "Pelmeshker", "Pierre-Jean \"Bhaal42\" LEFEBVRE", "PolterZeitgeist", "Praxic", "Rafael Abreu", "Raghnall", "Randy Tan", "Rathborn", "RCD", "Rebecca Blatt", "Regitze Ingleby", "Renerte", "rhez", "Rienen", "Robert McLean", "Ryan R.", "Ryorishu", "SaitoWinterStar", "Sakura Nene", "Sam_E", "Sami Ardens", "Samuel \"Samaritan\" Coulson", "Sang Nguyen", "Scott Stewart", "sean", "Seiya Suzuki", "Shini-tan", "sobaya24", "SodachiSasha", "SongWeaver", "Steve Sitjar", "Steven Gallacher", "Steven Nguyen", "Steven Wang", "Sugita Tomoyuki", "Suphakrit Watthanaya", "Supra", "Tadeas Stanek", "Tarar Rautulunde", "Taylor Helyar", "Teddy P", "Teekums", "TheChang", "Tony Srimongkolkul", "tortique", "Travis Smart", "Tyler Kraeuter", "UXT", "Valdack", "Valyndri", "Van \"Mankotron\" Hang", "Vandre", "V-Chan", "Vigil", "wb708090", "whackyx", "Wheel#0001", "wikiwiki7", "William VanZant", "Wolvie", "Wqeras", "Xike", "XYTEKK", "Yargleflarg", "Yasuyuki", "yaymos", "YelManYel", "yodahome", "Yokonyan", "Zanthulol", "Zehn", "Zenilant", "Zoe Alexandria", "くりたにか", "半袖", "阿部成人"
+        ]
+    }
+]
