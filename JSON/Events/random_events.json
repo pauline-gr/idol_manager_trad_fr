@@ -44,7 +44,7 @@
         },
         {
             "poster": "F_C_YA",
-            "text": "|haha wow, celui qui était en charge de cette séance photo de cosplay est viré, non ?"
+            "text": "|haha wow, le responsable de cette séance photo cosplay a été viré j'espère ?"
         }],
         "result":
         {
@@ -89,7 +89,7 @@
         "SNS": [
         {
             "poster": "M_HC_YA",
-            "text": "Il semble injuste que @actor_0@ soit mise à l'écart à cause du costume, ça n'est probablement même pas elle qui a choisi le costume"
+            "text": "C'est injuste que @actor_0@ soit mise à l'écart à cause du costume, ça n'est probablement même pas elle qui l'a choisi"
         },
         {
             "poster": "F_HC_YA",
@@ -183,7 +183,7 @@
 {
     "id": "fake_tickets",
     "title": "",
-    "description": "The police recently busted a scalper who was selling fake tickets to the upcoming concert!  The counterfeiter has been arrested, but it's unlikely that the fans who were tricked into buying fake tickets will be able to get their money back.\n\nWill [groupname] respond to this?",
+    "description": "La police a récemment arrêté un revendeur qui vendait de faux billets pour le prochain concert! Le faussaire a été arrêté, mais il est peu probable que les fans qui ont été trompés en achetant de faux billets puissent récupérer leur argent.\n\nQue va faire [Groupname] ?",
     "image": "fake_ticket.png",
     "random": true,
     "actors": [],
@@ -199,7 +199,7 @@
     "effects": [],
     "options": [
     {
-        "text": "Offer to replace the fraud victims' fake tickets with real ones",
+        "text": "Offrir de remplacer les faux billets des victimes de fraude par de vrais billets",
         "tooltip": "",
         "effects": [
         {
@@ -215,11 +215,11 @@
         "SNS": [
         {
             "poster": "M_HC_A",
-            "text": "Turns out I bought a bad ticket, but [groupname] replaced it for free! Way to turn some bad news into good news!"
+            "text": "Il s'avère que j'avais acheté un faux billet, mais [groupname] l'a remplacé gratuitement! Bravo pour avoir transformé une mauvaise nouvelle en bonne nouvelle!"
         },
         {
             "poster": "M_HC_T",
-            "text": "|some idiots got scammed and then [groupname] gave them free tickets...wish I got free tickets!"
+            "text": "|quelques idiots se sont fait arnaquer et ensuite [groupname] leur a donné des billets gratuits...j'aurais aimé avoir des billets gratuits!"
         }],
         "result":
         {
@@ -228,33 +228,33 @@
         }
     },
     {
-        "text": "Tighten policies to make it harder for people to scalp tickets",
+        "text": "Renforcer les politiques pour rendre plus difficile la revente de billets",
         "tooltip": "",
         "effects": [],
         "SNS": [
         {
             "poster": "M_HC_A",
-            "text": "so glad to hear [groupname] actually doing something about scalpers...people who buy a hundred tickets ruin events for the real fans"
+            "text": "Génial d'entendre que [groupname] fait quelque chose contre les revendeurs...les gens qui achètent une centaine de billets ruinent les événements pour les vrais fans"
         },
         {
             "poster": "F_HC_T",
-            "text": "|wish more groups would follow [groupname]'s lead and do something about the people who buy tickets and the resell them for x10 the original price!"
+            "text": "|Je souhaite que plus de groupes suivent l'exemple de [groupname] et fassent quelque chose contre les gens qui achètent des billets pour les revendre 10 fois le prix de base!"
         },
         {
             "poster": "M_HC_YA",
-            "text": "|[groupname] is limiting the number of tickets you can buy for future events...what if I want to buy tickets for myself and 4 friends?"
+            "text": "|[groupname] limite le nombre de billets que vous pouvez acheter pour les événements futurs...et si je veux acheter des billets pour moi et 4 amis?"
         },
         {
             "poster": "M_C_T",
-            "text": "won't affect lonely virgins who only buy 1 ticket lol"
+            "text": "ça n'atteindra pas les puceaux célibataires qui n'achètent qu'un seul billet lol"
         },
         {
             "poster": "M_C_YA",
-            "text": "|lol, guess I'm not going to be flipping [groupname] tickets anymore, too much risk of them forcing ID check or something."
+            "text": "|lol, je suppose que je ne vais plus revendre de billets de [groupname], trop de risques qu'ils vérifient les identités ou quelque chose comme ça."
         },
         {
             "poster": "F_C_YA",
-            "text": "|Doesn't [groupname] know who their customers are? Who cares what people do with their tickets as long as they're buying them"
+            "text": "|[groupname] ne sait pas qui sont leurs clients? Peu importe ce que les gens font de leurs billets tant qu'ils les achètent"
         }],
         "result":
         {
@@ -263,7 +263,7 @@
         }
     },
     {
-        "text": "Say nothing about the incident",
+        "text": "Ne rien dire sur l'incident",
         "tooltip": "",
         "effects": [
         {
@@ -274,7 +274,7 @@
         "SNS": [
         {
             "poster": "M_C_A",
-            "text": "turns out the [groupname] tickets i bought online were fake...beware of sketchy sellers"
+            "text": "Il s'avère que les billets de [groupname] que j'ai achetés en ligne étaient faux...méfiez-vous des vendeurs louches"
         }],
         "result":
         {
@@ -286,7 +286,7 @@
 {
     "id": "cd_misprint",
     "title": "",
-    "description": "Looks like there was a problem with the print run of the latest CD, and about 3% of all copies were printed with the wrong cover.\n\nWhat's the best way to handle this?",
+    "description": "Il semble qu'il y ait eu un problème avec l'impression du dernier CD, et environ 3% de toutes les copies ont été imprimées avec la mauvaise couverture.\n\nQuelle est la meilleure façon de gérer cela?",
     "image": "cover_misprint.png",
     "random": true,
     "actors": [],
@@ -302,7 +302,7 @@
     "effects": [],
     "options": [
     {
-        "text": "Apologize to fans and offer to replace the misprinted CDs",
+        "text": "S'excuser auprès des fans et offrir de remplacer les CD mal imprimés",
         "tooltip": "",
         "effects": [
         {
@@ -313,43 +313,44 @@
         "SNS": [
         {
             "poster": "F_C_YA",
-            "text": "Just got my replacement CD in the mail. It even included a personal hand-written note from [last_physical_single_center] apologizing for the incident!"
+            "text": "Je viens de recevoir mon CD de remplacement par la poste. Il y avait même une note manuscrite personnelle de [last_physical_single_center] s'excusant pour l'incident!"
         },
         {
             "poster": "F_HC_YA",
-            "text": "The 'hand-written note' was scanned and copied, idiot. Everyone got the same note attached to their replacement"
+            "text": "Le 'mot manuscrit' a été scanné et copié, idiot. Tout le monde a reçu le même mot avec son CD de remplacement"
         },
         {
             "poster": "F_C_YA",
-            "text": "Still, it is a nice gesture..."
+            "text": "C'est quand même un beau geste..."
         },
         {
             "poster": "M_HC_T",
-            "text": "lol why would [last_physical_single_center] even apologize, it's not like the idols are the ones printing and packing the CDs"
+            "text": "lol pourquoi [last_physical_single_center] s'excuse ? C'est pas comme si les idoles étaient celles qui imprimaient et emballaient les CD"
         }],
         "result":
         {
-            "description": "The replacement rolls out without any additional hiccups.",
+            "description": "Le remplacement se déroule sans aucun autre accroc.",
             "delay": 0
         }
     },
     {
-        "text": "Claim that it was intentional and the misprinted CDs are a special collector's item",
+        "text": "Annoncer que les CD avec cette couverture sont une édition limitée éditée intentionnellement",
         "tooltip": "",
         "effects": [],
         "SNS": [
         {
             "poster": "M_C_A",
-            "text": "Even if the latest \"alternate cover\" CD from [groupname] was a mistake, it is kind of cool to have a unique cover."
+            "text": "Même si le dernier CD \"couverture alternative\" de [groupname] était une erreur, c'est plutôt cool d'avoir une couverture unique."
         }],
         "result":
         {
-            "description": "Some people seem skeptical of the idea that this was intentional, but most of the complaints seem to have subsided.",
+            "description": "Certaines personnes semblent sceptiques quant à l'idée que c'était intentionnel, mais la plupart des plaintes semblent s'être calmées.",
             "delay": 0
         }
     },
     {
         "text": "Claim that it was intentional and the misprinted CDs are a special collector's item",
+        "text": "Annoncer que les CD avec cette couverture sont une édition limitée éditée intentionnellement",
         "tooltip": "",
         "effects": [
         {
@@ -360,23 +361,23 @@
         "SNS": [
         {
             "poster": "F_C_A",
-            "text": "Just saw an auction for a [groupname] CD complete at 10,000 yen, is this a limited edition or something?"
+            "text": "Je viens de voir une enchère pour un CD de [groupname] se terminer à 10 000 yens, est-ce une édition limitée ou quelque chose comme ça?"
         },
         {
             "poster": "M_HC_A",
-            "text": "|I'm stockpiling special edition copies of the latest [groupname] CD in anticipation of the day the yen eventually collapses. Probably a better investment than gold."
+            "text": "|Je stocke des copies de l'édition spéciale du dernier CD de [groupname] en prévision du jour où le yen s'effondrera. Probablement un meilleur investissement que l'or."
         },
         {
             "poster": "M_C_A",
-            "text": "Not sure if serious or not..."
+            "text": "Je n'arrive pas à savoir si c'est sérieux ou pas..."
         },
         {
             "poster": "F_HC_A",
-            "text": "I mean, he's not wrong. I bet those things only go up in value. Makes me want to pre-order the next CD, just in case they do this again..."
+            "text": "En vrai, il a raison. Je parie que ces trucs ne font qu'augmenter en valeur. Ça me donne envie de précommander le prochain CD, juste au cas où ils le referaient..."
         }],
         "result":
         {
-            "description": "Everyone quickly latches onto the idea that the misprinted CDs were intentional, and copies with the \"alternate cover\" quickly become a collectors item, with some copies selling for ten times their retail price on the secondhand market.  Score!",
+            "description": "Tout le monde pense rapidement que les CD mal imprimés sont collector, et les copies avec la \"couverture alternative\" deviennent rapidement un objet de collection, certaines copies se vendant dix fois leur prix de vente au détail sur le marché de l'occasion.  Bien joué!",
             "delay": 0
         }
     },
@@ -392,19 +393,19 @@
         "SNS": [
         {
             "poster": "F_HC_T",
-            "text": "Disappointed to see that [last_physical_single_center] worked so hard on the latest single, only for it to get tarnished by a printing error."
+            "text": "Déçu de voir que [last_physical_single_center] a travaillé si dur sur le dernier single, pour que son travail soit critiqué à cause d'une simple erreur d'impression."
         },
         {
             "poster": "M_HC_T",
-            "text": "|Just got my [groupname] CD and the cover isn't even right, what a joke. Hope someone is getting fired over this"
+            "text": "|Je viens de recevoir mon CD de [groupname] et la couverture est trop bizarre, quelle blague. J'espère que quelqu'un va être viré pour ça"
         },
         {
             "poster": "M_HC_YA",
-            "text": "Seems a bit harsh, my dude. These mistakes aren't that uncommon"
+            "text": "Vachement toxique ta réaction. Ça arrive de faire des erreurs !"
         }],
         "result":
         {
-            "description": "A bunch of upset fans express their complaints, but it quickly dies down.",
+            "description": "Quelques fans mécontents expriment leurs plaintes, mais cela se calme rapidement.",
             "delay": 0
         }
     }]
@@ -412,7 +413,7 @@
 {
     "id": "onions_10",
     "title": "",
-    "description": "@actor_0@ mentioned during a livestream that she occasionally eats raw green onions as a snack.  Now, all of her social media posts are filled with comments from people saying 'stinky breath' and pictures of onions.\n\nWhat's the best way to respond to this?",
+    "description": "@actor_0@ a mentionné lors d'un stream en direct qu'elle mange parfois des oignons crus en guise de collation. Maintenant, tous ses posts sur les réseaux sociaux sont remplis de commentaires disant 'mauvaise haleine' ou 'refoulle du bec' accompagnés de photos d'oignons.\n\nQuelle est la meilleure façon de répondre à cela?",
     "image": "onion_incident.png",
     "random": true,
     "actors": [
@@ -433,7 +434,7 @@
     "effects": [],
     "options": [
     {
-        "text": "Ignore the trolls",
+        "text": "Ignorer les trolls",
         "tooltip": "",
         "effects": [
         {
@@ -454,16 +455,16 @@
         "SNS": [
         {
             "poster": "M_HC_YA",
-            "text": "They say an apple a day will keep the doctor away...turns out if you're @actor_0@ an onion a day will keep everyone away"
+            "text": "Il paraît qu'une pomme par jour éloigne le médecin...il s'avère que si vous êtes @actor_0@, un oignon par jour éloigne tout le monde"
         }],
         "result":
         {
-            "description": "Maybe if these people don't get a reaction, they'll get tired and stop.",
+            "description": "Peut-être que si ces gens n'obtiennent pas de réaction, ils se fatigueront et s'arrêteront.",
             "delay": 0
         }
     },
     {
-        "text": "Have @actor_0@ block anyone who responds with onion pictures",
+        "text": "Dire à @actor_0@ de bloquer les gens qui répondent avec des photos d'oignons",
         "tooltip": "",
         "effects": [
         {
@@ -474,24 +475,24 @@
         "SNS": [
         {
             "poster": "M_HC_T",
-            "text": "LOL!  @actor_0@ just blocked me for onionposting"
+            "text": "MDRRRRR! @actor_0@ vient de me bloquer pour trollnionment (troll + oignon + harcèlement vous avez compris ? XPTDRRRRRR)"
         },
         {
             "poster": "M_C_YA",
-            "text": "You can't just talk about \"onionposting\" like people are going to know that's a thing"
+            "text": "Pfff, tu crois quand même pas que trollnionment va devenir un mot tendance, si?"
         },
         {
             "poster": "F_C_T",
-            "text": "@actor_0@ is just talking about onions to hide the fact that she's having a secret love affair with a leek. You can't silence the truth!"
+            "text": "@actor_0@ parle d'oignons pour cacher le fait qu'elle a une liaison secrète avec un poireau. Vous ne pouvez pas étouffer la vérité!"
         }],
         "result":
         {
-            "description": "Hopefully that will get the point across.",
+            "description": "Espérons que ça fasse passer le message.",
             "delay": 0
         }
     },
     {
-        "text": "Have @actor_0@ stay off social media for a few days",
+        "text": "Faire en sorte que @actor_0@ esquive les réseaux sociaux pendant quelques jours",
         "tooltip": "",
         "effects": [
         {
@@ -502,15 +503,15 @@
         "SNS": [
         {
             "poster": "F_HC_T",
-            "text": "Been awhile since @actor_0@ has been active...hope she's not dead."
+            "text": "Ça fait un moment que @actor_0@ n'a rien posté... J'espère qu'elle n'est pas morte."
         },
         {
             "poster": "F_C_A",
-            "text": "@actor_0@ hasn't posted in awhile.  Is she on social media probation or something?"
+            "text": "@actor_0@ n'a pas posté depuis un moment. On lui interdit d'aller sur les réseaux sociaux ou quelque chose comme ça?"
         }],
         "result":
         {
-            "description": "It's probably best to lay low and wait for this whole thing to blow over.",
+            "description": "Il est probablement préférable de se faire discret et d'attendre que tout cela se calme.",
             "delay": 0
         }
     }]
@@ -518,7 +519,7 @@
 {
     "id": "onions_20",
     "title": "",
-    "description": "It's been several days since people started responding to @actor_0@'s social media posts with onion-related comments, and things haven't died down.  @actor_0@ seems to be a bit agitated about it.\n\nWhat's the best way to handle this?",
+    "description": "Cela fait plusieurs jours que les gens répondent aux posts de @actor_0@ sur les réseaux sociaux avec des commentaires liés aux oignons, et les choses ne se sont pas calmées.  @actor_0@ semble un peu agitée à ce sujet.\n\nQuelle est la meilleure façon de gérer cela?",
     "image": "onion_incident.png",
     "random": false,
     "actors": [
@@ -535,7 +536,7 @@
     "effects": [],
     "options": [
     {
-        "text": "Keep ignoring the trolls",
+        "text": "Continuer d'ignorer les trolls",
         "tooltip": "",
         "effects": [
         {
@@ -551,24 +552,24 @@
         "SNS": [
         {
             "poster": "M_C_T",
-            "text": "What's the difference between @actor_0@ and an onion? People cry when you cut the onion"
+            "text": "Quelle est la différence entre @actor_0@ et un oignon? Les gens pleurent quand vous coupez l'oignon"
         },
         {
             "poster": "F_HC_YA",
-            "text": "That's bulb onions, idiot. Green onions don't make you cry."
+            "text": "Inculte, tous les oignons ne font pas pleurer. Fais tes propres recherches."
         },
         {
             "poster": "M_C_A",
-            "text": "I think this crosses the line..."
+            "text": "Je pense que cette histoire va trop loin..."
         }],
         "result":
         {
-            "description": "Making a big stink about it could just attract more attention. Hopefully, people will eventually get tired and move onto the next target.",
+            "description": "Faire tout un plat de cela pourrait simplement attirer plus d'attention. Espérons que les gens finiront par se fatiguer et passeront à la cible suivante.",
             "delay": 0
         }
     },
     {
-        "text": "Have @actor_0@ block anyone who responds with onion pictures",
+        "text": "Dire à @actor_0@ de bloquer les gens qui répondent avec des photos d'oignons",
         "tooltip": "",
         "effects": [
         {
@@ -579,24 +580,24 @@
         "SNS": [
         {
             "poster": "M_HC_T",
-            "text": "LOL!  @actor_0@ just blocked me for onionposting"
+            "text": "LOL!  @actor_0@ vient de me bloquer pour trollnionment (troll + oignon + harcèlement vous avez compris ? XPTDRRRRRR)"
         },
         {
             "poster": "M_C_YA",
-            "text": "You can't just talk about \"onionposting\" like people are going to know that's a thing"
+            "text": "Tu crois vraiment que trollnionment va devenir un mot tendance, si?"
         },
         {
             "poster": "F_C_T",
-            "text": "@actor_0@ is just talking about onions to hide the fact that she's having a secret love affair with a leek. You can't silence the truth!"
+            "text": "@actor_0@ parle d'oignons pour cacher le fait qu'elle a une liaison secrète avec un poireau. Vous ne pouvez pas étouffer la vérité!"
         }],
         "result":
         {
-            "description": "Hopefully that will get the point across.",
+            "description": "Espérons que les choses se tassent.",
             "delay": 0
         }
     },
     {
-        "text": "Have @actor_0@ stay off social media for a few days",
+        "text": "Faire en sorte que @actor_0@ esquive les réseaux sociaux pendant quelques jours",
         "tooltip": "",
         "effects": [
         {
@@ -607,15 +608,15 @@
         "SNS": [
         {
             "poster": "F_HC_T",
-            "text": "Been awhile since @actor_0@ has been active...hope she's not dead."
+            "text": "Ça fait un moment que @actor_0@ n'a rien posté... J'espère qu'elle n'est pas morte."
         },
         {
             "poster": "F_C_A",
-            "text": "|@actor_0@ hasn't posted in awhile.  Is she on social media probation or something?"
+            "text": "|@actor_0@ n'a pas posté depuis un moment. On lui interdit d'aller sur les réseaux sociaux ou quelque chose comme ça?"
         }],
         "result":
         {
-            "description": "It's probably best to lay low and wait for this whole thing to blow over.",
+            "description": "Il est probablement préférable de se faire discret et d'attendre que tout cela se calme.",
             "delay": 0
         }
     }]

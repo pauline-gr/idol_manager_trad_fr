@@ -14,7 +14,7 @@
   {
     "id": 1,
     "type": "genre",
-    "title": "EDM",
+    "title": "Electro",
     "unlocked": true,
     "trend_points": 3000,
     "level": 0,
@@ -28,7 +28,7 @@
   {
     "id": 2,
     "type": "genre",
-    "title": "Metal",
+    "title": "Métal",
     "unlocked": true,
     "level": 0,
     "appeal": {
@@ -54,7 +54,7 @@
   {
     "id": 4,
     "type": "genre",
-    "title": "Hip Hop",
+    "title": "Hip-Hop",
     "unlocked": true,
     "level": 0,
     "appeal": {
@@ -91,7 +91,7 @@
   {
     "id": 7,
     "type": "genre",
-    "title": "Avant-garde",
+    "title": "Avant-gardiste",
     "unlocked": true,
     "level": 0,
     "appeal": {

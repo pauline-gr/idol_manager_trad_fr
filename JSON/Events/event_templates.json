@@ -201,7 +201,7 @@
         "Chance": 30,
         "Values": [
           {"Text": "[actor_0] porte un masque médical sur la photo, mais avec les gros plans on voit clairement que c'est elle.\n\n"},
-          {"Text": "La tête de [actor_0]est tournée sur la photo, rendant difficile son identification.\n\n"},
+          {"Text": "La tête de [actor_0] est tournée sur la photo, rendant difficile son identification.\n\n"},
           {"Text": "La photo est floue, mais les vêtements qu'elle porte sur la photo correspondent à d'autres photos prises d'elle le jour même.\n\n"}
         ],
         "Actions": [

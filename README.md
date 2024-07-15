@@ -6,7 +6,7 @@ Cette traduction n'est pas un mod ! C'est juste une traduction du jeu original.
 
 ## Comment installer la traduction
 
-Afin de jouer à Idol Manager en français, placer ce dossier dans le dossier `Idol Manager/IM_Data/StreamingAssets/Languages/fr` du jeu.
+Afin de jouer à Idol Manager en français, placer le contenu de ce dossier dans le dossier `Idol Manager/IM_Data/StreamingAssets/Languages/fr` du jeu.
 
 Une fois le dossier placé, vous pourrez sélectionner le français dans les options du jeu.
 
