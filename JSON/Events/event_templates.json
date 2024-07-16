@@ -250,7 +250,7 @@
         "ID": "fact_about_relationship",
         "Chance": 15,
         "Values": [
-          {"Text": "Plusieurs personnes ont stalké les rréseaux sociaux de [actor_1] et ont découvert une photo avec [actor_0] datant du mois dernier.\n\n"}
+          {"Text": "Plusieurs personnes ont stalké les réseaux sociaux de [actor_1] et ont découvert une photo avec [actor_0] datant du mois dernier.\n\n"}
         ],
         "Actions": [
           {"target":"variable","parameter":"add","formula":"Can_Deny_Identity -40"}
@@ -354,7 +354,7 @@
         ]
       },
       {
-        "Text":"Contraindre [actor_0] à s'excuser publiquement et la mettre en retrait",
+        "Text":"Contraindre [actor_0] à s'excuser publiquement et la mettre en probation",
         "Actions":[
           {"target":"meta","parameter":"custom","formula":"dating_apologize"}
         ]

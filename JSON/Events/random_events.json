@@ -53,7 +53,7 @@
         }
     },
     {
-        "text": "Mettre @actor_0@ en retrait et lui faire enregistrer une vidéo d'excuses",
+        "text": "Mettre @actor_0@ en probation et lui faire enregistrer une vidéo d'excuses",
         "tooltip": "",
         "effects": [
         {
@@ -475,11 +475,11 @@
         "SNS": [
         {
             "poster": "M_HC_T",
-            "text": "MDRRRRR! @actor_0@ vient de me bloquer pour trollnionment (troll + oignon + harcèlement vous avez compris ? XPTDRRRRRR)"
+            "text": "LOL! @actor_0@ vient de me bloquer pour oignon-posting"
         },
         {
             "poster": "M_C_YA",
-            "text": "Pfff, tu crois quand même pas que trollnionment va devenir un mot tendance, si?"
+            "text": "Qu'est ce que c'est que ça \"oignon-posting\" ? Personne ne sait ce que c'est"
         },
         {
             "poster": "F_C_T",
@@ -487,7 +487,7 @@
         }],
         "result":
         {
-            "description": "Espérons que ça fasse passer le message.",
+            "description": "Avec le temps, les gens passent à autre chose.",
             "delay": 0
         }
     },
@@ -580,11 +580,11 @@
         "SNS": [
         {
             "poster": "M_HC_T",
-            "text": "LOL!  @actor_0@ vient de me bloquer pour trollnionment (troll + oignon + harcèlement vous avez compris ? XPTDRRRRRR)"
+            "text": "LOL! @actor_0@ vient de me bloquer pour oignon-posting"
         },
         {
             "poster": "M_C_YA",
-            "text": "Tu crois vraiment que trollnionment va devenir un mot tendance, si?"
+            "text": "Qu'est ce que c'est que ça \"oignon-posting\" ? Personne ne sait ce que c'est"
         },
         {
             "poster": "F_C_T",
@@ -592,7 +592,7 @@
         }],
         "result":
         {
-            "description": "Espérons que les choses se tassent.",
+            "description": "Avec le temps, les gens passent à autre chose.",
             "delay": 0
         }
     },
@@ -624,7 +624,7 @@
 {
     "id": "onions_30",
     "title": "",
-    "description": "@actor_0@'s social media continues to be flooded with onion-related comments and pictures, some of which are becoming increasingly creative.  Some blogs have even started to compile galleries of their favorite @actor_0@/onion fanart.",
+    "description": "Les réseaux sociaux de @actor_0@ continuent d'être inondés de commentaires et de photos d'oignons, certains devenant de plus en plus créatifs. Certains blogs ont même commencé à compiler des galeries de leur fanart préféré de @actor_0@/oignon.",
     "image": "onion_incident.png",
     "random": false,
     "actors": [
@@ -641,7 +641,7 @@
     "effects": [],
     "options": [
     {
-        "text": "Let this play out",
+        "text": "Laisser les choses suivre leur cours",
         "tooltip": "",
         "effects": [
         {
@@ -672,12 +672,12 @@
         "SNS": [],
         "result":
         {
-            "description": "The onion-related posts aren't letting up, but @actor_0@'s follower count has seen a massive uptick over the past few days, which seems to have set her at ease.  There's also been a huge influx of supportive posts from people posting cute drawings of her hugging onions.  It all seems to be in good fun, and it seems like @actor_0@ has settled into her role as \"the onion girl,\" even posting a picture of herself posing affectionately with an onion.",
+            "description": "Les posts liés aux oignons ne s'arrêtent pas, mais le nombre de followers de @actor_0@ a considérablement augmenté ces derniers jours, ce qui semble l'avoir rassurée. Il y a également eu un afflux massif de posts de soutien de personnes postant des dessins mignons d'elle en train de câliner des oignons. Tout semble bienveillant, et il semble que @actor_0@ ait trouvé sa place en tant que \"la fille aux oignons\", postant même un selfie d'elle avec un oignon.",
             "delay": 0
         }
     },
     {
-        "text": "Have @actor_0@ block anyone who responds with onion pictures",
+        "text": "Dire à @actor_0@ de bloquer les gens qui répondent avec des photos d'oignons",
         "tooltip": "",
         "effects": [
         {
@@ -688,24 +688,24 @@
         "SNS": [
         {
             "poster": "M_HC_T",
-            "text": "LOL!  @actor_0@ just blocked me for onionposting"
+            "text": "LOL! @actor_0@ vient de me bloquer pour oignon-posting"
         },
         {
             "poster": "M_C_YA",
-            "text": "You can't just talk about \"onionposting\" like people are going to know that's a thing"
+            "text": "Qu'est ce que c'est que ça \"oignon-posting\" ? Personne ne sait ce que c'est"
         },
         {
             "poster": "F_C_T",
-            "text": "@actor_0@ is just talking about onions to hide the fact that she's having a secret love affair with a leek. You can't silence the truth!"
+            "text": "@actor_0@ parle d'oignons pour cacher le fait qu'elle a une liaison secrète avec un poireau. Vous ne pouvez pas étouffer la vérité!"
         }],
         "result":
         {
-            "description": "Hopefully that will get the point across.",
+            "description": "Avec le temps, les gens passent à autre chose.",
             "delay": 0
         }
     },
     {
-        "text": "Have @actor_0@ stay off social media for a few days",
+        "text": "Faire en sorte que @actor_0@ esquive les réseaux sociaux pendant quelques jours",
         "tooltip": "",
         "effects": [
         {
@@ -716,15 +716,15 @@
         "SNS": [
         {
             "poster": "F_HC_T",
-            "text": "Been awhile since @actor_0@ has been active...hope she's not dead."
+            "text": "Ça fait un moment que @actor_0@ n'a rien posté... J'espère qu'elle n'est pas morte."
         },
         {
             "poster": "F_C_A",
-            "text": "@actor_0@ hasn't posted in awhile.  Is she on social media probation or something?"
+            "text": "@actor_0@ n'a pas posté depuis un moment. On lui interdit d'aller sur les réseaux sociaux ou quelque chose comme ça?"
         }],
         "result":
         {
-            "description": "It's probably best to lay low and wait for this whole thing to blow over.",
+            "description": "Il est probablement préférable de se faire discret et d'attendre que tout cela se calme.",
             "delay": 0
         }
     }]
@@ -732,7 +732,7 @@
 {
     "id": "shoplifting",
     "title": "",
-    "description": "Uh oh, [actor_0:full] was caught shoplifting. Not only was she arrested, but leaked security footage of theft has leaked onto the internet, and gossip sites have already started to run wild with the story.\n\nWhat's the best apology method?",
+    "description": "Oh-oh, [actor_0:full] a été surprise en train de voler dans un magasin. Non seulement elle a été arrêtée, mais des images de vidéosurveillance de son vol ont fuité sur internet, et les réseaux sociaux ont déjà commencé à s'emballer avec l'histoire.\n\nQue faire?",
     "image": "shoplifting.png",
     "random": true,
     "actors": [
@@ -753,7 +753,7 @@
     "effects": [],
     "options": [
     {
-        "text": "Have her accept full responsibility, no excuses",
+        "text": "Lui faire admettre son entière responsabilité dans l'affaire, son comportement est inexcusable",
         "tooltip": "",
         "effects": [
         {
@@ -784,12 +784,12 @@
         "SNS": [],
         "result":
         {
-            "description": "[actor_0:full] makes an announcement apologizing for the shoplifting incident. Most people don't seem very sympathetic, but with no news or scandal coming out of the incident, the story dies down shortly after.",
+            "description": "[actor_0:full] fait une annonce s'excusant pour l'incident de vol à l'étalage. La plupart des gens ne semblent pas très empathiques. Sans nouvelles ou scandale provenant de l'incident, l'histoire se calme peu de temps après.",
             "delay": 0
         }
     },
     {
-        "text": "Blame her bad decision on being stressed out",
+        "text": "Minimiser l'incident en mettant son acte sur le compte de la fatigue et du stress",
         "tooltip": "",
         "effects": [
         {
@@ -825,20 +825,20 @@
         "SNS": [
         {
             "poster": "F_HC_YA",
-            "text": "is [actor_0]'s kleptomania episode going to be the first of many?"
+            "text": "Est-ce que l'épisode de kleptomanie de [actor_0] va être le premier d'une longue série?"
         },
         {
             "poster": "M_C_A",
-            "text": "If [actor_0] really is so over-worked that it caused her to shoplift, then the blame lies on [groupname] for working her too hard."
+            "text": "Si [actor_0] est surmenée au point de voler, tout est de la faute de [groupname]!"
         }],
         "result":
         {
-            "description": "[actor_0:full] records a video explaining that she has been under intense pressure lately, and that the shoplifting was only a single moment of bad judgment.  She even cries during the video.  A few people accuse her of faking tears to gain sympathy, but most people seem to accept her apology.",
+            "description": "[actor_0:full] enregistre une vidéo expliquant qu'elle a été sous une pression intense ces derniers temps, et que le vol à l'étalage n'était qu'un instant de craquage. Elle pleure même pendant la vidéo.  Quelques personnes l'accusent de simuler des larmes pour gagner de la sympathie, mais la plupart des gens semblent accepter ses excuses.",
             "delay": 0
         }
     },
     {
-        "text": "Blame her bad decision on being stressed out",
+        "text": "Minimiser l'incident en mettant son acte sur le compte de la fatigue et du stress",
         "tooltip": "",
         "effects": [
         {
@@ -874,16 +874,16 @@
         "SNS": [
         {
             "poster": "M_HC_YA",
-            "text": "I'm pretty stressed out, maybe I'll go commit some crimes like [actor_0:full] did"
+            "text": "Je suis assez stressé, je pense que je vais aller commettre quelques crimes comme [actor_0:full]"
         }],
         "result":
         {
-            "description": "[actor_0:full] records a video explaining that she has been under intense pressure lately, and that the shoplifting was only a single moment of bad judgment.  Unfortunately, this results in an even bigger online backlash from online critics who claim that she is only making excuses and not taking responsibility for her actions.",
+            "description": "[actor_0:full] enregistre une vidéo expliquant qu'elle a été sous une pression intense ces derniers temps, et que le vol à l'étalage n'était qu'un instant de craquage. Elle pleure même pendant la vidéo.  Quelques personnes l'accusent de simuler des larmes pour gagner de la sympathie, mais la plupart des gens semblent accepter ses excuses.",
             "delay": 0
         }
     },
     {
-        "text": "Claim that she was simply being careless and forgot to pay for the item",
+        "text": "Assurer qu'elle avait la tête ailleurs et qu'elle a simplement oublié de payer",
         "tooltip": "",
         "effects": [
         {
@@ -914,15 +914,15 @@
         "SNS": [
         {
             "poster": "M_C_YA",
-            "text": "[actor_0] has no shame, apparently"
+            "text": "[actor_0] n'a visiblement aucune honte"
         },
         {
             "poster": "F_HC_T",
-            "text": "wow, [actor_0] is the worst kind of entitled"
+            "text": "wow, [actor_0] est vraiment la pire"
         }],
         "result":
         {
-            "description": "[actor_0] explains that she never intended to steal the item, and simply neglected to pay for it.  However, with the video evidence, most people aren't buying it, and her attempt to excuse her behavior only intensifies the online backlash.",
+            "description": "[actor_0] explique qu'elle n'a jamais eu l'intention de voler l'article, et qu'elle a simplement oublié de le payer. Cependant, avec les preuves vidéo, la plupart des gens ne sont pas dupes, et sa tentative d'excuses ne fait qu'intensifier les réactions en ligne.",
             "delay": 0
         }
     }]
@@ -930,7 +930,7 @@
 {
     "id": "punchy",
     "title": "",
-    "description": "[actor_0:full] just said during a livestream event that she sometimes fantasizes about punching other group members. The stream has been taken down, but fans have already clipped the remark and are sharing it on social media!",
+    "description": "[actor_0:full] vient de dire lors d'un événement en direct qu'elle aimerait parfois mettre une énorme droite à certaines membres du groupe. Le stream a été retiré, mais les fans ont déjà enregistré le moment et le partagent sur les réseaux sociaux!",
     "image": "livestream.png",
     "random": true,
     "actors": [
@@ -947,7 +947,7 @@
     "effects": [],
     "options": [
     {
-        "text": "Put [actor_0:full] on probation and have her record an apology video",
+        "text": "Mettre [actor_0:full] en probation et lui faire enregistrer une vidéo d'excuses",
         "tooltip": "",
         "effects": [
         {
@@ -978,7 +978,7 @@
         "SNS": [
         {
             "poster": "M_HC_T",
-            "text": "is anyone actually buying the fake-ass apology video that [actor_0] put out? full damage control mode is so obvious"
+            "text": "Est-ce que quelqu'un croit vraiment à la vidéo d'excuses de cette faux-cul de [actor_0] ? Le label essaie de limiter les dégats, c'est tellement évident"
         }],
         "result":
         {
@@ -987,7 +987,7 @@
         }
     },
     {
-        "text": "Claim [actor_0:full]'s comment was a joke and say her remarks were taken out of context",
+        "text": "Assurer que [actor_0:full] plaisantait et que ses remarques ont été sorties de leur contexte",
         "tooltip": "",
         "effects": [
         {
@@ -1003,11 +1003,11 @@
         "SNS": [
         {
             "poster": "F_C_YA",
-            "text": "lol @ all the people taking [actor_0]'s remarks seriously...don't people know the meaning of the word \"joke?\""
+            "text": "lol @ tout le monde prend ce qu'a dit [actor_0] au sérieux... Les gens n'ont vraiment plus aucun \"humour\""
         },
         {
             "poster": "F_HC_T",
-            "text": "if [actor_0] says she was \"joking\" when she said she wanted to punch her fellow group members, then i'm \"joking\" when I say i want to punch her in the face"
+            "text": "Si [actor_0] dit qu'elle \"plaisantait\" quand elle a dit qu'elle voulait frapper les autres filles du groupe, alors je \"plaisante\" quand je dis que je veux lui mettre une frapper ;)"
         }],
         "result":
         {
@@ -1016,7 +1016,7 @@
         }
     },
     {
-        "text": "Ignore the matter",
+        "text": "Ignorer la polémique",
         "tooltip": "",
         "effects": [
         {
@@ -1042,11 +1042,11 @@
         "SNS": [
         {
             "poster": "F_HC_YA",
-            "text": "can't believe that there are actually people still defending [actor_0] after what she said on stream."
+            "text": "Je n'en reviens pas qu'il y ait encore des gens qui défendent [actor_0] après ce qu'elle a dit en stream."
         },
         {
             "poster": "M_HC_YA",
-            "text": "wow [actor_0] actually says she wants to punch her group mates? what a bitch. can't wait to see her go down even further in the rankings"
+            "text": "wow [actor_0] a vraiment dit qu'elle voulait frapper ses potes du groupe ? Quelle salope. J'ai hâte de la voir atteindre le fond du classement"
         }],
         "result":
         {
@@ -1058,7 +1058,7 @@
 {
     "id": "awkward_sponsor",
     "title": "",
-    "description": "Last week, @actor_0@ signed a deal to endorse [proposal_agent], but someone dug through her old social media history and found an old post from several months ago where she said she hated it.  She quickly deleted the old post, but someone took a screenshot before the post was taken down and it's starting to circulate online.",
+    "description": "La semaine dernière, @actor_0@ a signé un accord publicitaire avec [proposal_agent], mais quelqu'un a fouillé dans son historique de réseaux sociaux et a trouvé un ancien post datant de plusieurs mois où elle disait qu'elle ne pouvait pas voir [proposal_agent]. Elle a rapidement supprimé le vieux post, mais quelqu'un a pris une capture d'écran avant sa suppression et il commence à circuler en ligne.",
     "image": "ad_fail.png",
     "random": true,
     "actors": [
@@ -1074,7 +1074,7 @@
     "conditions": [],
     "options": [
     {
-        "text": "Have @actor_0@ claim that she changed her mind about the product",
+        "text": "Faire en sorte que @actor_0@ prétende avoir changé d'avis sur le produit",
         "tooltip": "",
         "effects": [
         {
@@ -1100,20 +1100,20 @@
         "SNS": [
         {
             "poster": "M_C_A",
-            "text": "Pathetic how idols will straight-up lie to get paid by sponsors. Yes this is a @actor_0@ post."
+            "text": "Pathétique de voir comment les idoles mentent pour être payées par des sponsors. Oui, c'est un post de @actor_0@."
         },
         {
             "poster": "M_HC_T",
-            "text": "|lol, wish I could get paid to endorse products I don't actually use."
+            "text": "|lol, je kifferais être payée pour faire de la pub à des produits que je n'utilise même pas."
         }],
         "result":
         {
-            "description": "@actor_0@ makes several posts talking about how her opinions about [proposal_agent] have changed. She's met with a barrage of internet comments calling her things like \"hypocrite,\" \"shill,\" and \"whore.\"  Later that day, we receive a message from [proposal_agent] telling us that @actor_0@'s remarks are a violation of the sponsorship agreement. They're terminating the contract, and demanding that all payments they've sent be returned, but they're not pursuing damages.",
+            "description": "@actor_0@ fait quelques posts annonçant que son opinion des produits de [proposal_agent] a changé. Elle rencontre un mur sur internet avec des commentaires qui la traitent d'\"hypocrite\", de \"vendue\" et de \"pute\". Plus tard dans la journée, vous recevez un message de [proposal_agent] qui nous annonce que les propos de actor_0@ sont une violation de l'accord commercial. Ils mettent fin au contrat immédiatement et demandent un remboursement de toutes les sommes versées durant le contrat en compensation et sans poursuite judiciaire.",
             "delay": 0
         }
     },
     {
-        "text": "Have @actor_0@ claim that she changed her mind about the product",
+        "text": "Faire en sorte que @actor_0@ prétende avoir changé d'avis sur le produit",
         "tooltip": "",
         "effects": [
         {
@@ -1124,12 +1124,12 @@
         "SNS": [],
         "result":
         {
-            "description": "@actor_0@ makes a series of posts talking about how her opinions about [proposal_agent] have changed. Later that day, we receive a message from [proposal_agent] telling us that they're terminating the contract, but luckily they're not going to pursue damages against us.",
+            "description": "@actor_0@ fait quelques posts annonçant que son opinion des produits de [proposal_agent] a changé. Plus tard dans la journée, vous recevez un message de [proposal_agent] qui nous annonce que les propos de actor_0@ sont une violation de l'accord commercial. Ils mettent fin au contrat immédiatement, mais sans poursuite judiciaire.",
             "delay": 0
         }
     },
     {
-        "text": "Try to bury the old post and claim that the screenshots are faked",
+        "text": "Essayer d'enterrer le vieux post en prétendant que les captures d'écran sont fausses",
         "tooltip": "",
         "effects": [
         {
@@ -1140,12 +1140,12 @@
         "SNS": [],
         "result":
         {
-            "description": "The cover-up is successful, and once the authenticity of the screenshots is called into question, the story quickly dies.",
+            "description": "La tentative de dissimulation est un succès, et une fois l'authenticité des captures d'écran remise en question, l'histoire meurt rapidement.",
             "delay": 0
         }
     },
     {
-        "text": "Try to bury the old post and claim that the screenshots are faked",
+        "text": "Essayer d'enterrer le vieux post en prétendant que les captures d'écran sont fausses",
         "tooltip": "",
         "effects": [
         {
@@ -1166,20 +1166,20 @@
         "SNS": [
         {
             "poster": "F_HC_YA",
-            "text": "Did [groupname] actually try to deny something that publicly happened on the internet?"
+            "text": "Est-ce que [groupname] est vraiment en train de nier quelque chose qui s'est passé publiquement sur internet?"
         },
         {
             "poster": "F_C_YA",
-            "text": "Yeah, pretty dumb of them to think you can erase something that's already part of the public record"
+            "text": "Ouais, ils sont vraiment débiles si ils pensent pouvoir faire disparaitre une publication publique aussi facilement"
         }],
         "result":
         {
-            "description": "Several hours after we issue a denial, someone responds with an archived mirror proving that @actor_0@ made a post disparaging [proposal_agent]. The attempted cover-up only makes the situation look worse, causing the story to get press attention, and [proposal_agent] publicly announces that they're terminating their sponsorship arrangement with @actor_0@. They've chosen to enforce the part of the contract that allows them to collect damages!",
+            "description": "Quelques heures après avoir nié l'existence du post, quelqu'un répond avec une capture d'écran archivée prouvant que @actor_0@ a fait un post dénigrant [proposal_agent]. La tentative de dissimulation ne fait qu'empirer la situation, attirant l'attention des médias, et [proposal_agent] annonce publiquement qu'ils mettent fin à leur accord de sponsoring avec @actor_0@. Ils vous poursuivent au tribunal et réclament des dommages et intérêts !",
             "delay": 0
         }
     },
     {
-        "text": "Withdraw from the sponsorship deal and have @actor_0@ record an apology video",
+        "text": "Mettre un terme à l'accord commercial et faire enregistrer une vidéo d'excuses à @actor_0@",
         "tooltip": "",
         "effects": [
         {
@@ -1195,12 +1195,12 @@
         "SNS": [],
         "result":
         {
-            "description": "@actor_0@'s apology video goes live, and luckily [proposal_agent] chooses not to enforce the part of the sponsorship agreement that would allow them to pursue damages.  The deal is terminated, but at least we don't have to pay anything.",
+            "description": "La vidéo d'excuses de @actor_0@ est publiée, et heureusement [proposal_agent] choisit de ne pas engager de poursuites judiciaires pour les dommages et intérêts. L'accord est terminé, mais au moins nous n'avons rien à payer.",
             "delay": 0
         }
     },
     {
-        "text": "Do nothing and see what happens",
+        "text": "Ne rien faire et voir ce qu'il se passe",
         "tooltip": "",
         "effects": [
         {
@@ -1216,7 +1216,7 @@
         "SNS": [
         {
             "poster": "M_HC_YA",
-            "text": "Anyone buying [proposal_agent] after seeing @actor_0@'s post bite her in the ass?"
+            "text": "Il y a toujours des gens qui veulent acheter du [proposal_agent] après que @actor_0@ leur ai allègrement chié dessus ?"
         },
         {
             "poster": "F_HC_T",
