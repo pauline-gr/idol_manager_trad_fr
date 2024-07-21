@@ -1220,20 +1220,20 @@
         },
         {
             "poster": "F_HC_T",
-            "text": "Yeah, it's actually pretty good"
+            "text": "Ouais, c'est finalement plutôt pas mal"
         },
         {
             "poster": "M_C_A",
-            "text": "I can't believe you people spent money on a meme"
+            "text": "J'en reviens pas que vous ayez dépensé de la thune pour un meme"
         }],
         "result":
         {
-            "description": "The screenshots of @actor_0@'s negative remarks about [proposal_agent] begin to spread and become a viral sensation, as everyone delights in the irony of an idol disparaging something she was paid to endorse.  The viral nature of the post causes [proposal_agent] to become a trending topic online, and a representative from [proposal_agent] has contacted us to say how pleased they are about how @actor_0@ increased consumer awareness for their product.  Did this actually turn out to be a good thing?",
+            "description": "Les captures d'écran des remarques négatives de @actor_0@ sur [proposal_agent] commencent à se répandre et deviennent virales, tout le monde se délectant de l'ironie d'une idole dénigrant quelque chose qu'elle était payée pour promouvoir. La nature virale du post fait de [proposal_agent] une influenceuse tendance. Un représentant de [proposal_agent] nous a contactés pour nous dire à quel point ils sont ravis de la façon dont @actor_0@ a fait grimper la notoriété de leur produit. Était-ce vraiment une bonne chose ?",
             "delay": 0
         }
     },
     {
-        "text": "Do nothing and see what happens",
+        "text": "Ne rien faire et voir ce qu'il se passe",
         "tooltip": "",
         "effects": [
         {
@@ -1249,7 +1249,7 @@
         "SNS": [],
         "result":
         {
-            "description": "Later that day, we receive a message from [proposal_agent] telling us that @actor_0@'s remarks are a violation of her contract. They're terminating the contract, and demanding that all payments they've sent be returned, but they're not pursuing damages.",
+            "description": "Plus tard dans la journée, nous recevons un message de [proposal_agent] nous annonçant que les propos de @actor_0@ sont une violation de l'accord commercial. Ils mettent fin au contrat immédiatement et demandent un remboursement de toutes les sommes versées durant le contrat en compensation et sans poursuite judiciaire.",
             "delay": 0
         }
     }]
@@ -1258,6 +1258,7 @@
     "id": "politician",
     "title": "",
     "description": "A local political candidate <blue>[politician_name]</color> gave a public speech today where he decried \"moral decay in the nation's youth,\" specifically naming [groupname] at one point in the speech.  Apparently, <blue>[politician_name]</color> is running for mayor of a nearby town with a population of less than 10,000 people, and currently he is only a fringe candidate who isn't getting much attention, but someone recorded a video of the speech and it has been circulating on social media.  How should we respond?",
+    "description": "Un politicien local <blue>[politician_name]</color> a donné un discours public aujourd'hui où a dénoncé \"la décadence morale de la jeunesse de la nation,\" nommant spécifiquement [groupname] à un moment du discours. Apparemment, <blue>[politician_name]</color> est candidat à la mairie d'une ville voisine de moins de 10 000 habitants, et actuellement il n'attire pas beaucoup l'attention. Mais quelqu'un a enregistré une vidéo du discours et elle circule sur les réseaux sociaux. Comment devrions-nous réagir?",
     "image": "speech.png",
     "random": true,
     "actors": [],
@@ -1281,12 +1282,12 @@
         "SNS": [],
         "result":
         {
-            "description": "Since <blue>[politician_name]</color> is only a fringe candidate, it's likely that this situation will go away if we simply ignore him.",
+            "description": "Comme <blue>[politician_name]</color> est un politicien méconnu, il est probable que cette situation se calme toute seule si nous l'ignorons.",
             "delay": 0
         }
     },
     {
-        "text": "Don't comment on the situation",
+        "text": "Ne faire aucun commentaire sur la situation",
         "tooltip": "",
         "effects": [
         {
@@ -1297,23 +1298,23 @@
         "SNS": [],
         "result":
         {
-            "description": "Since <blue>[politician_name]</color> is only a fringe candidate, it's likely that this situation will go away if we simply ignore him.",
+            "description": "Comme <blue>[politician_name]</color> est un politicien méconnu, il est probable que cette situation se calme toute seule si nous l'ignorons.",
             "delay": 0
         }
     },
     {
-        "text": "Issue a statement countering <blue>[politician_name]</color>'s claims that [groupname] is a negative influence on the country's youth",
+        "text": "Publier une déclaration contrecarrant les affirmations de <blue>[politician_name]</color> selon lesquelles [groupname] a une mauvaise influence sur les jeunes du pays",
         "tooltip": "",
         "effects": [],
         "SNS": [],
         "result":
         {
-            "description": "Shortly after the statement goes out, legions of fans flock to social media to excoriate <blue>[politician_name]</color> for his remarks, and he issues an apology shortly after.",
+            "description": "Peu de temps après la publication de la déclaration, des légions de fans affluent sur les réseaux sociaux pour critiquer <blue>[politician_name]</color> pour ses remarques. Il présente des excuses peu de temps après.",
             "delay": 0
         }
     },
     {
-        "text": "Issue a statement countering <blue>[politician_name]</color>'s claims that [groupname] is a negative influence on the country's youth",
+        "text": "Publier une déclaration contrecarrant les affirmations de <blue>[politician_name]</color> selon lesquelles [groupname] a une mauvaise influence sur les jeunes du pays",
         "tooltip": "",
         "effects": [
         {
@@ -1334,12 +1335,12 @@
         "SNS": [],
         "result":
         {
-            "description": "Shortly after the statement goes out, legions of fans flock to social media to excoriate <blue>[politician_name]</color> for his remarks.  However, the increased buzz around the video of his campaigning causes his online following to increase.  Most of the new followers just seem to be doing it ironically, however.",
+            "description": "Peu de temps après la publication de la déclaration, des légions de fans affluent sur les réseaux sociaux pour critiquer <blue>[politician_name]</color> pour ses remarques. Cependant, le buzz autour de la vidéo de sa campagne fait augmenter son nombre de followers en ligne. La plupart de ses nouveaux followers semblent le faire de manière ironique.",
             "delay": 0
         }
     },
     {
-        "text": "Create a video mocking <blue>[politician_name]</color>",
+        "text": "Créer une vidéo se moquant de <blue>[politician_name]</color>",
         "tooltip": "",
         "effects": [
         {
@@ -1365,12 +1366,12 @@
         "SNS": [],
         "result":
         {
-            "description": "On a livestream, several of the girls enact a parody of <blue>[politician_name]</color>'s speech, which several people clip and share.  The recording of the livestream becomes more viewed than <blue>[politician_name]</color>'s original speech, and [groupname] becomes a trending topic among blogs and some smaller media outlets for a day.",
+            "description": "Sur un livestream, plusieurs des filles jouent une parodie du discours de <blue>[politician_name]</color>, que plusieurs personnes enregistrent et partagent. Les enregistrements du stream obtiennent bien plus de vues que le discours original de <blue>[politician_name]</color>, et [groupname] devient un sujet tendance parmi les blogs et certains petits médias au cours de la journée.",
             "delay": 0
         }
     },
     {
-        "text": "Create a video mocking <blue>[politician_name]</color>",
+        "text": "Créer une vidéo se moquant de <blue>[politician_name]</color>",
         "tooltip": "",
         "effects": [
         {
@@ -1396,15 +1397,15 @@
         "SNS": [
         {
             "poster": "F_HC_YA",
-            "text": "I'm glad to support the moral decay of our nation's youth!  Viva la [groupname]!"
+            "text": "Je suis contente de soutenir la décadence morale de la jeunesse de notre nation! Vive [groupname]!"
         },
         {
             "poster": "M_HC_YA",
-            "text": "|[groupname] > life, [groupname] > civil society.  If I have to choose between idols and morals, that's an easy choice!"
+            "text": "|[groupname] > la vie, [groupname] > la société civile. Si je dois choisir entre mes idoles préférées et la morale, mon choix est vite fait!"
         }],
         "result":
         {
-            "description": "On a livestream, several of the girls enact a parody of <blue>[politician_name]</color>'s speech, which several people clip and share.  The livestream ends up sending more traffic to the original video, and <blue>[politician_name]</color> issues a statement that the mockery is just another example of idol groups corrupting the nation's culture.",
+            "description": "Sur un livestream, plusieurs des filles jouent une parodie du discours de <blue>[politician_name]</color>, que plusieurs personnes enregistrent et partagent. Le stream finit par reccueillir plus de vues que le discours original, et <blue>[politician_name]</color> publie une déclaration disant que ces diffamations prouvent clairement que les idoles corrompent la culture de la nation.",
             "delay": 0
         }
     }]
@@ -1412,7 +1413,7 @@
 {
     "id": "politician_2",
     "title": "",
-    "description": "<blue>[politician_name]</color> is still on the campaign trail, and apparently he has been getting more attention since we released our [politician_statement_or_video_full].  Some have speculated that our previous [politician_statement_or_video] is actually the cause of the swell in his local support, and <blue>[politician_name]</color> has made a habit of announcing at his rallies that he intends to outlaw idol groups and target <blue>[groupname]</color> specifically.  As a town mayor, he would have no authority to do this, making it a mostly empty threat, but nonetheless, he seems to be stirring up local sentiment against groups like <blue>[groupname]</color>.  Should we do anything?",
+    "description": "<blue>[politician_name]</color> est toujours en campagne, et apparemment il attire plus d'attention depuis que nous avons publié notre [politician_statement_or_video_full]. Certains pensent que notre précédente [politician_statement_or_video] est à l'origine de l'augmentation de son soutien local, et <blue>[politician_name]</color> a pris l'habitude d'annoncer lors de ses rassemblements qu'il a l'intention d'interdire les groupes d'idoles et de cibler en priorité <blue>[groupname]</color>. En tant que maire de ville, il n'aurait pas l'autorité pour le faire, c'est une menace en l'air, mais néanmoins, il attise la haine contre des groupes comme <blue>[groupname]</color>. Devrions-nous faire quelque chose?",
     "image": "speech.png",
     "random": false,
     "actors": [],
@@ -1427,11 +1428,12 @@
         "result":
         {
             "description": "Publicly acknowledging <blue>[politician_name]</color> will only give him more attention.  It's probably best to let this die quietly.",
+            "description": "Communiquer publiquement à propos de <blue>[politician_name]</color> ne fera que lui donner plus d'attention. Il est préférable de laisser les choses s'estomper tranquillement.",
             "delay": 0
         }
     },
     {
-        "text": "Make a statement explaining the benefit of idol groups to the country's culture and economy",
+        "text": "Faire une déclaration expliquant les bénéfices des groupes d'idoles pour la culture et l'économie du pays",
         "tooltip": "",
         "effects": [
         {
@@ -1442,12 +1444,12 @@
         "SNS": [],
         "result":
         {
-            "description": "One of our staffers crafts a statement that refutes <blue>[politician_name]</color>'s specific criticism of <blue>[groupname]</color>.  The statement seems to go mostly unnoticed by the mainstream media.",
+            "description": "Un de nos employés rédige une déclaration qui réfute les critiques spécifiques de <blue>[politician_name]</color> à l'encontre de <blue>[groupname]</color>. La déclaration semble passer inaperçue des médias grand public.",
             "delay": 0
         }
     },
     {
-        "text": "Encourage fans to keep mocking him",
+        "text": "Encourager les fans à continuer de se moquer de lui",
         "tooltip": "",
         "effects": [
         {
@@ -1463,28 +1465,28 @@
         "SNS": [
         {
             "poster": "F_C_A",
-            "text": "If <blue>[politician_name]</color> actually believes that [groupname] is evil, he should know that publicly denouncing them is only going to make them more popular."
+            "text": "Si <blue>[politician_name]</color> n'aime vraiment pas [groupname], il devrait savoir que les attaquer publiquement ne fera que leur donner plus de visibilité."
         },
         {
             "poster": "M_C_A",
-            "text": "He's just doing it because he knows that's what will get attention.  [groupname] is doing the same thing, too.  And it's hilarious."
+            "text": "Il le fait juste parce qu'il sait que c'est ce qui va attirer l'attention. [groupname] fait la même chose, d'ailleurs. Et c'est hilarant."
         },
         {
             "poster": "F_HC_A",
-            "text": "|Anyone think that <blue>[politician_name]</color> kind of looks like a Hanna-Barbera character?"
+            "text": "|Vous ne trouvez pas que <blue>[politician_name]</color> ressemble à un personnage de Hanna-Barbera?"
         },
         {
             "poster": "M_HC_T",
-            "text": "what the heck is a hanna barbara"
+            "text": "qu'est-ce que c'est que ça hanna barbara ??"
         }],
         "result":
         {
-            "description": "<blue>[politician_name]</color> is an easy target for jokes.  [groupname] fans have already started making edits of videos intended to make him look ridiculous, and egging them on only increases the mockery.",
+            "description": "<blue>[politician_name]</color> est une cible facile pour les blagues. Les fans de [groupname] ont déjà commencé à créer des vidéos pour le ridiculiser, et les encourager ne fait qu'accroître les moqueries à son sujet.",
             "delay": 0
         }
     },
     {
-        "text": "Encourage fans to keep mocking him",
+        "text": "Encourager les fans à continuer de se moquer de lui",
         "tooltip": "",
         "effects": [
         {
@@ -1500,23 +1502,23 @@
         "SNS": [
         {
             "poster": "F_C_A",
-            "text": "If <blue>[politician_name]</color> actually believes that [groupname] is evil, he should know that publicly denouncing them is only going to make them more popular."
+            "text": "Si <blue>[politician_name]</color> n'aime vraiment pas [groupname], il devrait savoir que les attaquer publiquement ne fera que leur donner plus de visibilité."
         },
         {
             "poster": "M_C_A",
-            "text": "He's just doing it because he knows that's what will get attention.  [groupname] is doing the same thing, too.  And it's hilarious."
+            "text": "Il le fait juste parce qu'il sait que c'est ce qui va attirer l'attention. [groupname] fait la même chose, d'ailleurs. Et c'est hilarant."
         },
         {
             "poster": "F_HC_A",
-            "text": "|Anyone think that <blue>[politician_name]</color> kind of looks like a Hanna-Barbera character?"
+            "text": "|Vous ne trouvez pas que <blue>[politician_name]</color> ressemble à un personnage de Hanna-Barbera?"
         },
         {
             "poster": "M_HC_T",
-            "text": "what the heck is a hanna barbara"
+            "text": "qu'est-ce que c'est que ça hanna barbara ??"
         }],
         "result":
         {
-            "description": "<blue>[politician_name]</color> is an easy target for jokes.  [groupname] fans have already started making edits of videos intended to make him look ridiculous, and egging them on only increases the mockery.",
+            "description": "<blue>[politician_name]</color> est une cible facile pour les blagues. Les fans de [groupname] ont déjà commencé à créer des vidéos pour le ridiculiser, et les encourager ne fait qu'accroître les moqueries à son sujet.",
             "delay": 0
         }
     }]
@@ -1525,13 +1527,14 @@
     "id": "politician_3a",
     "title": "",
     "description": "<blue>[politician_name]</color> recently won the election he was running in. Being that he's mayor of a small town with a population of only several thousand people, he can't have any real impact on [groupname], but his victory has started a national conversation about whether [groupname] was responsible for increasing his popularity by engaging him online, and whether idol groups could have an effect on future political campaign.",
+    "description": "<blue>[politician_name]</color> a récemment remporté l'élection à laquelle il se présentait. Étant donné qu'il est maire d'une petite ville de seulement quelques milliers d'habitants, il ne peut pas avoir d'impact réel sur <blue>[groupname]</color>, mais sa victoire a lancé une conversation nationale sur le fait que <blue>[groupname]</color> serait responsable de l'augmentation de sa popularité en s'engageant en ligne, et sur le fait que les groupes d'idoles pourraient avoir un impact sur les campagnes politiques.",
     "image": "speech.png",
     "random": false,
     "actors": [],
     "conditions": [],
     "options": [
     {
-        "text": "Okay",
+        "text": "D'accord",
         "tooltip": "",
         "effects": [
         {
@@ -1542,15 +1545,15 @@
         "SNS": [
         {
             "poster": "F_C_YA",
-            "text": "I wonder who the next politician to publicly condemn idol groups will be"
+            "text": "Je me demande qui sera le prochain politicien à attaquer publiquement des groupes d'idoles"
         },
         {
             "poster": "M_C_T",
-            "text": "haha <blue>[politician_name]</color> actually won, get rekt [groupname] fans, your favorite idol group is going to become illegal"
+            "text": "haha <blue>[politician_name]</color> a gagné, dans vos gueules fans de <blue>[groupname]</color>, votre groupe d'idiotes préféré va devenir illégal !!"
         },
         {
             "poster": "F_C_A",
-            "text": "|I don't think he can actually do that..."
+            "text": "|Ça m'étonnerait qu'il puisse vraiment faire ça..."
         }],
         "result":
         {
@@ -1562,14 +1565,14 @@
 {
     "id": "politician_3b",
     "title": "",
-    "description": "Apparently, <blue>[politician_name]</color> lost the local election he was running in, failing to get even 10% support.  The election actually happened several weeks ago, and nobody noticed it until a bored staffer happened to look him up.",
+    "description": "Apparemment, <blue>[politician_name]</color> a perdu l'élection locale à laquelle il se présentait, n'ayant même pas obtenu 10% des voix. En fait l'élection a déjà eu lieu il y a plusieurs semaines, mais personne ne l'avait remarqué jusqu'à ce qu'un de nos employé ait eu l'idée de le chercher pendant sa pause café.",
     "image": "speech.png",
     "random": false,
     "actors": [],
     "conditions": [],
     "options": [
     {
-        "text": "Okay",
+        "text": "D'accord",
         "tooltip": "",
         "effects": [],
         "SNS": [],
@@ -1583,7 +1586,7 @@
 {
     "id": "unfortunate_billboard",
     "title": "",
-    "description": "Uh oh! Due to unfortunate placement, a prominent billboard featuring @actor_0@ makes it look like she's reacting to the unrelated billboard next to it. The billboard in question is of a popular male actor advertising his new tv drama about swimmers. @actor_0@ looks like she's enchanted by him.\n\nThis issue was brought to attention after multiple photos of it were shared on social media with funny captions.\n\nHow should we respond?",
+    "description": "Oh oh! En raison de son positionnement, un panneau publicitaire particulièrement visible avec @actor_0@ donne l'impression qu'elle réagit au panneau d'affichage voisin qui n'a rien à voir. Le panneau en question est celui d'un acteur populaire faisant la promotion de sa nouvelle série télévisée sur les nageurs. @actor_0@ semble enchantée par lui.\n\nCe problème a été remonté après que plusieurs photos aient été partagées sur les réseaux sociaux avec des légendes amusantes.\n\nComment devrions-nous réagir?",
     "image": "billboard.png",
     "random": true,
     "actors": [
@@ -1600,7 +1603,7 @@
     "effects": [],
     "options": [
     {
-        "text": "Do nothing",
+        "text": "Ne rien faire",
         "tooltip": "",
         "effects": [
         {
@@ -1616,28 +1619,28 @@
         "SNS": [
         {
             "poster": "M_C_T",
-            "text": "The memes coming out of this are absolute gold! lol!"
+            "text": "Les memes là dessus sont INCROYABLES! lol!"
         },
         {
             "poster": "F_HC_A",
-            "text": "Yeah, I've seen some really funny edits."
+            "text": "Ouais, j'en ai vu des vraiment trop drôles."
         },
         {
             "poster": "F_C_T",
-            "text": "|Omg, her expression! I can't!"
+            "text": "|Omg, son expression! Je ne peux plus!"
         },
         {
             "poster": "M_HC_T",
-            "text": "|Swimmer dude, leave [actor_0] alone! lol!"
+            "text": "|Hé toi le nageur, pas touche à [actor_0]! lol!"
         }],
         "result":
         {
-            "description": "Besides a niche online news outlet doing a story on it, nothing more comes of the billboard.",
+            "description": "Mis à part un média en ligne de niche qui en fait un article, rien de plus ne se passe.",
             "delay": 0
         }
     },
     {
-        "text": "Have @actor_0@ post a joke about it on her social media",
+        "text": "Faire en sorte que @actor_0@ poste une blague à ce sujet sur ses réseaux sociaux",
         "tooltip": "",
         "effects": [
         {
@@ -1658,28 +1661,28 @@
         "SNS": [
         {
             "poster": "M_HC_YA",
-            "text": "Lol, [actor_0] actually responded to the memes, the absolute mad ladette!"
+            "text": "Mdr, [actor_0] a vraiment répondu aux memes, la ouf!"
         },
         {
             "poster": "F_HC_YA",
-            "text": "|I'm glad [actor_0] approves the memes."
+            "text": "|Je suis content que [actor_0] s'amuse de nos memes."
         },
         {
             "poster": "F_C_A",
-            "text": "I wonder how many of them she's seen floating around."
+            "text": "Je me demande combien elle en a vu circuler."
         },
         {
             "poster": "F_HC_T",
-            "text": "I hope she didn't see some of the steamier ones! :O"
+            "text": "J'espère qu'elle n'a pas vu les plus chauds! :O"
         }],
         "result":
         {
-            "description": "@actor_0@ makes her own caption for the billboard photos and posts it online.",
+            "description": "@actor_0@ crée son propre meme à propos des panneaux d'affichage et le poste en ligne.",
             "delay": 0
         }
     },
     {
-        "text": "Have the billboard taken down",
+        "text": "Faire en sorte que le panneau d'affichage soit retiré",
         "tooltip": "",
         "effects": [
         {
@@ -1690,19 +1693,19 @@
         "SNS": [
         {
             "poster": "F_HC_A",
-            "text": "Looks like the billboard's gone."
+            "text": "On dirait que le panneau d'affichage a disparu."
         },
         {
             "poster": "F_C_YA",
-            "text": "The billboard may be gone, but the memories (and photos) will live on."
+            "text": "Le panneau d'affichage a peut-être disparu, mais les souvenirs (et les photos) resteront."
         },
         {
             "poster": "M_HC_T",
-            "text": "No fun allowed, apparently. Welp, it was fun while it lasted."
+            "text": "On a pas le droit de s'amuser apparemment. Tant pis, c'était marrant tant que ça a duré."
         }],
         "result":
         {
-            "description": "After making some calls, the billboard is quickly taken down.",
+            "description": "Après quelques appels, le panneau d'affichage est rapidement retiré.",
             "delay": 0
         }
     }]
@@ -1710,7 +1713,7 @@
 {
     "id": "mistake_in_period_drama",
     "title": "",
-    "description": "Oh dear! In an episode of the historic period drama [proposal_product], @actor_0@ was seen wearing an anachronistic label poking out of her hat in one of her scenes! Screenshots of it were shared like wildfire on social media.\n\nShould @actor_0@ do anything about this?",
+    "description": "Nom de nom! Dans un épisode de la série historique [proposal_product], @actor_0@ a été vue portant une étiquette anachronique dépassant de son chapeau! Des captures d'écran ont été partagées comme une traînée de poudre sur les réseaux sociaux.\n\nQue devrait faire @actor_0@?",
     "image": "period_hat.png",
     "random": true,
     "actors": [
@@ -1727,7 +1730,7 @@
     "effects": [],
     "options": [
     {
-        "text": "Say nothing about the incident",
+        "text": "Ne faire aucun commentaire à propos de l'incident",
         "tooltip": "",
         "effects": [
         {
@@ -1738,24 +1741,24 @@
         "SNS": [
         {
             "poster": "F_HC_T",
-            "text": "That label in her hat, lol"
+            "text": "Cette étiquette sur son chapeau, lol"
         },
         {
             "poster": "M_C_T",
-            "text": "Maybe her character's a time-traveller! XD"
+            "text": "Peut-être que son personnage est une voyageuse temporelle! XD"
         },
         {
             "poster": "F_HC_YA",
-            "text": "I saw fan art of her character going to a shopping mall, drinking bubble tea. It looked great!"
+            "text": "J'ai vu un fan art de son personnage allant dans un centre commercial, buvant du bubble tea. C'était génial!"
         }],
         "result":
         {
-            "description": "Let's not mention it. Talking about it will only draw more attention.",
+            "description": "N'abordons pas le sujet. En parler ne fera qu'attirer plus d'attention.",
             "delay": 0
         }
     },
     {
-        "text": "Have @actor_0@ make a joke about it on social media",
+        "text": "Faire en sorte que @actor_0@ fasse une blague à ce sujet sur les réseaux sociaux",
         "tooltip": "",
         "effects": [
         {
@@ -1771,24 +1774,24 @@
         "SNS": [
         {
             "poster": "F_HC_T",
-            "text": "Omg, @actor_0@ commented on the label screenshot, this is not a drill!"
+            "text": "Omg, @actor_0@ a commenté sur la capture d'écran de l'étiquette, pour de vrai!"
         },
         {
             "poster": "M_C_T",
-            "text": "Where did she comment on it? Links or it didn't happen."
+            "text": "Où a-t-elle commenté? Je te crois pas, envoie un lien!"
         },
         {
             "poster": "M_HC_YA",
-            "text": "I'm glad she was cool with it."
+            "text": "Ça fait plaisir qu'elle en rigole."
         }],
         "result":
         {
-            "description": "The situation doesn't seem that serious. Sometimes it's best to have some levity.",
+            "description": "La situation ne semble pas si sérieuse. Parfois, il est préférable de garder un peu de légèreté.",
             "delay": 0
         }
     },
     {
-        "text": "Have @actor_0@ acknowledge the issue on social media",
+        "text": "Faire en sorte que @actor_0@ s'excuse du problème sur les réseaux sociaux",
         "tooltip": "",
         "effects": [
         {
@@ -1799,19 +1802,20 @@
         "SNS": [
         {
             "poster": "F_C_A",
-            "text": "[actor_0] said sorry about the label mistake on her account."
+            "text": "[actor_0] s'est excusée pour l'étiquette sur son chapeau sur son compte."
         },
         {
             "poster": "M_HC_YA",
-            "text": "I think it was more a mistake on the costume and makeup artists, rather than [actor_0]."
+            "text": "Je pense que c'était plus une erreur des costumiers et des maquilleurs, plutôt que de [actor_0]."
         },
         {
             "poster": "M_C_T",
-            "text": "I mean, couldn't she have just spotted the mistake herself? I'm sure there would be mirrors around. And it's kind of her job to look good on set."
+            "text": "Je veux dire, elle n'aurait pas pu repérer l'erreur elle-même? Je suis sûr qu'il y a des miroirs partout. Et c'est un peu son taf de faire attention à son apparence sur le plateau."
         }],
         "result":
         {
             "description": "@actor_0@ writes a plain and inoffensive statement that comes across as vaguely apologetic, without accepting or casting any blame for the situation. Nobody seems bothered.",
+            "description": "@actor_0@ a écrit une petite déclaration où elle s'excuse vaguement, sans accepter ou rejeter la faute de la situation. Personne ne semble s'en soucier.",
             "delay": 0
         }
     }]
@@ -1819,7 +1823,7 @@
 {
     "id": "cd_cover_leak",
     "title": "",
-    "description": "The CD cover design for the studio's latest single has been leaked on social media. Fan reactions to it have been mixed to negative, generally not liking the design.\n\nWhat should be done?",
+    "description": "La pochette du CD pour le dernier single du studio a été divulguée sur les réseaux sociaux. Les réactions des fans ont été mitigées à négatives, globalement ils n'aiment pas le design.\n\nQue devrions-nous faire?",
     "image": "cover_misprint.png",
     "random": true,
     "actors": [],
@@ -1831,21 +1835,21 @@
     "effects": [],
     "options": [
     {
-        "text": "Ignore it, and release the CD as is",
+        "text": "Ignorer les commentaires et publier le CD tel quel",
         "tooltip": "",
         "effects": [],
         "SNS": [
         {
             "poster": "M_C_YA",
-            "text": "Well, [groupname]'s CD art is just as underwhelming as I thought."
+            "text": "Eh ben, la pochette du CD de [groupname] est aussi décevante que prévu."
         },
         {
             "poster": "F_C_YA",
-            "text": "Why didn't they hire a proper artist? lol"
+            "text": "Pourquoi n'ont-ils pas engagé un vrai graphiste? lol"
         },
         {
             "poster": "F_C_YA",
-            "text": "|everyone talking about the [groupname] CD cover and not the actual music"
+            "text": "|tout le monde parle de la pochette du CD de [groupname] et pas de la musique en elle-même"
         }],
         "result":
         {
