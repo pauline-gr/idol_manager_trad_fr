@@ -1814,7 +1814,6 @@
         }],
         "result":
         {
-            "description": "@actor_0@ writes a plain and inoffensive statement that comes across as vaguely apologetic, without accepting or casting any blame for the situation. Nobody seems bothered.",
             "description": "@actor_0@ a écrit une petite déclaration où elle s'excuse vaguement, sans accepter ou rejeter la faute de la situation. Personne ne semble s'en soucier.",
             "delay": 0
         }
@@ -1823,7 +1822,7 @@
 {
     "id": "cd_cover_leak",
     "title": "",
-    "description": "La pochette du CD pour le dernier single du studio a été divulguée sur les réseaux sociaux. Les réactions des fans ont été mitigées à négatives, globalement ils n'aiment pas le design.\n\nQue devrions-nous faire?",
+    "description": "La pochette du CD pour le dernier single du studio a leak sur les réseaux sociaux. Les réactions des fans ont été mitigées à négatives, globalement ils n'aiment pas le design.\n\nQue devrions-nous faire?",
     "image": "cover_misprint.png",
     "random": true,
     "actors": [],
@@ -1845,7 +1844,7 @@
         },
         {
             "poster": "F_C_YA",
-            "text": "Pourquoi n'ont-ils pas engagé un vrai graphiste? lol"
+            "text": "Pourquoi n'ont-ils pas engagé un vrai designer? lol"
         },
         {
             "poster": "F_C_YA",
@@ -1853,12 +1852,12 @@
         }],
         "result":
         {
-            "description": "Let's carry on as planned with the cover design.",
+            "description": "Continuons comme prévu avec le design de la pochette.",
             "delay": 0
         }
     },
     {
-        "text": "Hire a new designer to quickly create a new cover",
+        "text": "Engager un nouveau designer pour refaire la pochette du CD",
         "tooltip": "-[yen]50,000",
         "effects": [
         {
@@ -1869,23 +1868,23 @@
         "SNS": [
         {
             "poster": "M_HC_T",
-            "text": "Oh, cool! The CD cover looks great!"
+            "text": "Oh, cool! La pochette du CD est super!"
         },
         {
             "poster": "M_C_YA",
-            "text": "|I know I'm in the minority, but I kinda liked the old design better."
+            "text": "|Je sais que je suis en minorité, mais j'aimais bien l'ancien design."
         },
         {
             "poster": "F_HC_T",
-            "text": "|How did [groupname] change the design so quickly?!"
+            "text": "|Comment [groupname] ont-ils réussi à changer le design aussi vite ?!"
         },
         {
             "poster": "F_HC_A",
-            "text": "Occam's Razor here, but... maybe the leak was fake?"
+            "text": "Je suis pas complotiste, mais... Le leak serait pas intentionnel ?"
         }],
         "result":
         {
-            "description": "An artist is quickly hired to redo the CD cover art with a completely new design.\n\nThe updated design received a much better reception.",
+            "description": "Un artiste est rapidement engagé pour refaire la pochette du CD avec un design complètement nouveau.\n\nLe nouveau design reçoit un bien meilleur accueil que le précédent.",
             "delay": 0
         }
     }]
@@ -1893,7 +1892,7 @@
 {
     "id": "photo_edit_fail",
     "title": "",
-    "description": "A poster design released for tv drama @actor_0@ is cast in.\n\nUnfortunately, the photo of @actor_0@ used in the poster was heavily doctored and has a really goofy-looking mistake: @actor_0@'s arms look absurdly-long.\n\nThe poster is being mocked on social media.\n\nWhat should you do?",
+    "description": "Un design d'affiche pour la série @actor_0@ a été publié.\n\nMalheureusement, la photo de @actor_0@ utilisée pour l'affiche a été énormément retouchée et contient un détail vraiment ridicule: les bras de @actor_0@ semblent anormalement longs.\n\nTout le monde se moque de l'affiche sur les réseaux sociaux.\n\nQue devriez-vous faire?",
     "image": "poster.png",
     "random": true,
     "actors": [
@@ -1910,7 +1909,7 @@
     "effects": [],
     "options": [
     {
-        "text": "Ignore it",
+        "text": "Ignorer la polémique",
         "tooltip": "",
         "effects": [
         {
@@ -1921,20 +1920,20 @@
         "SNS": [
         {
             "poster": "F_HC_T",
-            "text": "LMAO [actor_0]'s arms! What happened?!"
+            "text": "LOOOL les bras de [actor_0]! WTF?!"
         },
         {
             "poster": "M_C_T",
-            "text": "And the award for worst photo edit fail goes to [actor_0]."
+            "text": "Et le prix du pire échec de retouche photo revient à [actor_0]."
         }],
         "result":
         {
-            "description": "Things move fast on the internet. Hopefully, something else will pull people's attention away from this eventually.",
+            "description": "Les choses vont vite sur internet. Espérons qu'autre chose attirera l'attention des gens et fera oublier cette histoire.",
             "delay": 0
         }
     },
     {
-        "text": "Have @actor_0@ make a joke about it on social media",
+        "text": "Faire en sorte que @actor_0@ fasse une blague à ce sujet sur les réseaux sociaux",
         "tooltip": "",
         "effects": [
         {
@@ -1955,24 +1954,24 @@
         "SNS": [
         {
             "poster": "M_HC_T",
-            "text": "[actor_0] poking fun at herself gives me life."
+            "text": "[actor_0] et son autodérision, j'adore !"
         },
         {
             "poster": "M_HC_YA",
-            "text": "|[actor_0] FTW"
+            "text": "|[actor_0] t'es la meilleure !"
         },
         {
             "poster": "M_HC_A",
-            "text": "well at least they're not acting like it didn't happen. still looks goofy as hell"
+            "text": "Au moins, ils ne font pas comme si ça n'était pas arrivé. Ça reste ridicule."
         }],
         "result":
         {
-            "description": "@actor_0@ posts a screenshot of the poster with an amusing caption.",
+            "description": "@actor_0@ poste une capture d'écran de l'affiche avec une légende amusante.",
             "delay": 0
         }
     },
     {
-        "text": "Have @actor_0@ stay off of social media for a day",
+        "text": "Faire en sorte que @actor_0@ n'aille pas sur les réseaux sociaux aujourd'hui",
         "tooltip": "",
         "effects": [
         {
@@ -1983,20 +1982,20 @@
         "SNS": [
         {
             "poster": "M_HC_T",
-            "text": "Wow. Those arms though. WTF"
+            "text": "Wow. Ces bras, sérieux. WTF"
         },
         {
             "poster": "F_HC_A",
-            "text": "|This is why you should pay your artists well."
+            "text": "|C'est pour ça qu'il faut bien payer ses artistes."
         }],
         "result":
         {
-            "description": "Stay off the internet for a day and it'll all blow over.",
+            "description": "Ne pas aller sur les réseaux sociaux pendant une journée et tout sera oublié.",
             "delay": 0
         }
     },
     {
-        "text": "Demand that the show's marketing team release a new poster",
+        "text": "Demander à l'équipe marketing de la série de sortir une nouvelle affiche",
         "tooltip": "",
         "effects": [
         {
@@ -2012,19 +2011,19 @@
         "SNS": [
         {
             "poster": "F_HC_A",
-            "text": "They fixed the poster art. [actor_0]'s arms are now... her actual arms."
+            "text": "Ils ont corrigé l'affiche. Les bras de [actor_0] sont maintenant... ses vrais bras."
         },
         {
             "poster": "M_C_YA",
-            "text": "Great. If only they didn't mess up the poster design in the first place. -_-"
+            "text": "Super. Si seulement ils n'avaient pas foiré le design de l'affiche dès le départ. -_-"
         },
         {
             "poster": "M_HC_YA",
-            "text": "The original poster was hilarious though, not gonna lie."
+            "text": "L'affiche originale était hilarante, je ne vais pas mentir."
         }],
         "result":
         {
-            "description": "The TV drama producers agree, and an editor is hired to fix @actor_0@'s arms in the poster.",
+            "description": "Les producteurs de la série sont d'accord, et un éditeur est engagé pour corriger les bras de [actor_0] sur l'affiche.",
             "delay": 0
         }
     }]
@@ -2032,7 +2031,7 @@
 {
     "id": "tv_drama_had_a_dumb_twist",
     "title": "",
-    "description": "The latest episode of the TV drama @actor_0@ was cast in had a season finale plot twist that has left critics and fans scratching their heads, and not in a good way.\n\n@actor_0@ was a key character involved in the twist, so a lot of fans' reactions are directed at her.\n\nWhat should we do about this?",
+    "description": "Le dernier épisode de la série @actor_0@ a été diffusé, et il a eu un plot twist de fin de saison qui a laissé les critiques et les fans perplexes, et pas de la bonne manière.\n\n@actor_0@ était un personnage clé impliqué dans le twist, donc beaucoup de réactions des fans lui sont directement adressées.\n\nQue devrions-nous faire à ce sujet?",
     "image": "thread.png",
     "random": true,
     "actors": [
@@ -2060,24 +2059,24 @@
         "SNS": [
         {
             "poster": "F_C_T",
-            "text": "Welp. Now I need a new show to watch. That was terrible."
+            "text": "Pfff. Maintenant, il me faut une nouvelle série à regarder. C'était décevant."
         },
         {
             "poster": "F_C_A",
-            "text": "Yeah, that twist was so frustrating. It really left more questions than answers."
+            "text": "Ouais, ce plot twist était tellement frustrant. Il pose plus de questions qu'il n'apporte de réponses."
         },
         {
             "poster": "M_HC_T",
-            "text": "It also just... didn't make sense?! Or course she wasn't the villain's sister! WTF"
+            "text": "Vous pensez vraiment que... ça n'a aucun sens?! Bien sûr qu'elle n'était pas la soeur du méchant! WTF"
         }],
         "result":
         {
-            "description": "The TV show's production is ultimately out of our hands. Hopefully this all works out for the best.",
+            "description": "Les producteurs de la série s'occuperont du reste. Espérons que tout se passe pour le mieux.",
             "delay": 0
         }
     },
     {
-        "text": "Defend @actor_0@ in an official statement, saying that she wasn't involved in the episode's writing",
+        "text": "Défendre @actor_0@ dans une déclaration officielle, en disant qu'elle n'était pas impliquée dans l'écriture de l'épisode",
         "tooltip": "",
         "effects": [
         {
@@ -2093,28 +2092,28 @@
         "SNS": [
         {
             "poster": "M_HC_T",
-            "text": "Couldn't [actor_0] have at least told the writer that the script was terrible?"
+            "text": "Est-ce que [actor_0] n'aurait pas pu dire au scénariste que le script était nul?"
         },
         {
             "poster": "F_C_YA",
-            "text": "lol, that's not her job!"
+            "text": "lol, c'est pas son boulot!"
         },
         {
             "poster": "F_C_T",
-            "text": "|Why is [actor_0] throwing the writers under the bus?"
+            "text": "|Pourquoi [actor_0] rejette la faute sur les scénaristes?"
         },
         {
             "poster": "F_HC_YA",
-            "text": "Uh...because they're the ones responsible?"
+            "text": "Hum... parce que ce sont eux les responsables?"
         }],
         "result":
         {
-            "description": "Sometimes, it's hard to separate the actor from the writing. Let's make it clearer to the public that @actor_0@ didn't write the script.",
+            "description": "Parfois, c'est compliqué de dissocier l'acteur de l'écriture. Rappelons au public que [actor_0] n'a pas écrit le script.",
             "delay": 0
         }
     },
     {
-        "text": "Have @actor_0@ record a video thanking the fans for sharing their \"passionate opinions\" online",
+        "text": "Faire en sorte que @actor_0@ enregistre une vidéo remerciant les fans d'avoir partagé leurs \"opinions passionnées\" en ligne",
         "tooltip": "",
         "effects": [
         {
@@ -2135,19 +2134,19 @@
         "SNS": [
         {
             "poster": "F_HC_YA",
-            "text": "Okay, you really screwed up if even your actors are complaining about your show's plot twists."
+            "text": "Ok, vous avez vraiment foiré si même vos acteurs se plaignent des rebondissements de votre série."
         },
         {
             "poster": "M_HC_T",
-            "text": "|I love [actor_0]. She's right, and she should say it!"
+            "text": "|J'adore [actor_0]. Elle a raison, et elle doit le dire!"
         },
         {
             "poster": "M_C_YA",
-            "text": "I just really hope the network doesn't penalize her for the video."
+            "text": "J'espère juste que la chaîne ne la pénalisera pas pour sa vidéo."
         }],
         "result":
         {
-            "description": "@actor_0@ delivers her remarks, and most fans seem to believe that she's subtly implying her agreement with the outrage surrounding the controversial episode. This seems to drive a small swell in support for her.",
+            "description": "@actor_0@ fait ses remarques sur l'épisode, et la plupart des fans semblent croire qu'elle sous-entend son accord avec l'indignation entourant l'épisode controversé. Cela semble entraîner une petite vague de soutien pour elle.",
             "delay": 0
         }
     }]
@@ -2155,7 +2154,7 @@
 {
     "id": "drunken_karaoke",
     "title": "",
-    "description": "@actor_0@ spent the evening at a family party drinking. It was a small, private celebration, but photos have leaked out of her acting rowdy while she was singing karaoke, and those photos have begun to circulate online. @actor_0@ had been drinking, but had not broken any laws.\n\nWhat do you do?",
+    "description": "@actor_0@ a passé la soirée en famille à faire la fête et à boire. C'était un petit évènement privé, mais des photos ont fuité d'elle en train de chanter au karaoke, et ces photos ont commencé à circuler en ligne. @actor_0@ avait bu, mais n'a enfreint aucune loi.\n\nQue devrions-nous faire?",
     "image": "karaoke.png",
     "random": true,
     "actors": [
@@ -2172,7 +2171,7 @@
     "effects": [],
     "options": [
     {
-        "text": "Do nothing",
+        "text": "Ne rien faire",
         "tooltip": "",
         "effects": [
         {
@@ -2222,7 +2221,7 @@
         "SNS": [
         {
             "poster": "F_HC_A",
-            "text": "I'm weirded out that some \"fan\" posted photos of [actor_0] without her permission like that."
+            "text": "Je suis dégoûtée qu'un \"fan\" ait posté des photos de [actor_0] sans sa permission."
         },
         {
             "poster": "M_C_T",
